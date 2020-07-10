@@ -73,8 +73,8 @@ def fetch_releases(oauth_token):
                 releases.append(
                     {
                         "fullname": repo["fullname"],
-                        "repo": repo["name"],
-                        .strip(),
+                        "release": repo["releases"]["nodes"][0]["name"]
+                        .replace(repo["name"], "")
                         "published_at": repo["releases"]["nodes"][0][
                             "publishedAt"
                         ].split("T")[0],
