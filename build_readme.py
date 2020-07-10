@@ -34,6 +34,7 @@ query {
       }
       nodes {
         nameWithOwner
+        name
         releases(last:1) {
           totalCount
           nodes {
@@ -69,7 +70,7 @@ def fetch_releases(oauth_token):
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
-                repo_names.add(repo["name"])
+                repo_names.add(repo["nameWithOwner"])
                 releases.append(
                     {
                         "nameWithOwner": repo["nameWithOwner"],
