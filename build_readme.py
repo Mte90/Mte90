@@ -27,13 +27,14 @@ def make_query(after_cursor=None):
     return """
 query {
   viewer {
-    repositories(first: 100, privacy: PUBLIC, after:AFTER) {
+    repositories(first: 200, privacy: PUBLIC, after:AFTER) {
       pageInfo {
         hasNextPage
         endCursor
       }
       nodes {
         name
+        username
         releases(last:1) {
           totalCount
           nodes {
@@ -72,6 +73,7 @@ def fetch_releases(oauth_token):
                 repo_names.add(repo["name"])
                 releases.append(
                     {
+                        "user": repo["username"],
                         "repo": repo["name"],
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
@@ -107,7 +109,7 @@ if __name__ == "__main__":
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
-            "* [{repo} {release}]({url}) - {published_at}".format(**release)
+            "* [{username}/{repo} {release}]({url}) - {published_at}".format(**release)
             for release in releases[:5]
         ]
     )
