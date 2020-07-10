@@ -33,7 +33,7 @@ query {
         endCursor
       }
       nodes {
-        fullname
+        nameWithOwner
         releases(last:1) {
           totalCount
           nodes {
@@ -72,7 +72,7 @@ def fetch_releases(oauth_token):
                 repo_names.add(repo["name"])
                 releases.append(
                     {
-                        "fullname": repo["fullname"],
+                        "nameWithOwner": repo["nameWithOwner"],
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "").strip(),
                         "published_at": repo["releases"]["nodes"][0][
@@ -106,7 +106,7 @@ if __name__ == "__main__":
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
-            "* [{fullname} {release}]({url}) - {published_at}".format(**release)
+            "* [{nameWithOwner} {release}]({url}) - {published_at}".format(**release)
             for release in releases[:5]
         ]
     )
