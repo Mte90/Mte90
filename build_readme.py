@@ -12,7 +12,7 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
-TOKEN = os.environ.get("MTE90_TOKEN", "")
+TOKEN = os.environ.get("MTE90_TOKEN", "e978921259e5bd09d766674218b897987ca5e0e4")
 
 
 def replace_chunk(content, marker, chunk):
@@ -54,9 +54,7 @@ query {
 
 
 def fetch_releases(oauth_token):
-    repos = []
     releases = []
-    repo_names = set()
     has_next_page = True
     after_cursor = None
 
@@ -65,21 +63,13 @@ def fetch_releases(oauth_token):
             query=make_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
-        print()
-        print(json.dumps(data, indent=4))
-        print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
-            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
-                repos.append(repo)
-                repo_names.add(repo["nameWithOwner"])
+            if repo["releases"]["totalCount"]:
                 releases.append(
                     {
                         "nameWithOwner": repo["nameWithOwner"],
-                        "release": repo["releases"]["nodes"][0]["name"]
-                        .replace(repo["name"], "").strip(),
-                        "published_at": repo["releases"]["nodes"][0][
-                            "publishedAt"
-                        ].split("T")[0],
+                        "release": repo["releases"]["nodes"][0]["name"].replace(repo["name"], "").strip(),
+                        "published_at": repo["releases"]["nodes"][0]["publishedAt"].replace('-','/').split("T")[0],
                         "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
@@ -87,6 +77,8 @@ def fetch_releases(oauth_token):
             "hasNextPage"
         ]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
+    
+    releases.sort(key=lambda r: r["published_at"], reverse=True)
     return releases
 
 
@@ -104,8 +96,7 @@ def fetch_blog_entries():
 def fetch_reddit_pinned():
     items = []
     headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
-    url = f"https://api.reddit.com/user/mte90?limit=25"
-    request = requests.get(url,headers=headers)
+    request = requests.get("https://api.reddit.com/user/mte90?limit=25", headers=headers)
     json_response = request.json()
     for item in json_response['data']['children']:
         if 'pinned' in item['data']:

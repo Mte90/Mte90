@@ -1,19 +1,26 @@
-Daniele Scasciafratte, the Open Source Multiversal guy, he should work in his web agency, Codeat in Rome, and in the rest of the day collaborate in many open source projects.
+Daniele Scasciafratte, the Open Source Multiversal guy, he should work in his web agency, [Codeat in Rome](https://github.com/CodeAtCode), and in the rest of the day collaborate in many open source projects.
 
-During the office hours for the WordPress world is a Core Contributor, plugin developer and project translator editor. He is the creator of GlotDict and WordPress Plugin Boilerplate Powered and one of the maintainers of VVV.
-In the meantime is a long time experience volunteer in the Mozilla community, a Mozilla TechSpeakers also Mozilla Rep involved in the past in the Reps Council and often is an Italian gestures speaker.
+During the office hours for the [WordPress world is a Core Contributor](https://profiles.wordpress.org/mte90/), plugin developer and project translator editor. He is the creator of [GlotDict](https://github.com/Mte90/GlotDict) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) and one of the maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).
+In the meantime is a long time experience volunteer in the Mozilla community (part of [Mozilla Italia](https://github.com/MozillaItalia)), a Mozilla TechSpeakers also Mozilla Rep involved in the past in the Reps Council and often is an Italian gestures speaker.
 
 <table><tr><td valign="top">
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [Mte90/Share-Backported 2.0.8](https://github.com/Mte90/Share-Backported/releases/tag/2.0.8) - 2020-05-05
-* [Mte90/SyntaxAutoFix 2.3.1](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.3.1) - 2019-03-23
-* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.1](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.1) - 2020-06-18
-* [goodhosts/vagrant 1.0.1](https://github.com/goodhosts/vagrant/releases/tag/1.0.1) - 2020-06-19
-* [Mte90/GBAATM-Rebirth 1.0.0-alpha2](https://github.com/Mte90/GBAATM-Rebirth/releases/tag/pre-1.0.0-alpha2) - 2020-06-18
+* [Mte90/GlotDict 1.6.1](https://github.com/Mte90/GlotDict/releases/tag/1.6.1) - 2020/07/12
+* [goodhosts/vagrant 1.0.1](https://github.com/goodhosts/vagrant/releases/tag/1.0.1) - 2020/06/19
+* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.1](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.1) - 2020/06/18
+* [Mte90/GBAATM-Rebirth 1.0.0-alpha2](https://github.com/Mte90/GBAATM-Rebirth/releases/tag/pre-1.0.0-alpha2) - 2020/06/18
+* [Mte90/Share-Backported 2.0.8](https://github.com/Mte90/Share-Backported/releases/tag/2.0.8) - 2020/05/05
 <!-- recent_releases ends -->
 </td><td valign="top">
+
+### My free and open source book
+
+[![Download now for free](https://mte90-mte90net.netdna-ssl.com/wp-content/uploads/2019/10/cover-300x258.png)](https://daniele.tech/2019/10/contribute-to-opensource-the-right-way-book/)
+
+</td></tr>
+<tr><td valign="top">
 
 ### On my blog
 <!-- blog starts -->
