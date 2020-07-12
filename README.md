@@ -13,6 +13,9 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.1](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.1) - 2020/06/18
 * [Mte90/GBAATM-Rebirth 1.0.0-alpha2](https://github.com/Mte90/GBAATM-Rebirth/releases/tag/pre-1.0.0-alpha2) - 2020/06/18
 * [Mte90/Share-Backported 2.0.8](https://github.com/Mte90/Share-Backported/releases/tag/2.0.8) - 2020/05/05
+* [Mte90/facebook-direct-links 1.2.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.2.0) - 2020/03/22
+* [Mte90/Game-Genie-Good-Guy 1.0.0](https://github.com/Mte90/Game-Genie-Good-Guy/releases/tag/1.0.0) - 2020/01/13
+* [Mte90/GH-License 0.2.7](https://github.com/Mte90/GH-License/releases/tag/0.2.7) - 2019/10/28
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
