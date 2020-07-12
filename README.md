@@ -1,9 +1,10 @@
-Daniele Scasciafratte, the Open Source Multiversal guy, he should work in his web agency, [Codeat in Rome](https://github.com/CodeAtCode), and in the rest of the day collaborate in many open source projects.
+[Daniele Scasciafratte](https://twitter.com/mte90net), the Open Source Multiversal guy, he should work in his web agency, [Codeat in Rome](https://github.com/CodeAtCode), and in the rest of the day collaborate in many open source projects.
 
-During the office hours for the [WordPress world is a Core Contributor](https://profiles.wordpress.org/mte90/), plugin developer and project translator editor. He is the creator of [GlotDict](https://github.com/Mte90/GlotDict) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) and one of the maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).
-In the meantime is a long time experience volunteer in the Mozilla community (part of [Mozilla Italia](https://github.com/MozillaItalia)), a Mozilla TechSpeakers also Mozilla Rep involved in the past in the Reps Council and often is an Italian gestures speaker.
+During the office hours for the [WordPress world is a Core Contributor](https://profiles.wordpress.org/mte90/), plugin developer and project translator editor. Creator of [GlotDict](https://github.com/Mte90/GlotDict) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) and one of the maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).  
+In the meantime is a long time experience volunteer in the [Mozilla community](https://mozillians.org/it/u/Mte90/) (part of [Mozilla Italia](https://github.com/MozillaItalia)), a Mozilla TechSpeakers also [Mozilla Rep](https://reps.mozilla.org/u/mte90/) (involved in the past in the Reps Council) and often is an [Italian gestures speaker](http://mte90.tech). Now is one of the maintainer and leader of the project [DeepSpeech Italian Model](https://github.com/MozillaItalia/DeepSpeech-Italian-Model) ([talk](https://fosdem.org/2020/schedule/event/how_to_get_fun_with_teamwork/)).  
+A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension developer](https://github.com/Mte90/ExtStoreStats) with [Share Backported](https://github.com/Mte90/Share-Backported) or [Facebook Direct Links)[https://github.com/Mte90/facebook-direct-links], [Opmitization addiction](https://github.com/Mte90/pydal) with [scripting addictions](https://github.com/Mte90/My-Scripts), [Enforcer of OSS license in projects](https://github.com/Mte90/GH-License), [Famous typo creator fixer](https://github.com/Mte90/SyntaxAutoFix) recently in Retrogaming tool developments for rom cheats with [GGGG](https://github.com/Mte90/Game-Genie-Good-Guy) and [GBATM-Rebirth](https://github.com/Mte90/GBAATM-Rebirth).
 
-<table><tr><td valign="top">
+<table><tr><td valign="top" style="width: 50%;">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -13,12 +14,12 @@ In the meantime is a long time experience volunteer in the Mozilla community (pa
 * [Mte90/GBAATM-Rebirth 1.0.0-alpha2](https://github.com/Mte90/GBAATM-Rebirth/releases/tag/pre-1.0.0-alpha2) - 2020/06/18
 * [Mte90/Share-Backported 2.0.8](https://github.com/Mte90/Share-Backported/releases/tag/2.0.8) - 2020/05/05
 <!-- recent_releases ends -->
-</td><td valign="top">
+</td><td valign="top" style="width: 50%;">
 
 [![Download now for free!](https://mte90-mte90net.netdna-ssl.com/wp-content/uploads/2019/10/cover-300x258.png)](https://daniele.tech/2019/10/contribute-to-opensource-the-right-way-book/)
 
 </td></tr>
-<tr><td valign="top">
+<tr><td valign="top" style="width: 50%;">
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
@@ -28,7 +29,7 @@ In the meantime is a long time experience volunteer in the Mozilla community (pa
 * [Firefox lost the browser war and what we can do?](https://daniele.tech/2020/02/firefox-lost-the-browser-war-and-what-we-can-do/) - r/firefox
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
-</td><td valign="top">
+</td><td valign="top" style="width: 50%;">
 
 ### On my blog
 <!-- blog starts -->
