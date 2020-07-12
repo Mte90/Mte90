@@ -17,11 +17,21 @@ In the meantime is a long time experience volunteer in the Mozilla community, a 
 
 ### On my blog
 <!-- blog starts -->
-* [My free software and open source activities of June 2020](https://daniele.tech/2020/06/my-free-software-and-open-source-activities-of-june-2020/) - 
-* [Vagrant-Goodhosts – Manage the hosts file with Vagrant in 2020](https://daniele.tech/2020/06/vagrant-goodhosts-manage-the-hosts-file-with-vagrant-in-2020/) - Fri, 19 Jun 2020 14:34:55 +0000
-* [WordPress Plugin Boilerplate Powered 3.2.0](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.0) - 
-* [My free software and open source activities of May 2020](https://daniele.tech/2020/05/my-free-software-and-open-source-activities-of-may-2020/) - Sat, 30 May 2020 09:48:00 +0000
-* [Gutenberg Drama 2020 Edition – Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - Wed, 20 May 2020 11:50:27 +0000
+* [My free software and open source activities of June 2020](https://daniele.tech/2020/06/my-free-software-and-open-source-activities-of-june-2020/) - 2020/06/30
+* [Vagrant-Goodhosts – Manage the hosts file with Vagrant in 2020](https://daniele.tech/2020/06/vagrant-goodhosts-manage-the-hosts-file-with-vagrant-in-2020/) - 2020/06/19
+* [WordPress Plugin Boilerplate Powered 3.2.0](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.0) - 2020/06/11
+* [My free software and open source activities of May 2020](https://daniele.tech/2020/05/my-free-software-and-open-source-activities-of-may-2020/) - 2020/05/30
+* [Gutenberg Drama 2020 Edition – Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - 2020/05/20
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
+</td><td valign="top">
+
+### Pinned threads on Reddit
+<!-- reddit_pinned starts -->
+* [Common Voice per il 2020 (aggiornamenti periodici) - Nuovo dataset e ci prepariamo a rilasciare un nuovo modello ma ci serve una mano](https://discourse.mozilla.org/t/common-voice-per-il-2020-aggiornamenti-periodici/51903/4) - r/ItalyInformatica
+* [GBAATM-Rebirth for Windows/OSX/Linux - Add a trainer in your roms!](https://www.reddit.com/r/GameboyAdvance/comments/gzjulk/gbaatmrebirth_for_windowsosxlinux_add_a_trainer/) - r/GameboyAdvance
+* [Gutenberg Drama 2020 Edition - Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - r/Wordpress
+* [Firefox lost the browser war and what we can do?](https://daniele.tech/2020/02/firefox-lost-the-browser-war-and-what-we-can-do/) - r/firefox
+<!-- reddit_pinned ends -->
+More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td></tr></table>

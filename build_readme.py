@@ -6,6 +6,7 @@ import json
 import pathlib
 import re
 import os
+import requests
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -27,7 +28,7 @@ def make_query(after_cursor=None):
     return """
 query {
   viewer {
-    repositories(first: 100, privacy: PUBLIC, after:AFTER,  orderBy: {field: UPDATED_AT, direction: ASC}) {
+    repositories(first: 100, privacy: PUBLIC, after:AFTER,  orderBy: {field: UPDATED_AT, direction: DESC}) {
       pageInfo {
         hasNextPage
         endCursor
@@ -95,16 +96,31 @@ def fetch_blog_entries():
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
+            "published": "%d/%02d/%02d" % (entry.published_parsed.tm_year, entry.published_parsed.tm_mon, entry.published_parsed.tm_mday),
         }
         for entry in entries
     ]
 
-
+def fetch_reddit_pinned():
+    items = []
+    headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
+    url = f"https://api.reddit.com/user/mte90?limit=25"
+    request = requests.get(url,headers=headers)
+    json_response = request.json()
+    for item in json_response['data']['children']:
+        if 'pinned' in item['data']:
+            items.append(
+                {
+                    "title": item['data']["title"],
+                    "url": item['data']['url'],
+                    "sub": item['data']['subreddit_name_prefixed']
+                }
+            )
+    return items
+    
 if __name__ == "__main__":
     readme = root / "README.md"
     releases = fetch_releases(TOKEN)
-    releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
             "* [{nameWithOwner} {release}]({url}) - {published_at}".format(**release)
@@ -119,5 +135,11 @@ if __name__ == "__main__":
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
+    
+    entries = fetch_reddit_pinned()
+    entries_md = "\n".join(
+        ["* [{title}]({url}) - {sub}".format(**entry) for entry in entries]
+    )
+    rewritten = replace_chunk(rewritten, "reddit_pinned", entries_md)
 
     readme.open("w").write(rewritten)
