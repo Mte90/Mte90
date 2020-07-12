@@ -12,7 +12,7 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
-TOKEN = os.environ.get("MTE90_TOKEN", "e978921259e5bd09d766674218b897987ca5e0e4")
+TOKEN = os.environ.get("MTE90_TOKEN", "")
 
 
 def replace_chunk(content, marker, chunk):

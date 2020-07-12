@@ -14,11 +14,7 @@ In the meantime is a long time experience volunteer in the Mozilla community (pa
 * [Mte90/Share-Backported 2.0.8](https://github.com/Mte90/Share-Backported/releases/tag/2.0.8) - 2020/05/05
 <!-- recent_releases ends -->
 </td><td valign="top">
-
-### My free and open source book
-
-[![Download now for free](https://mte90-mte90net.netdna-ssl.com/wp-content/uploads/2019/10/cover-300x258.png)](https://daniele.tech/2019/10/contribute-to-opensource-the-right-way-book/)
-
+[![Download now for free!](https://mte90-mte90net.netdna-ssl.com/wp-content/uploads/2019/10/cover-300x258.png)](https://daniele.tech/2019/10/contribute-to-opensource-the-right-way-book/)
 </td></tr>
 <tr><td valign="top">
 
