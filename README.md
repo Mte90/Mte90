@@ -14,9 +14,21 @@ In the meantime is a long time experience volunteer in the Mozilla community (pa
 * [Mte90/Share-Backported 2.0.8](https://github.com/Mte90/Share-Backported/releases/tag/2.0.8) - 2020/05/05
 <!-- recent_releases ends -->
 </td><td valign="top">
+
 [![Download now for free!](https://mte90-mte90net.netdna-ssl.com/wp-content/uploads/2019/10/cover-300x258.png)](https://daniele.tech/2019/10/contribute-to-opensource-the-right-way-book/)
+
 </td></tr>
 <tr><td valign="top">
+
+### Pinned threads on Reddit
+<!-- reddit_pinned starts -->
+* [Common Voice per il 2020 (aggiornamenti periodici) - Nuovo dataset e ci prepariamo a rilasciare un nuovo modello ma ci serve una mano](https://discourse.mozilla.org/t/common-voice-per-il-2020-aggiornamenti-periodici/51903/4) - r/ItalyInformatica
+* [GBAATM-Rebirth for Windows/OSX/Linux - Add a trainer in your roms!](https://www.reddit.com/r/GameboyAdvance/comments/gzjulk/gbaatmrebirth_for_windowsosxlinux_add_a_trainer/) - r/GameboyAdvance
+* [Gutenberg Drama 2020 Edition - Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - r/Wordpress
+* [Firefox lost the browser war and what we can do?](https://daniele.tech/2020/02/firefox-lost-the-browser-war-and-what-we-can-do/) - r/firefox
+<!-- reddit_pinned ends -->
+More on [Reddit.com](https://www.reddit.com/user/Mte90)
+</td><td valign="top">
 
 ### On my blog
 <!-- blog starts -->
@@ -27,14 +39,4 @@ In the meantime is a long time experience volunteer in the Mozilla community (pa
 * [Gutenberg Drama 2020 Edition – Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - 2020/05/20
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
-</td><td valign="top">
-
-### Pinned threads on Reddit
-<!-- reddit_pinned starts -->
-* [Common Voice per il 2020 (aggiornamenti periodici) - Nuovo dataset e ci prepariamo a rilasciare un nuovo modello ma ci serve una mano](https://discourse.mozilla.org/t/common-voice-per-il-2020-aggiornamenti-periodici/51903/4) - r/ItalyInformatica
-* [GBAATM-Rebirth for Windows/OSX/Linux - Add a trainer in your roms!](https://www.reddit.com/r/GameboyAdvance/comments/gzjulk/gbaatmrebirth_for_windowsosxlinux_add_a_trainer/) - r/GameboyAdvance
-* [Gutenberg Drama 2020 Edition - Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - r/Wordpress
-* [Firefox lost the browser war and what we can do?](https://daniele.tech/2020/02/firefox-lost-the-browser-war-and-what-we-can-do/) - r/firefox
-<!-- reddit_pinned ends -->
-More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td></tr></table>
