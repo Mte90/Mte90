@@ -38,11 +38,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog
 <!-- blog starts -->
+* [Self-Update your GitHub profile with RSS, Project Releases and Reddit](https://daniele.tech/2020/07/self-update-your-github-profile-with-rss-project-releases-and-reddit/) - 2020/07/12
 * [My free software and open source activities of June 2020](https://daniele.tech/2020/06/my-free-software-and-open-source-activities-of-june-2020/) - 2020/06/30
 * [Vagrant-Goodhosts – Manage the hosts file with Vagrant in 2020](https://daniele.tech/2020/06/vagrant-goodhosts-manage-the-hosts-file-with-vagrant-in-2020/) - 2020/06/19
 * [WordPress Plugin Boilerplate Powered 3.2.0](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.0) - 2020/06/11
 * [My free software and open source activities of May 2020](https://daniele.tech/2020/05/my-free-software-and-open-source-activities-of-may-2020/) - 2020/05/30
-* [Gutenberg Drama 2020 Edition – Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - 2020/05/20
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr></table>
