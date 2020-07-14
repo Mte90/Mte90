@@ -10,7 +10,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/GlotDict 1.6.1](https://github.com/Mte90/GlotDict/releases/tag/1.6.1) - 2020/07/12
+* [Mte90/GlotDict 1.6.2](https://github.com/Mte90/GlotDict/releases/tag/1.6.2) - 2020/07/13
 * [goodhosts/vagrant 1.0.1](https://github.com/goodhosts/vagrant/releases/tag/1.0.1) - 2020/06/19
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.1](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.1) - 2020/06/18
 * [Mte90/GBAATM-Rebirth 1.0.0-alpha2](https://github.com/Mte90/GBAATM-Rebirth/releases/tag/pre-1.0.0-alpha2) - 2020/06/18
@@ -28,10 +28,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
-* [Common Voice per il 2020 (aggiornamenti periodici) - Nuovo dataset e ci prepariamo a rilasciare un nuovo modello ma ci serve una mano](https://discourse.mozilla.org/t/common-voice-per-il-2020-aggiornamenti-periodici/51903/4) - r/ItalyInformatica
+* [Chrome Web Store is rejecting my extension with 3~ years of life](https://twitter.com/Mte90Net/status/1282621868948819972) - r/WebExtensions
+* [Self-Update your GitHub profile with RSS, Project Releases and Reddit](https://daniele.tech/2020/07/self-update-your-github-profile-with-rss-project-releases-and-reddit/) - r/ItalyInformatica
 * [GBAATM-Rebirth for Windows/OSX/Linux - Add a trainer in your roms!](https://www.reddit.com/r/GameboyAdvance/comments/gzjulk/gbaatmrebirth_for_windowsosxlinux_add_a_trainer/) - r/GameboyAdvance
 * [Gutenberg Drama 2020 Edition - Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - r/Wordpress
-* [Firefox lost the browser war and what we can do?](https://daniele.tech/2020/02/firefox-lost-the-browser-war-and-what-we-can-do/) - r/firefox
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
