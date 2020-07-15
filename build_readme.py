@@ -63,6 +63,9 @@ def fetch_releases(oauth_token):
             query=make_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
+        print()
+        print(json.dumps(data, indent=4))
+        print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             if repo["releases"]["totalCount"]:
                 releases.append(
