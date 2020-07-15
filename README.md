@@ -28,10 +28,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
-* [Chrome Web Store is rejecting my extension with 3~ years of life](https://twitter.com/Mte90Net/status/1282621868948819972) - r/WebExtensions
+* [Common Voice per il 2020 (aggiornamenti periodici) - Nuovo dataset e ci prepariamo a rilasciare un nuovo modello ma ci serve una mano](https://discourse.mozilla.org/t/common-voice-per-il-2020-aggiornamenti-periodici/51903/4) - r/ItalyInformatica
 * [Self-Update your GitHub profile with RSS, Project Releases and Reddit](https://daniele.tech/2020/07/self-update-your-github-profile-with-rss-project-releases-and-reddit/) - r/ItalyInformatica
 * [GBAATM-Rebirth for Windows/OSX/Linux - Add a trainer in your roms!](https://www.reddit.com/r/GameboyAdvance/comments/gzjulk/gbaatmrebirth_for_windowsosxlinux_add_a_trainer/) - r/GameboyAdvance
 * [Gutenberg Drama 2020 Edition - Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - r/Wordpress
+* [Chrome Web Store is rejecting my extension with 3~ years of life](https://twitter.com/Mte90Net/status/1282621868948819972) - r/WebExtensions
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
