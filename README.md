@@ -10,6 +10,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/Contribute-to-opensource-the-right-way 2020.1](https://github.com/Mte90/Contribute-to-opensource-the-right-way/releases/tag/2020.1) - 2020/07/20
 * [Mte90/GlotDict 1.6.2](https://github.com/Mte90/GlotDict/releases/tag/1.6.2) - 2020/07/13
 * [goodhosts/vagrant 1.0.1](https://github.com/goodhosts/vagrant/releases/tag/1.0.1) - 2020/06/19
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.1](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.1) - 2020/06/18
@@ -17,7 +18,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/Share-Backported 2.0.8](https://github.com/Mte90/Share-Backported/releases/tag/2.0.8) - 2020/05/05
 * [Mte90/facebook-direct-links 1.2.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.2.0) - 2020/03/22
 * [Mte90/Game-Genie-Good-Guy 1.0.0](https://github.com/Mte90/Game-Genie-Good-Guy/releases/tag/1.0.0) - 2020/01/13
-* [Mte90/GH-License 0.2.7](https://github.com/Mte90/GH-License/releases/tag/0.2.7) - 2019/10/28
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -32,6 +32,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Self-Update your GitHub profile with RSS, Project Releases and Reddit](https://daniele.tech/2020/07/self-update-your-github-profile-with-rss-project-releases-and-reddit/) - r/ItalyInformatica
 * [GBAATM-Rebirth for Windows/OSX/Linux - Add a trainer in your roms!](https://www.reddit.com/r/GameboyAdvance/comments/gzjulk/gbaatmrebirth_for_windowsosxlinux_add_a_trainer/) - r/GameboyAdvance
 * [Gutenberg Drama 2020 Edition - Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - r/Wordpress
+* [Contribute to open source: the right way 2nd edition - I published the new edition](https://www.reddit.com/r/opensource/comments/hul1he/contribute_to_open_source_the_right_way_2nd/) - r/opensource
+* [Contribute to open source: the right way 2nd edition - Ho pubblicato la nuova edizione](https://www.reddit.com/r/ItalyInformatica/comments/huj4aw/contribute_to_open_source_the_right_way_2nd/) - r/ItalyInformatica
 * [Chrome Web Store is rejecting my extension with 3~ years of life](https://twitter.com/Mte90Net/status/1282621868948819972) - r/WebExtensions
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
@@ -39,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog
 <!-- blog starts -->
+* [Contribute to open source: the right way 2nd edition – Download the free/open book now!](https://daniele.tech/2020/07/contribute-to-open-source-the-right-way-2nd-edition-download-the-free-open-book-now/) - 2020/07/20
 * [Self-Update your GitHub profile with RSS, Project Releases and Reddit](https://daniele.tech/2020/07/self-update-your-github-profile-with-rss-project-releases-and-reddit/) - 2020/07/12
 * [My free software and open source activities of June 2020](https://daniele.tech/2020/06/my-free-software-and-open-source-activities-of-june-2020/) - 2020/06/30
 * [Vagrant-Goodhosts – Manage the hosts file with Vagrant in 2020](https://daniele.tech/2020/06/vagrant-goodhosts-manage-the-hosts-file-with-vagrant-in-2020/) - 2020/06/19
 * [WordPress Plugin Boilerplate Powered 3.2.0](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.0) - 2020/06/11
-* [My free software and open source activities of May 2020](https://daniele.tech/2020/05/my-free-software-and-open-source-activities-of-may-2020/) - 2020/05/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr></table>
