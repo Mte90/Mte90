@@ -102,7 +102,7 @@ def fetch_reddit_pinned():
     request = requests.get("https://api.reddit.com/user/mte90?limit=25", headers=headers)
     json_response = request.json()
     for item in json_response['data']['children']:
-        if 'pinned' in item['data']:
+        if 'pinned' in item['data'] and item['data']['pinned']:
             items.append(
                 {
                     "title": item['data']["title"],
