@@ -28,8 +28,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Daniele 30.0 - Major release with 30 years shades of nerd](https://daniele.tech/2020/07/daniele-30-0-major-release-with-30-years-shades-of-nerd/) - u/Mte90
 * [Contribute to open source: the right way 2nd edition - I published the new edition](https://www.reddit.com/r/opensource/comments/hul1he/contribute_to_open_source_the_right_way_2nd/) - r/opensource
-* [Self-Update your GitHub profile with RSS, Project Releases and Reddit](https://daniele.tech/2020/07/self-update-your-github-profile-with-rss-project-releases-and-reddit/) - r/ItalyInformatica
 * [GBAATM-Rebirth for Windows/OSX/Linux - Add a trainer in your roms!](https://www.reddit.com/r/GameboyAdvance/comments/gzjulk/gbaatmrebirth_for_windowsosxlinux_add_a_trainer/) - r/GameboyAdvance
 * [Gutenberg Drama 2020 Edition - Why WordPress is against the WP.org users](https://daniele.tech/2020/05/gutenberg-drama-2020-edition-why-wordpress-is-against-the-wp-org-users/) - r/Wordpress
 <!-- reddit_pinned ends -->
@@ -38,11 +38,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog
 <!-- blog starts -->
+* [Daniele 30.0 – Major release with 30 years shades of nerd](https://daniele.tech/2020/07/daniele-30-0-major-release-with-30-years-shades-of-nerd/) - 2020/07/24
 * [Contribute to open source: the right way 2nd edition – Download the free/open book now!](https://daniele.tech/2020/07/contribute-to-open-source-the-right-way-2nd-edition-download-the-free-open-book-now/) - 2020/07/20
 * [Self-Update your GitHub profile with RSS, Project Releases and Reddit](https://daniele.tech/2020/07/self-update-your-github-profile-with-rss-project-releases-and-reddit/) - 2020/07/12
 * [My free software and open source activities of June 2020](https://daniele.tech/2020/06/my-free-software-and-open-source-activities-of-june-2020/) - 2020/06/30
 * [Vagrant-Goodhosts – Manage the hosts file with Vagrant in 2020](https://daniele.tech/2020/06/vagrant-goodhosts-manage-the-hosts-file-with-vagrant-in-2020/) - 2020/06/19
-* [WordPress Plugin Boilerplate Powered 3.2.0](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.0) - 2020/06/11
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr></table>
