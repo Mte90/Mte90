@@ -10,7 +10,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [goodhosts/vagrant 1.0.3](https://github.com/goodhosts/vagrant/releases/tag/1.0.3) - 2020/08/10
+* [goodhosts/vagrant 1.0.4](https://github.com/goodhosts/vagrant/releases/tag/1.0.4) - 2020/08/12
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.2](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.2) - 2020/08/05
 * [Mte90/Share-Backported 2.0.9](https://github.com/Mte90/Share-Backported/releases/tag/2.0.9) - 2020/07/28
 * [Mte90/Contribute-to-opensource-the-right-way 2020.1](https://github.com/Mte90/Contribute-to-opensource-the-right-way/releases/tag/2020.1) - 2020/07/20
