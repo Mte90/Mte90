@@ -13,11 +13,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [goodhosts/vagrant 1.0.4](https://github.com/goodhosts/vagrant/releases/tag/1.0.4) - 2020/08/12
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.2](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.2) - 2020/08/05
 * [Mte90/Share-Backported 2.0.9](https://github.com/Mte90/Share-Backported/releases/tag/2.0.9) - 2020/07/28
+* [Common-Voice/community-playbook v1.1](https://github.com/Common-Voice/community-playbook/releases/tag/v1.1) - 2020/07/23
 * [Mte90/Contribute-to-opensource-the-right-way 2020.1](https://github.com/Mte90/Contribute-to-opensource-the-right-way/releases/tag/2020.1) - 2020/07/20
 * [Mte90/GlotDict 1.6.2](https://github.com/Mte90/GlotDict/releases/tag/1.6.2) - 2020/07/13
 * [Mte90/GBAATM-Rebirth 1.0.0-alpha2](https://github.com/Mte90/GBAATM-Rebirth/releases/tag/pre-1.0.0-alpha2) - 2020/06/18
 * [Mte90/facebook-direct-links 1.2.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.2.0) - 2020/03/22
-* [Mte90/Game-Genie-Good-Guy 1.0.0](https://github.com/Mte90/Game-Genie-Good-Guy/releases/tag/1.0.0) - 2020/01/13
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
