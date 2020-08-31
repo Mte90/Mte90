@@ -38,11 +38,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of August 2020](https://daniele.tech/2020/08/my-free-software-and-open-source-activities-of-august-2020/) - 2020/08/30
 * [An Open-Source Book About the Open Source World](https://hackernoon.com/an-open-source-book-about-the-open-source-world-2h6r3unz) - 2020/08/25
 * [How to compile C++ software with Qt for Windows/Linux/OSX](https://daniele.tech/2020/08/how-to-compile-c-software-with-qt-for-windows-linux-osx/) - 2020/08/08
 * [My free software and open source activities of July 2020](https://daniele.tech/2020/07/my-free-software-and-open-source-activities-of-july-2020/) - 2020/07/31
 * [Daniele 30.0 – Major release with 30 years shades of nerd](https://daniele.tech/2020/07/daniele-30-0-major-release-with-30-years-shades-of-nerd/) - 2020/07/24
-* [Contribute to open source: the right way 2nd edition – Download the free/open book now!](https://daniele.tech/2020/07/contribute-to-open-source-the-right-way-2nd-edition-download-the-free-open-book-now/) - 2020/07/20
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr></table>
