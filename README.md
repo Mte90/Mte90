@@ -10,6 +10,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GH-License 0.2.8](https://github.com/Mte90/GH-License/releases/tag/0.2.8) - 2020/10/05
 * [Mte90/GlotDict 1.6.5](https://github.com/Mte90/GlotDict/releases/tag/1.6.5) - 2020/10/01
 * [Mte90/Share-Backported 2.0.11](https://github.com/Mte90/Share-Backported/releases/tag/2.0.11) - 2020/10/01
 * [goodhosts/vagrant 1.0.4](https://github.com/goodhosts/vagrant/releases/tag/1.0.4) - 2020/08/12
@@ -17,7 +18,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Common-Voice/community-playbook v1.1](https://github.com/Common-Voice/community-playbook/releases/tag/v1.1) - 2020/07/23
 * [Mte90/Contribute-to-opensource-the-right-way 2020.1](https://github.com/Mte90/Contribute-to-opensource-the-right-way/releases/tag/2020.1) - 2020/07/20
 * [Mte90/GBAATM-Rebirth 1.0.0-alpha2](https://github.com/Mte90/GBAATM-Rebirth/releases/tag/pre-1.0.0-alpha2) - 2020/06/18
-* [Mte90/facebook-direct-links 1.2.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.2.0) - 2020/03/22
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
