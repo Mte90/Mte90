@@ -10,7 +10,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/facebook-direct-links 1.2.1](https://github.com/Mte90/facebook-direct-links/releases/tag/1.2.1) - 2020/10/09
+* [Mte90/facebook-direct-links 1.2.2](https://github.com/Mte90/facebook-direct-links/releases/tag/1.2.2) - 2020/10/12
 * [Mte90/GH-License 0.2.8](https://github.com/Mte90/GH-License/releases/tag/0.2.8) - 2020/10/05
 * [Mte90/Share-Backported 2.0.11](https://github.com/Mte90/Share-Backported/releases/tag/2.0.11) - 2020/10/01
 * [Mte90/GlotDict 1.6.5](https://github.com/Mte90/GlotDict/releases/tag/1.6.5) - 2020/10/01
@@ -28,9 +28,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Mozilla Italia Developer Contest in collaborazione con il sub, per il modello DeepSpeech di riconoscimento vocale in Italiano](https://www.reddit.com/r/ItalyInformatica/comments/j6112h/mozilla_italia_developer_contest_in/) - r/ItalyInformatica
 * [Hacktoberfest, condividete i vostri ticket in cui cercate sviluppatori!](https://www.reddit.com/r/ItalyInformatica/comments/j3774u/hacktoberfest_condividete_i_vostri_ticket_in_cui/) - r/ItalyInformatica
-* [Common Voice per il 2020 - Nuovo modello per la lingua italiana con transfer learning e nuovo corpus testuale](https://discourse.mozilla.org/t/common-voice-per-il-2020-aggiornamenti-periodici/51903/4) - r/ItalyInformatica
-* [Daniele 30.0 - Major release with 30 years shades of nerd](https://daniele.tech/2020/07/daniele-30-0-major-release-with-30-years-shades-of-nerd/) - u/Mte90
 * [Contribute to open source: the right way 2nd edition - I published the new edition](https://www.reddit.com/r/opensource/comments/hul1he/contribute_to_open_source_the_right_way_2nd/) - r/opensource
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
