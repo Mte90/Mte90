@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Mozilla Italia DeepSpeech 2020 Contest - 1 settimana](https://www.reddit.com/r/ItalyInformatica/comments/jaacxp/mozilla_italia_deepspeech_2020_contest_1_settimana/) - r/ItalyInformatica
 * [Mozilla Italia Developer Contest in collaborazione con il sub, per il modello DeepSpeech di riconoscimento vocale in Italiano](https://www.reddit.com/r/ItalyInformatica/comments/j6112h/mozilla_italia_developer_contest_in/) - r/ItalyInformatica
 * [Hacktoberfest, condividete i vostri ticket in cui cercate sviluppatori!](https://www.reddit.com/r/ItalyInformatica/comments/j3774u/hacktoberfest_condividete_i_vostri_ticket_in_cui/) - r/ItalyInformatica
 * [Contribute to open source: the right way 2nd edition - I published the new edition](https://www.reddit.com/r/opensource/comments/hul1he/contribute_to_open_source_the_right_way_2nd/) - r/opensource
