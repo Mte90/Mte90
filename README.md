@@ -10,9 +10,9 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [goodhosts/vagrant 1.0.8](https://github.com/goodhosts/vagrant/releases/tag/1.0.8) - 2020/11/03
 * [Mte90/SyntaxAutoFix 2.4.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.4.0) - 2020/11/02
 * [Mte90/pugdebug 1.1.0](https://github.com/Mte90/pugdebug/releases/tag/1.1.0) - 2020/10/22
-* [goodhosts/vagrant 1.0.7](https://github.com/goodhosts/vagrant/releases/tag/1.0.7) - 2020/10/19
 * [Mte90/facebook-direct-links 1.2.3](https://github.com/Mte90/facebook-direct-links/releases/tag/1.2.3) - 2020/10/14
 * [Mte90/GH-License 0.2.8](https://github.com/Mte90/GH-License/releases/tag/0.2.8) - 2020/10/05
 * [Mte90/Share-Backported 2.0.11](https://github.com/Mte90/Share-Backported/releases/tag/2.0.11) - 2020/10/01
