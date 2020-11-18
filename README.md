@@ -10,11 +10,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/facebook-direct-links 1.3.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.3.0) - 2020/11/17
 * [Mte90/GlotDict 1.6.6](https://github.com/Mte90/GlotDict/releases/tag/v1.6.6) - 2020/11/09
 * [goodhosts/vagrant 1.0.8](https://github.com/goodhosts/vagrant/releases/tag/1.0.8) - 2020/11/03
 * [Mte90/SyntaxAutoFix 2.4.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.4.0) - 2020/11/02
 * [Mte90/pugdebug 1.1.0](https://github.com/Mte90/pugdebug/releases/tag/1.1.0) - 2020/10/22
-* [Mte90/facebook-direct-links 1.2.3](https://github.com/Mte90/facebook-direct-links/releases/tag/1.2.3) - 2020/10/14
 * [Mte90/GH-License 0.2.8](https://github.com/Mte90/GH-License/releases/tag/0.2.8) - 2020/10/05
 * [Mte90/Share-Backported 2.0.11](https://github.com/Mte90/Share-Backported/releases/tag/2.0.11) - 2020/10/01
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.2](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.2) - 2020/08/05
