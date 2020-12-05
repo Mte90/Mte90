@@ -10,7 +10,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/Share-Backported 2.1.0](https://github.com/Mte90/Share-Backported/releases/tag/2.1.0) - 2020/11/30
+* [Mte90/Share-Backported 2.1.1](https://github.com/Mte90/Share-Backported/releases/tag/2.1.1) - 2020/12/04
 * [Mte90/facebook-direct-links 1.3.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.3.0) - 2020/11/17
 * [Mte90/GlotDict 1.6.6](https://github.com/Mte90/GlotDict/releases/tag/v1.6.6) - 2020/11/09
 * [goodhosts/vagrant 1.0.8](https://github.com/goodhosts/vagrant/releases/tag/1.0.8) - 2020/11/03
@@ -29,9 +29,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
 * [Mozilla Italia DeepSpeech 2020 Contest - I vincitori](https://www.reddit.com/r/ItalyInformatica/comments/k1lwns/mozilla_italia_deepspeech_2020_contest_i_vincitori/) - r/ItalyInformatica
-* [Mozilla Italia DeepSpeech 2020 Contest - 5 settimana](https://www.reddit.com/r/ItalyInformatica/comments/jrjzj0/mozilla_italia_deepspeech_2020_contest_5_settimana/) - r/ItalyInformatica
 * [Come è andato Hacktoberfest?](https://www.reddit.com/r/ItalyInformatica/comments/jmqne7/come_è_andato_hacktoberfest/) - r/ItalyInformatica
-* [Mozilla Italia DeepSpeech 2020 Contest - 4 settimana](https://www.reddit.com/r/ItalyInformatica/comments/jn8p2q/mozilla_italia_deepspeech_2020_contest_4_settimana/) - r/ItalyInformatica
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
