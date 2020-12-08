@@ -10,9 +10,9 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GlotDict 1.6.7](https://github.com/Mte90/GlotDict/releases/tag/v1.6.7) - 2020/12/07
 * [Mte90/Share-Backported 2.1.1](https://github.com/Mte90/Share-Backported/releases/tag/2.1.1) - 2020/12/04
 * [Mte90/facebook-direct-links 1.3.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.3.0) - 2020/11/17
-* [Mte90/GlotDict 1.6.6](https://github.com/Mte90/GlotDict/releases/tag/v1.6.6) - 2020/11/09
 * [goodhosts/vagrant 1.0.8](https://github.com/goodhosts/vagrant/releases/tag/1.0.8) - 2020/11/03
 * [Mte90/SyntaxAutoFix 2.4.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.4.0) - 2020/11/02
 * [Mte90/pugdebug 1.1.0](https://github.com/Mte90/pugdebug/releases/tag/1.1.0) - 2020/10/22
@@ -36,11 +36,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [Playstation 3 Proxy for custom firmware version validation in Python](https://daniele.tech/2020/12/playstation-3-proxy-for-custom-firmware-version-validation-in-python/) - 2020/12/07
 * [My free software and open source activities of October 2020](https://daniele.tech/2020/10/my-free-software-and-open-source-activities-of-october-2020/) - 2020/10/31
 * [My free software and open source activities of September 2020](https://daniele.tech/2020/09/my-free-software-and-open-source-activities-of-september-2020/) - 2020/09/30
 * [My free software and open source activities of August 2020](https://daniele.tech/2020/08/my-free-software-and-open-source-activities-of-august-2020/) - 2020/08/30
 * [An Open-Source Book About the Open Source World](https://hackernoon.com/an-open-source-book-about-the-open-source-world-2h6r3unz) - 2020/08/25
-* [How to compile C++ software with Qt for Windows/Linux/OSX](https://daniele.tech/2020/08/how-to-compile-c-software-with-qt-for-windows-linux-osx/) - 2020/08/08
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
