@@ -10,10 +10,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [goodhosts/vagrant 1.0.9](https://github.com/goodhosts/vagrant/releases/tag/1.0.9) - 2020/12/14
 * [Mte90/GlotDict 1.6.8](https://github.com/Mte90/GlotDict/releases/tag/v1.6.8) - 2020/12/09
 * [Mte90/Share-Backported 2.1.1](https://github.com/Mte90/Share-Backported/releases/tag/2.1.1) - 2020/12/04
 * [Mte90/facebook-direct-links 1.3.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.3.0) - 2020/11/17
-* [goodhosts/vagrant 1.0.8](https://github.com/goodhosts/vagrant/releases/tag/1.0.8) - 2020/11/03
 * [Mte90/SyntaxAutoFix 2.4.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.4.0) - 2020/11/02
 * [Mte90/pugdebug 1.1.0](https://github.com/Mte90/pugdebug/releases/tag/1.1.0) - 2020/10/22
 * [Mte90/GH-License 0.2.8](https://github.com/Mte90/GH-License/releases/tag/0.2.8) - 2020/10/05
@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Quali sono le combinazioni di tasti che usate di piú e su quali programmi?](https://www.reddit.com/r/ItalyInformatica/comments/k8fdb8/quali_sono_le_combinazioni_di_tasti_che_usate_di/) - r/ItalyInformatica
 * [Mozilla Italia DeepSpeech 2020 Contest - I vincitori](https://www.reddit.com/r/ItalyInformatica/comments/k1lwns/mozilla_italia_deepspeech_2020_contest_i_vincitori/) - r/ItalyInformatica
 * [Come è andato Hacktoberfest?](https://www.reddit.com/r/ItalyInformatica/comments/jmqne7/come_è_andato_hacktoberfest/) - r/ItalyInformatica
 <!-- reddit_pinned ends -->
