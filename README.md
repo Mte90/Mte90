@@ -28,9 +28,9 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [15$ bug bounty for a ticket on vDebug plugin](https://www.reddit.com/r/vim/comments/kgbrzu/15_bug_bounty_for_a_ticket_on_vdebug_plugin/) - r/vim
 * [Quali sono le combinazioni di tasti che usate di piú e su quali programmi?](https://www.reddit.com/r/ItalyInformatica/comments/k8fdb8/quali_sono_le_combinazioni_di_tasti_che_usate_di/) - r/ItalyInformatica
 * [Mozilla Italia DeepSpeech 2020 Contest - I vincitori](https://www.reddit.com/r/ItalyInformatica/comments/k1lwns/mozilla_italia_deepspeech_2020_contest_i_vincitori/) - r/ItalyInformatica
-* [Come è andato Hacktoberfest?](https://www.reddit.com/r/ItalyInformatica/comments/jmqne7/come_è_andato_hacktoberfest/) - r/ItalyInformatica
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
