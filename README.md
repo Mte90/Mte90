@@ -10,8 +10,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GlotDict 1.6.9](https://github.com/Mte90/GlotDict/releases/tag/v1.6.9) - 2020/12/29
 * [goodhosts/vagrant 1.0.9](https://github.com/goodhosts/vagrant/releases/tag/1.0.9) - 2020/12/14
-* [Mte90/GlotDict 1.6.8](https://github.com/Mte90/GlotDict/releases/tag/v1.6.8) - 2020/12/09
 * [Mte90/Share-Backported 2.1.1](https://github.com/Mte90/Share-Backported/releases/tag/2.1.1) - 2020/12/04
 * [Mte90/facebook-direct-links 1.3.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.3.0) - 2020/11/17
 * [Mte90/SyntaxAutoFix 2.4.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.4.0) - 2020/11/02
