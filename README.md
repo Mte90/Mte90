@@ -10,6 +10,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/extended-cpts 4.4.1](https://github.com/Mte90/extended-cpts/releases/tag/4.4.1) - 2020/12/30
 * [Mte90/GlotDict 1.6.9](https://github.com/Mte90/GlotDict/releases/tag/v1.6.9) - 2020/12/29
 * [goodhosts/vagrant 1.0.9](https://github.com/goodhosts/vagrant/releases/tag/1.0.9) - 2020/12/14
 * [Mte90/Share-Backported 2.1.1](https://github.com/Mte90/Share-Backported/releases/tag/2.1.1) - 2020/12/04
@@ -17,7 +18,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/SyntaxAutoFix 2.4.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.4.0) - 2020/11/02
 * [Mte90/pugdebug 1.1.0](https://github.com/Mte90/pugdebug/releases/tag/1.1.0) - 2020/10/22
 * [Mte90/GH-License 0.2.8](https://github.com/Mte90/GH-License/releases/tag/0.2.8) - 2020/10/05
-* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.2](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.2) - 2020/08/05
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -38,11 +38,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of December 2020](https://daniele.tech/2020/12/my-free-software-and-open-source-activities-of-december-2020/) - 2020/12/30
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux](https://daniele.tech/2020/12/reverse-engineering-the-saboteur-game-for-xbox360-with-linux/) - 2020/12/27
 * [Playstation 3 Proxy for custom firmware version validation in Python](https://daniele.tech/2020/12/playstation-3-proxy-for-custom-firmware-version-validation-in-python/) - 2020/12/07
 * [My free software and open source activities of November 2020](https://daniele.tech/2020/12/my-free-software-and-open-source-activities-of-november-2020/) - 2020/12/02
 * [My free software and open source activities of October 2020](https://daniele.tech/2020/10/my-free-software-and-open-source-activities-of-october-2020/) - 2020/10/31
-* [My free software and open source activities of September 2020](https://daniele.tech/2020/09/my-free-software-and-open-source-activities-of-september-2020/) - 2020/09/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
