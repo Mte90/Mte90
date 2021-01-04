@@ -38,11 +38,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 2](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-2/) - 2021/01/03
 * [My free software and open source activities of December 2020](https://daniele.tech/2020/12/my-free-software-and-open-source-activities-of-december-2020/) - 2020/12/30
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux](https://daniele.tech/2020/12/reverse-engineering-the-saboteur-game-for-xbox360-with-linux/) - 2020/12/27
 * [Playstation 3 Proxy for custom firmware version validation in Python](https://daniele.tech/2020/12/playstation-3-proxy-for-custom-firmware-version-validation-in-python/) - 2020/12/07
 * [My free software and open source activities of November 2020](https://daniele.tech/2020/12/my-free-software-and-open-source-activities-of-november-2020/) - 2020/12/02
-* [My free software and open source activities of October 2020](https://daniele.tech/2020/10/my-free-software-and-open-source-activities-of-october-2020/) - 2020/10/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
