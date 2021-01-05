@@ -28,10 +28,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Reverse Engineering The Saboteur game for Xbox360 with Linux - part 2](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-2/) - r/ReverseEngineering
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux](https://daniele.tech/2020/12/reverse-engineering-the-saboteur-game-for-xbox360-with-linux/) - r/REGames
 * [15$ bug bounty for a ticket on vDebug plugin](https://www.reddit.com/r/vim/comments/kgbrzu/15_bug_bounty_for_a_ticket_on_vdebug_plugin/) - r/vim
 * [Quali sono le combinazioni di tasti che usate di piú e su quali programmi?](https://www.reddit.com/r/ItalyInformatica/comments/k8fdb8/quali_sono_le_combinazioni_di_tasti_che_usate_di/) - r/ItalyInformatica
-* [Mozilla Italia DeepSpeech 2020 Contest - I vincitori](https://www.reddit.com/r/ItalyInformatica/comments/k1lwns/mozilla_italia_deepspeech_2020_contest_i_vincitori/) - r/ItalyInformatica
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
