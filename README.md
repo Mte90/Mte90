@@ -28,8 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
-* [Reverse Engineering The Saboteur game for Xbox360 with Linux - part 2](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-2/) - r/ReverseEngineering
-* [Reverse Engineering The Saboteur game for Xbox360 with Linux](https://daniele.tech/2020/12/reverse-engineering-the-saboteur-game-for-xbox360-with-linux/) - r/REGames
+* [Reverse Engineering The Saboteur game for Xbox360 with Linux - part 3](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-3/) - r/REGames
 * [15$ bug bounty for a ticket on vDebug plugin](https://www.reddit.com/r/vim/comments/kgbrzu/15_bug_bounty_for_a_ticket_on_vdebug_plugin/) - r/vim
 * [Quali sono le combinazioni di tasti che usate di piú e su quali programmi?](https://www.reddit.com/r/ItalyInformatica/comments/k8fdb8/quali_sono_le_combinazioni_di_tasti_che_usate_di/) - r/ItalyInformatica
 <!-- reddit_pinned ends -->
@@ -38,11 +37,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 3](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-3/) - 2021/01/17
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 2](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-2/) - 2021/01/03
 * [My free software and open source activities of December 2020](https://daniele.tech/2020/12/my-free-software-and-open-source-activities-of-december-2020/) - 2020/12/30
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux](https://daniele.tech/2020/12/reverse-engineering-the-saboteur-game-for-xbox360-with-linux/) - 2020/12/27
 * [Playstation 3 Proxy for custom firmware version validation in Python](https://daniele.tech/2020/12/playstation-3-proxy-for-custom-firmware-version-validation-in-python/) - 2020/12/07
-* [My free software and open source activities of November 2020](https://daniele.tech/2020/12/my-free-software-and-open-source-activities-of-november-2020/) - 2020/12/02
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
