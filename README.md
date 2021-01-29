@@ -1,5 +1,7 @@
 [Daniele Scasciafratte](https://twitter.com/mte90net), the Open Source Multiversal guy (founder of [Linux User Group Rieti](https://lugrieti.linux.it/)), he should work in his web agency, [Codeat in Rome](https://github.com/CodeAtCode), and in the rest of the day collaborate in many open source projects.
 
+I have an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source and tech opinions every week.
+
 During the office hours for the [WordPress world is a Core Contributor](https://profiles.wordpress.org/mte90/), plugin developer and project translator editor. Creator of [GlotDict](https://github.com/Mte90/GlotDict) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) and one of the maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).  
 In the meantime is a long time experience volunteer in the [Mozilla community](https://mozillians.org/it/u/Mte90/) (part of [Mozilla Italia](https://github.com/MozillaItalia)), a [Mozilla TechSpeakers](https://wiki.mozilla.org/TechSpeakers) also [Mozilla Rep](https://reps.mozilla.org/u/mte90/) (involved in the past in the Reps Council) and often is an [Italian gestures speaker](http://mte90.tech).  
 It is one of the maintainer and leader of the project [DeepSpeech Italian Model](https://github.com/MozillaItalia/DeepSpeech-Italian-Model) ([talk](https://fosdem.org/2020/schedule/event/how_to_get_fun_with_teamwork/) and [updates in Italian](https://discourse.mozilla.org/t/common-voice-per-il-2020-aggiornamenti-periodici/51903)).  
