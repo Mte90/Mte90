@@ -12,6 +12,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [saboteur-team/Saboteur-Xbox360-Patcher LuaP Invincible by WV](https://github.com/saboteur-team/Saboteur-Xbox360-Patcher/releases/tag/luap-invincible) - 2021/01/31
 * [goodhosts/vagrant 1.0.12](https://github.com/goodhosts/vagrant/releases/tag/1.0.12) - 2021/01/18
 * [Mte90/extended-cpts 4.4.1](https://github.com/Mte90/extended-cpts/releases/tag/4.4.1) - 2020/12/30
 * [Mte90/GlotDict 1.6.9](https://github.com/Mte90/GlotDict/releases/tag/v1.6.9) - 2020/12/29
@@ -19,7 +20,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/facebook-direct-links 1.3.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.3.0) - 2020/11/17
 * [Mte90/SyntaxAutoFix 2.4.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.4.0) - 2020/11/02
 * [Mte90/pugdebug 1.1.0](https://github.com/Mte90/pugdebug/releases/tag/1.1.0) - 2020/10/22
-* [Mte90/GH-License 0.2.8](https://github.com/Mte90/GH-License/releases/tag/0.2.8) - 2020/10/05
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -39,11 +39,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of January 2021](https://daniele.tech/2021/01/my-free-software-and-open-source-activities-of-january-2021/) - 2021/01/31
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 3](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-3/) - 2021/01/17
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 2](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-2/) - 2021/01/03
 * [My free software and open source activities of December 2020](https://daniele.tech/2020/12/my-free-software-and-open-source-activities-of-december-2020/) - 2020/12/30
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux](https://daniele.tech/2020/12/reverse-engineering-the-saboteur-game-for-xbox360-with-linux/) - 2020/12/27
-* [Playstation 3 Proxy for custom firmware version validation in Python](https://daniele.tech/2020/12/playstation-3-proxy-for-custom-firmware-version-validation-in-python/) - 2020/12/07
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
