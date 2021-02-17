@@ -12,8 +12,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [goodhosts/vagrant 1.0.13](https://github.com/goodhosts/vagrant/releases/tag/1.0.13) - 2021/02/16
 * [saboteur-team/Saboteur-Xbox360-Patcher LuaP Invincible by WV](https://github.com/saboteur-team/Saboteur-Xbox360-Patcher/releases/tag/luap-invincible) - 2021/01/31
-* [goodhosts/vagrant 1.0.12](https://github.com/goodhosts/vagrant/releases/tag/1.0.12) - 2021/01/18
 * [Mte90/extended-cpts 4.4.1](https://github.com/Mte90/extended-cpts/releases/tag/4.4.1) - 2020/12/30
 * [Mte90/GlotDict 1.6.9](https://github.com/Mte90/GlotDict/releases/tag/v1.6.9) - 2020/12/29
 * [Mte90/Share-Backported 2.1.1](https://github.com/Mte90/Share-Backported/releases/tag/2.1.1) - 2020/12/04
