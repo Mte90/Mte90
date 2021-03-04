@@ -30,7 +30,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
-* [Il mio mapping della tastiera UK su Linux per l'italiano](https://www.reddit.com/r/ItalyInformatica/comments/lsvysx/il_mio_mapping_della_tastiera_uk_su_linux_per/) - r/ItalyInformatica
+* [I vostri dotfiles](https://www.reddit.com/r/ItalyInformatica/comments/lwx6gh/i_vostri_dotfiles/) - r/ItalyInformatica
 * [Thread Twitter riguardo gli spambot su telegram che traccio da qualche mese](https://twitter.com/Mte90Net/status/1354786023599976454) - r/ItalyInformatica
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux - part 3](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-3/) - r/REGames
 * [15$ bug bounty for a ticket on vDebug plugin](https://www.reddit.com/r/vim/comments/kgbrzu/15_bug_bounty_for_a_ticket_on_vdebug_plugin/) - r/vim
@@ -40,11 +40,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [How to manage dotfiles with a Git bare repository](https://daniele.tech/2021/03/how-to-manage-dotfiles-with-a-git-bare-repository/) - 2021/03/03
 * [My free software and open source activities of February 2021](https://daniele.tech/2021/02/my-free-software-and-open-source-activities-of-february-2021/) - 2021/02/28
 * [My free software and open source activities of January 2021](https://daniele.tech/2021/01/my-free-software-and-open-source-activities-of-january-2021/) - 2021/01/31
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 3](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-3/) - 2021/01/17
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 2](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-2/) - 2021/01/03
-* [My free software and open source activities of December 2020](https://daniele.tech/2020/12/my-free-software-and-open-source-activities-of-december-2020/) - 2020/12/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
