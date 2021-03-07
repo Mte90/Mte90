@@ -33,7 +33,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [I vostri dotfiles](https://www.reddit.com/r/ItalyInformatica/comments/lwx6gh/i_vostri_dotfiles/) - r/ItalyInformatica
 * [Thread Twitter riguardo gli spambot su telegram che traccio da qualche mese](https://twitter.com/Mte90Net/status/1354786023599976454) - r/ItalyInformatica
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux - part 3](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-3/) - r/REGames
-* [15$ bug bounty for a ticket on vDebug plugin](https://www.reddit.com/r/vim/comments/kgbrzu/15_bug_bounty_for_a_ticket_on_vdebug_plugin/) - r/vim
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
