@@ -30,10 +30,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Candidatura per il direttivo di Italian Linux Society - YouTube](https://www.youtube.com/watch?v=SFiyLfF1b-A) - u/Mte90
 * [pugdebug 1.1.1 - xDebug 3.0 client in python and qt got a new release](https://github.com/Mte90/pugdebug) - r/coolgithubprojects
 * [I vostri dotfiles](https://www.reddit.com/r/ItalyInformatica/comments/lwx6gh/i_vostri_dotfiles/) - r/ItalyInformatica
 * [Thread Twitter riguardo gli spambot su telegram che traccio da qualche mese](https://twitter.com/Mte90Net/status/1354786023599976454) - r/ItalyInformatica
-* [Reverse Engineering The Saboteur game for Xbox360 with Linux - part 3](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-3/) - r/REGames
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
