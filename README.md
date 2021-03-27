@@ -12,6 +12,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/AuroraLocalCoopFilters 1.0.0](https://github.com/Mte90/AuroraLocalCoopFilters/releases/tag/1.0.0) - 2021/03/26
 * [Mte90/pugdebug 1.1.1](https://github.com/Mte90/pugdebug/releases/tag/1.1.1) - 2021/03/11
 * [goodhosts/vagrant 1.0.13](https://github.com/goodhosts/vagrant/releases/tag/1.0.13) - 2021/02/16
 * [saboteur-team/Saboteur-Xbox360-Patcher LuaP Invincible by WV](https://github.com/saboteur-team/Saboteur-Xbox360-Patcher/releases/tag/luap-invincible) - 2021/01/31
@@ -19,7 +20,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/GlotDict 1.6.9](https://github.com/Mte90/GlotDict/releases/tag/v1.6.9) - 2020/12/29
 * [Mte90/Share-Backported 2.1.1](https://github.com/Mte90/Share-Backported/releases/tag/2.1.1) - 2020/12/04
 * [Mte90/facebook-direct-links 1.3.0](https://github.com/Mte90/facebook-direct-links/releases/tag/1.3.0) - 2020/11/17
-* [Mte90/SyntaxAutoFix 2.4.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.4.0) - 2020/11/02
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -30,8 +30,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [AuroraLocalCoopFilters - Now you can filters coop games again in your xbox360 dashboard - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/03/auroralocalcoopfilters-filters-coop-games-xbox360-dashboard/) - u/Mte90
 * [Candidatura per il direttivo di Italian Linux Society - YouTube](https://www.youtube.com/watch?v=SFiyLfF1b-A) - u/Mte90
-* [pugdebug 1.1.1 - xDebug 3.0 client in python and qt got a new release](https://github.com/Mte90/pugdebug) - r/coolgithubprojects
 * [I vostri dotfiles](https://www.reddit.com/r/ItalyInformatica/comments/lwx6gh/i_vostri_dotfiles/) - r/ItalyInformatica
 * [Thread Twitter riguardo gli spambot su telegram che traccio da qualche mese](https://twitter.com/Mte90Net/status/1354786023599976454) - r/ItalyInformatica
 <!-- reddit_pinned ends -->
@@ -40,11 +40,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [AuroraLocalCoopFilters – Now you can filters coop games again in your xbox360 dashboard](https://daniele.tech/2021/03/auroralocalcoopfilters-filters-coop-games-xbox360-dashboard/) - 2021/03/26
 * [How to manage dotfiles with a Git bare repository](https://daniele.tech/2021/03/how-to-manage-dotfiles-with-a-git-bare-repository/) - 2021/03/03
 * [My free software and open source activities of February 2021](https://daniele.tech/2021/02/my-free-software-and-open-source-activities-of-february-2021/) - 2021/02/28
 * [My free software and open source activities of January 2021](https://daniele.tech/2021/01/my-free-software-and-open-source-activities-of-january-2021/) - 2021/01/31
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 3](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-3/) - 2021/01/17
-* [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 2](https://daniele.tech/2021/01/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-2/) - 2021/01/03
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
