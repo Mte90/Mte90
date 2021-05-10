@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [CV Project Contest by Mozilla Italia – Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - 2021/05/09
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - 2021/05/07
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 4](https://daniele.tech/2021/04/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-4/) - 2021/04/24
 * [My free software and open source activities of March 2021](https://daniele.tech/2021/03/my-free-software-and-open-source-activities-of-march-2021/) - 2021/03/31
 * [AuroraLocalCoopFilters – Now you can filters coop games again in your xbox360 dashboard](https://daniele.tech/2021/03/auroralocalcoopfilters-filters-coop-games-xbox360-dashboard/) - 2021/03/26
-* [How to manage dotfiles with a Git bare repository](https://daniele.tech/2021/03/how-to-manage-dotfiles-with-a-git-bare-repository/) - 2021/03/03
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
