@@ -54,5 +54,5 @@ More on [daniele.tech](https://daniele.tech/)
 ![Mte90's github stats](https://github-readme-stats.vercel.app/api?username=mte90&show_icons=true)
   
 </td><td valign="top" style="width: 50%;">
-  [![Podcast](https://daniele.tech/wp-content/uploads/2020/12/Open_source1-300x300.png)](https://daniele.tech/podcast)
+  <a href="https://daniele.tech/podcast"><img src="https://daniele.tech/wp-content/uploads/2020/12/Open_source1-300x300.png"></a>
 </td></tr></table>
