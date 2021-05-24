@@ -31,9 +31,9 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
-* [AuroraLocalCoopFilters - Now you can filters coop games again in your xbox360 dashboard - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/03/auroralocalcoopfilters-filters-coop-games-xbox360-dashboard/) - u/Mte90
-* [Candidatura per il direttivo di Italian Linux Society - YouTube](https://www.youtube.com/watch?v=SFiyLfF1b-A) - u/Mte90
-* [I vostri dotfiles](https://www.reddit.com/r/ItalyInformatica/comments/lwx6gh/i_vostri_dotfiles/) - r/ItalyInformatica
+* [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - r/grafana
+* [CV Project Contest by Mozilla Italia for Common Voice - Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - r/firefox
+* [Un (lungo) resoconto organizzativo del MERGE-it 2021 - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/05/un-lungo-resoconto-organizzativo-del-merge-it-2021/) - u/Mte90
 * [Thread Twitter riguardo gli spambot su telegram che traccio da qualche mese](https://twitter.com/Mte90Net/status/1354786023599976454) - r/ItalyInformatica
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
@@ -43,9 +43,9 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 <!-- blog starts -->
 * [CV Project Contest by Mozilla Italia – Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - 2021/05/09
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - 2021/05/07
+* [My free software and open source activities of April 2021](https://daniele.tech/2021/04/my-free-software-and-open-source-activities-of-april-2021/) - 2021/04/30
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 4](https://daniele.tech/2021/04/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-4/) - 2021/04/24
 * [My free software and open source activities of March 2021](https://daniele.tech/2021/03/my-free-software-and-open-source-activities-of-march-2021/) - 2021/03/31
-* [AuroraLocalCoopFilters – Now you can filters coop games again in your xbox360 dashboard](https://daniele.tech/2021/03/auroralocalcoopfilters-filters-coop-games-xbox360-dashboard/) - 2021/03/26
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
