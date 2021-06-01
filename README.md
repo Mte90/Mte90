@@ -31,21 +31,21 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Plugins alternative in Lua](https://www.reddit.com/r/neovim/comments/n11n33/plugins_alternative_in_lua/) - r/neovim
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - r/grafana
 * [CV Project Contest by Mozilla Italia for Common Voice - Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - r/firefox
 * [Un (lungo) resoconto organizzativo del MERGE-it 2021 - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/05/un-lungo-resoconto-organizzativo-del-merge-it-2021/) - u/Mte90
-* [Thread Twitter riguardo gli spambot su telegram che traccio da qualche mese](https://twitter.com/Mte90Net/status/1354786023599976454) - r/ItalyInformatica
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of May 2021](https://daniele.tech/2021/05/my-free-software-and-open-source-activities-of-may-2021/) - 2021/05/31
 * [CV Project Contest by Mozilla Italia – Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - 2021/05/09
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - 2021/05/07
 * [My free software and open source activities of April 2021](https://daniele.tech/2021/04/my-free-software-and-open-source-activities-of-april-2021/) - 2021/04/30
 * [Reverse Engineering The Saboteur game for Xbox360 with Linux – part 4](https://daniele.tech/2021/04/reverse-engineering-the-saboteur-game-for-xbox360-with-linux-part-4/) - 2021/04/24
-* [My free software and open source activities of March 2021](https://daniele.tech/2021/03/my-free-software-and-open-source-activities-of-march-2021/) - 2021/03/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
