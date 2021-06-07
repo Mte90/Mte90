@@ -31,7 +31,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
-* [Plugins alternative in Lua](https://www.reddit.com/r/neovim/comments/n11n33/plugins_alternative_in_lua/) - r/neovim
+* [Un riassunto di tutte le sessioni del MERGE-it 2021 - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/06/un-riassunto-di-tutte-le-sessioni-del-merge-it-2021/) - u/Mte90
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - r/grafana
 * [CV Project Contest by Mozilla Italia for Common Voice - Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - r/firefox
 * [Un (lungo) resoconto organizzativo del MERGE-it 2021 - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/05/un-lungo-resoconto-organizzativo-del-merge-it-2021/) - u/Mte90
