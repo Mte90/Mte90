@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of June 2021](https://daniele.tech/2021/06/my-free-software-and-open-source-activities-of-june-2021/) - 2021/06/30
 * [Revert Firefox Proton UI to previous theme](https://daniele.tech/2021/06/revert-firefox-proton-ui-to-previous-theme/) - 2021/06/21
 * [My free software and open source activities of May 2021](https://daniele.tech/2021/05/my-free-software-and-open-source-activities-of-may-2021/) - 2021/05/31
 * [CV Project Contest by Mozilla Italia – Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - 2021/05/09
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - 2021/05/07
-* [My free software and open source activities of April 2021](https://daniele.tech/2021/04/my-free-software-and-open-source-activities-of-april-2021/) - 2021/04/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
