@@ -16,11 +16,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/SyntaxAutoFix 2.5.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.0) - 2021/07/12
 * [goodhosts/vagrant 1.0.16](https://github.com/goodhosts/vagrant/releases/tag/1.0.16) - 2021/06/22
 * [Mte90/GlotDict 1.6.10](https://github.com/Mte90/GlotDict/releases/tag/1.6.10) - 2021/06/10
+* [evanbowman/blind-jump-portable ](https://github.com/evanbowman/blind-jump-portable/releases/tag/2021.5.29.0) - 2021/05/29
 * [Mte90/extended-cpts 4.5.2](https://github.com/Mte90/extended-cpts/releases/tag/4.5.2) - 2021/05/03
 * [Mte90/AuroraLocalCoopFilters 1.0.0](https://github.com/Mte90/AuroraLocalCoopFilters/releases/tag/1.0.0) - 2021/03/26
 * [Mte90/pugdebug 1.1.1](https://github.com/Mte90/pugdebug/releases/tag/1.1.1) - 2021/03/11
 * [saboteur-team/Saboteur-Xbox360-Patcher LuaP Invincible by WV](https://github.com/saboteur-team/Saboteur-Xbox360-Patcher/releases/tag/luap-invincible) - 2021/01/31
-* [Mte90/Share-Backported 2.1.1](https://github.com/Mte90/Share-Backported/releases/tag/2.1.1) - 2020/12/04
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
