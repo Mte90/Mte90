@@ -13,6 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.3) - 2021/07/14
 * [Mte90/SyntaxAutoFix 2.5.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.0) - 2021/07/12
 * [goodhosts/vagrant 1.0.16](https://github.com/goodhosts/vagrant/releases/tag/1.0.16) - 2021/06/22
 * [Mte90/GlotDict 1.6.10](https://github.com/Mte90/GlotDict/releases/tag/1.6.10) - 2021/06/10
@@ -20,7 +21,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/extended-cpts 4.5.2](https://github.com/Mte90/extended-cpts/releases/tag/4.5.2) - 2021/05/03
 * [Mte90/AuroraLocalCoopFilters 1.0.0](https://github.com/Mte90/AuroraLocalCoopFilters/releases/tag/1.0.0) - 2021/03/26
 * [Mte90/pugdebug 1.1.1](https://github.com/Mte90/pugdebug/releases/tag/1.1.1) - 2021/03/11
-* [saboteur-team/Saboteur-Xbox360-Patcher LuaP Invincible by WV](https://github.com/saboteur-team/Saboteur-Xbox360-Patcher/releases/tag/luap-invincible) - 2021/01/31
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -31,21 +31,21 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [NeoVim LSP with Intelephense for PHP and WordPress (and others)](https://daniele.tech/2021/07/neovim-lsp-with-intelephense-for-php-and-wordpress-and-others/) - r/neovim
 * [Un riassunto di tutte le sessioni del MERGE-it 2021 - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/06/un-riassunto-di-tutte-le-sessioni-del-merge-it-2021/) - u/Mte90
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - r/grafana
 * [CV Project Contest by Mozilla Italia for Common Voice - Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - r/firefox
-* [Un (lungo) resoconto organizzativo del MERGE-it 2021 - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/05/un-lungo-resoconto-organizzativo-del-merge-it-2021/) - u/Mte90
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [NeoVim LSP with Intelephense for PHP and WordPress (and others)](https://daniele.tech/2021/07/neovim-lsp-with-intelephense-for-php-and-wordpress-and-others/) - 2021/07/14
 * [My free software and open source activities of June 2021](https://daniele.tech/2021/06/my-free-software-and-open-source-activities-of-june-2021/) - 2021/06/30
 * [Revert Firefox Proton UI to previous theme](https://daniele.tech/2021/06/revert-firefox-proton-ui-to-previous-theme/) - 2021/06/21
 * [My free software and open source activities of May 2021](https://daniele.tech/2021/05/my-free-software-and-open-source-activities-of-may-2021/) - 2021/05/31
 * [CV Project Contest by Mozilla Italia – Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - 2021/05/09
-* [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - 2021/05/07
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
