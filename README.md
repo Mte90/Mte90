@@ -13,7 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [evanbowman/blind-jump-portable ](https://github.com/evanbowman/blind-jump-portable/releases/tag/2021.7.22.1) - 2021/07/22
+* [evanbowman/blind-jump-portable ](https://github.com/evanbowman/blind-jump-portable/releases/tag/2021.8.8.0) - 2021/08/08
 * [goodhosts/vagrant 1.0.17](https://github.com/goodhosts/vagrant/releases/tag/1.0.17) - 2021/07/15
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.3) - 2021/07/14
 * [Mte90/SyntaxAutoFix 2.5.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.0) - 2021/07/12
