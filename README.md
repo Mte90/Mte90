@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of August 2021](https://daniele.tech/2021/08/my-free-software-and-open-source-activities-of-august-2021/) - 2021/08/31
 * [My free software and open source activities of July 2021](https://daniele.tech/2021/07/my-free-software-and-open-source-activities-of-july-2021/) - 2021/07/31
 * [NeoVim LSP with Intelephense for PHP and WordPress (and others)](https://daniele.tech/2021/07/neovim-lsp-with-intelephense-for-php-and-wordpress-and-others/) - 2021/07/14
 * [My free software and open source activities of June 2021](https://daniele.tech/2021/06/my-free-software-and-open-source-activities-of-june-2021/) - 2021/06/30
 * [Revert Firefox Proton UI to previous theme](https://daniele.tech/2021/06/revert-firefox-proton-ui-to-previous-theme/) - 2021/06/21
-* [My free software and open source activities of May 2021](https://daniele.tech/2021/05/my-free-software-and-open-source-activities-of-may-2021/) - 2021/05/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
