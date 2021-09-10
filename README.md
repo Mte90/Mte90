@@ -13,6 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/gitapper 1.0.0](https://github.com/Mte90/gitapper/releases/tag/1.0.0) - 2021/09/09
 * [common-voice/community-playbook V1.2](https://github.com/common-voice/community-playbook/releases/tag/V1.2) - 2021/08/23
 * [Mte90/GlotDict 1.7.0](https://github.com/Mte90/GlotDict/releases/tag/v1.7.0) - 2021/08/17
 * [evanbowman/blind-jump-portable ](https://github.com/evanbowman/blind-jump-portable/releases/tag/2021.8.8.0) - 2021/08/08
@@ -20,7 +21,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.3) - 2021/07/14
 * [Mte90/SyntaxAutoFix 2.5.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.0) - 2021/07/12
 * [Mte90/extended-cpts 4.5.2](https://github.com/Mte90/extended-cpts/releases/tag/4.5.2) - 2021/05/03
-* [Mte90/AuroraLocalCoopFilters 1.0.0](https://github.com/Mte90/AuroraLocalCoopFilters/releases/tag/1.0.0) - 2021/03/26
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
