@@ -31,7 +31,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
-* [NeoVim LSP with Intelephense for PHP and WordPress (and others)](https://daniele.tech/2021/07/neovim-lsp-with-intelephense-for-php-and-wordpress-and-others/) - r/neovim
+* [Mte90/gitapper: Remap Git with your custom scripts or new commands](https://github.com/Mte90/gitapper) - r/coolgithubprojects
 * [Un riassunto di tutte le sessioni del MERGE-it 2021 - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/06/un-riassunto-di-tutte-le-sessioni-del-merge-it-2021/) - u/Mte90
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - r/grafana
 * [CV Project Contest by Mozilla Italia for Common Voice - Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - r/firefox
@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [GitApper or a way to extend Git without alias or custom scripts](https://daniele.tech/2021/09/gitapper-or-a-way-to-extend-git-without-alias-or-custom-scripts/) - 2021/09/10
 * [My free software and open source activities of August 2021](https://daniele.tech/2021/08/my-free-software-and-open-source-activities-of-august-2021/) - 2021/08/31
 * [My free software and open source activities of July 2021](https://daniele.tech/2021/07/my-free-software-and-open-source-activities-of-july-2021/) - 2021/07/31
 * [NeoVim LSP with Intelephense for PHP and WordPress (and others)](https://daniele.tech/2021/07/neovim-lsp-with-intelephense-for-php-and-wordpress-and-others/) - 2021/07/14
 * [My free software and open source activities of June 2021](https://daniele.tech/2021/06/my-free-software-and-open-source-activities-of-june-2021/) - 2021/06/30
-* [Revert Firefox Proton UI to previous theme](https://daniele.tech/2021/06/revert-firefox-proton-ui-to-previous-theme/) - 2021/06/21
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
