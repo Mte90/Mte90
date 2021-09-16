@@ -13,9 +13,9 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GlotDict 2.0.1](https://github.com/Mte90/GlotDict/releases/tag/v2.0.1) - 2021/09/15
 * [Mte90/gitapper 1.0.0](https://github.com/Mte90/gitapper/releases/tag/1.0.0) - 2021/09/09
 * [common-voice/community-playbook V1.2](https://github.com/common-voice/community-playbook/releases/tag/V1.2) - 2021/08/23
-* [Mte90/GlotDict 1.7.0](https://github.com/Mte90/GlotDict/releases/tag/v1.7.0) - 2021/08/17
 * [evanbowman/blind-jump-portable ](https://github.com/evanbowman/blind-jump-portable/releases/tag/2021.8.8.0) - 2021/08/08
 * [goodhosts/vagrant 1.0.17](https://github.com/goodhosts/vagrant/releases/tag/1.0.17) - 2021/07/15
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.3) - 2021/07/14
@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [Autocomplete WordPress Hooks in NeoVim](https://daniele.tech/2021/09/autocomplete-wordpress-hooks-in-neovim/) - 2021/09/15
 * [GitApper or a way to extend Git without alias or custom scripts](https://daniele.tech/2021/09/gitapper-or-a-way-to-extend-git-without-alias-or-custom-scripts/) - 2021/09/10
 * [My free software and open source activities of August 2021](https://daniele.tech/2021/08/my-free-software-and-open-source-activities-of-august-2021/) - 2021/08/31
 * [My free software and open source activities of July 2021](https://daniele.tech/2021/07/my-free-software-and-open-source-activities-of-july-2021/) - 2021/07/31
 * [NeoVim LSP with Intelephense for PHP and WordPress (and others)](https://daniele.tech/2021/07/neovim-lsp-with-intelephense-for-php-and-wordpress-and-others/) - 2021/07/14
-* [My free software and open source activities of June 2021](https://daniele.tech/2021/06/my-free-software-and-open-source-activities-of-june-2021/) - 2021/06/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
