@@ -13,7 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/GlotDict 2.0.1](https://github.com/Mte90/GlotDict/releases/tag/v2.0.1) - 2021/09/15
+* [Mte90/GlotDict 2.0.2](https://github.com/Mte90/GlotDict/releases/tag/v2.0.2) - 2021/09/16
 * [Mte90/gitapper 1.0.0](https://github.com/Mte90/gitapper/releases/tag/1.0.0) - 2021/09/09
 * [common-voice/community-playbook V1.2](https://github.com/common-voice/community-playbook/releases/tag/V1.2) - 2021/08/23
 * [evanbowman/blind-jump-portable ](https://github.com/evanbowman/blind-jump-portable/releases/tag/2021.8.8.0) - 2021/08/08
@@ -31,10 +31,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Autocomplete WordPress Hooks in NeoVim - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/09/autocomplete-wordpress-hooks-in-neovim/) - u/Mte90
 * [Mte90/gitapper: Remap Git with your custom scripts or new commands](https://github.com/Mte90/gitapper) - r/coolgithubprojects
 * [Un riassunto di tutte le sessioni del MERGE-it 2021 - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/06/un-riassunto-di-tutte-le-sessioni-del-merge-it-2021/) - u/Mte90
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - r/grafana
-* [CV Project Contest by Mozilla Italia for Common Voice - Report](https://daniele.tech/2021/05/cv-project-contest-by-mozilla-italia-report/) - r/firefox
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
