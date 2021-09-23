@@ -31,9 +31,9 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [2000€ all'app open source CV Project da parte di Italian Linux Society](https://www.ils.org/2021/09/20/sostegno-common-voice.html) - r/ItalyInformatica
 * [Autocomplete WordPress Hooks in NeoVim - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/09/autocomplete-wordpress-hooks-in-neovim/) - u/Mte90
 * [Mte90/gitapper: Remap Git with your custom scripts or new commands](https://github.com/Mte90/gitapper) - r/coolgithubprojects
-* [Un riassunto di tutte le sessioni del MERGE-it 2021 - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/06/un-riassunto-di-tutte-le-sessioni-del-merge-it-2021/) - u/Mte90
 * [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - r/grafana
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
