@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [How to change the widget HTML by a child WordPress theme](https://daniele.tech/2021/09/how-to-change-the-widget-html-by-a-child-wordpress-theme/) - 2021/09/23
 * [Autocomplete WordPress Hooks in NeoVim](https://daniele.tech/2021/09/autocomplete-wordpress-hooks-in-neovim/) - 2021/09/15
 * [GitApper or a way to extend Git without alias or custom scripts](https://daniele.tech/2021/09/gitapper-or-a-way-to-extend-git-without-alias-or-custom-scripts/) - 2021/09/10
 * [My free software and open source activities of August 2021](https://daniele.tech/2021/08/my-free-software-and-open-source-activities-of-august-2021/) - 2021/08/31
 * [My free software and open source activities of July 2021](https://daniele.tech/2021/07/my-free-software-and-open-source-activities-of-july-2021/) - 2021/07/31
-* [NeoVim LSP with Intelephense for PHP and WordPress (and others)](https://daniele.tech/2021/07/neovim-lsp-with-intelephense-for-php-and-wordpress-and-others/) - 2021/07/14
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
