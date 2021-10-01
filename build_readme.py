@@ -70,7 +70,7 @@ def fetch_releases(oauth_token):
         print(json.dumps(data, indent=4))
         print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
-            if len(repo["releases"]["nodes"]) != 0 and repo["releases"]["nodes"]["author"]["login"] == 'Mte90':
+            if len(repo["releases"]["nodes"]) != 0 and repo["releases"]["nodes"][0]["author"]["login"] == 'Mte90':
                 releases.append(
                     {
                         "nameWithOwner": repo["nameWithOwner"],
