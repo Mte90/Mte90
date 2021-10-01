@@ -42,6 +42,9 @@ query {
             name
             publishedAt
             url
+            author {
+              login
+            }
           }
         }
       }
@@ -67,7 +70,7 @@ def fetch_releases(oauth_token):
         print(json.dumps(data, indent=4))
         print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
-            if repo["releases"]["totalCount"]:
+            if repo["releases"]["totalCount"] && repo["releases"]["nodes"]["author"]["login"] == 'Mte90':
                 releases.append(
                     {
                         "nameWithOwner": repo["nameWithOwner"],
