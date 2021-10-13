@@ -13,7 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [goodhosts/vagrant 1.0.18](https://github.com/goodhosts/vagrant/releases/tag/1.0.18) - 2021/10/11
+* [goodhosts/vagrant 1.0.19](https://github.com/goodhosts/vagrant/releases/tag/1.0.19) - 2021/10/12
 * [Mte90/GlotDict 2.0.3](https://github.com/Mte90/GlotDict/releases/tag/v2.0.3) - 2021/10/11
 * [Mte90/gitapper 1.0.0](https://github.com/Mte90/gitapper/releases/tag/1.0.0) - 2021/09/09
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.3) - 2021/07/14
