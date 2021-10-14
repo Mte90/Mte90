@@ -13,14 +13,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [goodhosts/vagrant 1.0.19](https://github.com/goodhosts/vagrant/releases/tag/1.0.19) - 2021/10/12
+* [goodhosts/vagrant 1.1.0](https://github.com/goodhosts/vagrant/releases/tag/1.1.0) - 2021/10/13
+* [Mte90/Share-Backported 2.1.2](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.2) - 2021/10/13
 * [Mte90/GlotDict 2.0.3](https://github.com/Mte90/GlotDict/releases/tag/v2.0.3) - 2021/10/11
 * [Mte90/gitapper 1.0.0](https://github.com/Mte90/gitapper/releases/tag/1.0.0) - 2021/09/09
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.3) - 2021/07/14
 * [Mte90/SyntaxAutoFix 2.5.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.0) - 2021/07/12
 * [Mte90/extended-cpts 4.5.2](https://github.com/Mte90/extended-cpts/releases/tag/4.5.2) - 2021/05/03
 * [Mte90/AuroraLocalCoopFilters 1.0.0](https://github.com/Mte90/AuroraLocalCoopFilters/releases/tag/1.0.0) - 2021/03/26
-* [Mte90/pugdebug 1.1.1](https://github.com/Mte90/pugdebug/releases/tag/1.1.1) - 2021/03/11
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
