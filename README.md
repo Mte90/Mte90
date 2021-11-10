@@ -13,13 +13,13 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/SyntaxAutoFix 2.5.1](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.1) - 2021/11/09
+* [Mte90/facebook-direct-links 1.3.2](https://github.com/Mte90/facebook-direct-links/releases/tag/v1.3.2) - 2021/11/09
 * [goodhosts/vagrant 1.1.1](https://github.com/goodhosts/vagrant/releases/tag/1.1.1) - 2021/11/04
-* [Mte90/facebook-direct-links 1.3.1](https://github.com/Mte90/facebook-direct-links/releases/tag/1.3.1) - 2021/11/02
 * [Mte90/Share-Backported 2.1.4](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.4) - 2021/10/20
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.4](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.4) - 2021/10/14
 * [Mte90/GlotDict 2.0.3](https://github.com/Mte90/GlotDict/releases/tag/v2.0.3) - 2021/10/11
 * [Mte90/gitapper 1.0.0](https://github.com/Mte90/gitapper/releases/tag/1.0.0) - 2021/09/09
-* [Mte90/SyntaxAutoFix 2.5.0](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.0) - 2021/07/12
 * [Mte90/extended-cpts 4.5.2](https://github.com/Mte90/extended-cpts/releases/tag/4.5.2) - 2021/05/03
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
