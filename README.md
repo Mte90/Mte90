@@ -31,21 +31,21 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Italian Linux Society donated 9000€~ to FOSS projects in 2021](https://www.reddit.com/r/opensource/comments/rrzg6g/italian_linux_society_donated_9000_to_foss/) - r/opensource
 * [Come fare uno scraper asincrono in Python - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/11/come-fare-uno-scraper-asincrono-in-python/) - u/Mte90
 * [Autocomplete WordPress Hooks in NeoVim - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/09/autocomplete-wordpress-hooks-in-neovim/) - u/Mte90
 * [Mte90/gitapper: Remap Git with your custom scripts or new commands](https://github.com/Mte90/gitapper) - r/coolgithubprojects
-* [PHP Error Log Exporter for Prometheus with Grafana dashboard](https://daniele.tech/2021/05/php-error-log-exporter-for-prometheus-with-grafana-dashboard/) - r/grafana
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of December 2021](https://daniele.tech/2021/12/my-free-software-and-open-source-activities-of-december-2021/) - 2021/12/30
 * [My free software and open source activities of November 2021](https://daniele.tech/2021/11/my-free-software-and-open-source-activities-of-november-2021/) - 2021/11/30
 * [Extract data from PDF files with Python](https://daniele.tech/2021/11/extract-data-from-pdf-files-with-python/) - 2021/11/17
 * [My free software and open source activities of October 2021](https://daniele.tech/2021/10/my-free-software-and-open-source-activities-of-october-2021/) - 2021/10/30
 * [My free software and open source activities of September 2021](https://daniele.tech/2021/09/my-free-software-and-open-source-activities-of-september-2021/) - 2021/09/30
-* [How to change the widget HTML by a child WordPress theme](https://daniele.tech/2021/09/how-to-change-the-widget-html-by-a-child-wordpress-theme/) - 2021/09/23
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
