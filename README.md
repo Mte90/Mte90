@@ -13,7 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [goodhosts/vagrant 1.1.2](https://github.com/goodhosts/vagrant/releases/tag/1.1.2) - 2021/12/16
+* [goodhosts/vagrant 1.1.3](https://github.com/goodhosts/vagrant/releases/tag/1.1.3) - 2022/01/04
 * [Mte90/facebook-direct-links 1.3.5](https://github.com/Mte90/facebook-direct-links/releases/tag/v1.3.5) - 2021/11/29
 * [Mte90/SyntaxAutoFix 2.5.1](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.1) - 2021/11/09
 * [Mte90/Share-Backported 2.1.4](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.4) - 2021/10/20
