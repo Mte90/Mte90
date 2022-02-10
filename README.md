@@ -13,8 +13,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GlotDict 2.0.5](https://github.com/Mte90/GlotDict/releases/tag/v2.0.5) - 2022/02/09
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.5](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.5) - 2022/02/03
-* [Mte90/GlotDict 2.0.4](https://github.com/Mte90/GlotDict/releases/tag/v2.0.4) - 2022/01/31
 * [goodhosts/vagrant 1.1.3](https://github.com/goodhosts/vagrant/releases/tag/1.1.3) - 2022/01/04
 * [Mte90/facebook-direct-links 1.3.5](https://github.com/Mte90/facebook-direct-links/releases/tag/v1.3.5) - 2021/11/29
 * [Mte90/SyntaxAutoFix 2.5.1](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.1) - 2021/11/09
@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of January 2022](https://daniele.tech/2022/01/my-free-software-and-open-source-activities-of-january-2022/) - 2022/01/31
 * [Modern alternatives to famous shell commands](https://daniele.tech/2022/01/modern-alternatives-to-famous-shell-commands/) - 2022/01/17
 * [How I manage my MP3 collections in 2022](https://daniele.tech/2022/01/how-i-manage-my-mp3-collections-in-2022/) - 2022/01/02
 * [My 2021’s life recap](https://daniele.tech/2021/12/my-2021s-life-recap/) - 2021/12/31
 * [My free software and open source activities of December 2021](https://daniele.tech/2021/12/my-free-software-and-open-source-activities-of-december-2021/) - 2021/12/30
-* [My free software and open source activities of November 2021](https://daniele.tech/2021/11/my-free-software-and-open-source-activities-of-november-2021/) - 2021/11/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
