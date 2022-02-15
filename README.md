@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [FLoC & Topics API by Google against Interoperable Private Attribution by Mozilla](https://daniele.tech/2022/02/floc-topics-api-by-google-against-interoperable-private-attribution-by-mozilla/) - 2022/02/14
 * [My free software and open source activities of January 2022](https://daniele.tech/2022/01/my-free-software-and-open-source-activities-of-january-2022/) - 2022/01/31
 * [Modern alternatives to famous shell commands](https://daniele.tech/2022/01/modern-alternatives-to-famous-shell-commands/) - 2022/01/17
 * [How I manage my MP3 collections in 2022](https://daniele.tech/2022/01/how-i-manage-my-mp3-collections-in-2022/) - 2022/01/02
 * [My 2021’s life recap](https://daniele.tech/2021/12/my-2021s-life-recap/) - 2021/12/31
-* [My free software and open source activities of December 2021](https://daniele.tech/2021/12/my-free-software-and-open-source-activities-of-december-2021/) - 2021/12/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
