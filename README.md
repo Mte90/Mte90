@@ -31,10 +31,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [FLoC &amp; Topics API by Google against Interoperable Private Attribution by Mozilla](https://daniele.tech/2022/02/floc-topics-api-by-google-against-interoperable-private-attribution-by-mozilla/) - r/firefox
 * [Italian Linux Society donated 9000€~ to FOSS projects in 2021](https://www.reddit.com/r/opensource/comments/rrzg6g/italian_linux_society_donated_9000_to_foss/) - r/opensource
 * [Come fare uno scraper asincrono in Python - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/11/come-fare-uno-scraper-asincrono-in-python/) - u/Mte90
 * [Autocomplete WordPress Hooks in NeoVim - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/09/autocomplete-wordpress-hooks-in-neovim/) - u/Mte90
-* [Mte90/gitapper: Remap Git with your custom scripts or new commands](https://github.com/Mte90/gitapper) - r/coolgithubprojects
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
