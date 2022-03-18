@@ -13,13 +13,13 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/Share-Backported 2.1.5](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.5) - 2022/03/17
 * [Mte90/gitapper 1.0.1](https://github.com/Mte90/gitapper/releases/tag/1.0.1) - 2022/03/14
 * [Mte90/GlotDict 2.0.5](https://github.com/Mte90/GlotDict/releases/tag/v2.0.5) - 2022/02/09
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.5](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.5) - 2022/02/03
 * [goodhosts/vagrant 1.1.3](https://github.com/goodhosts/vagrant/releases/tag/1.1.3) - 2022/01/04
 * [Mte90/facebook-direct-links 1.3.5](https://github.com/Mte90/facebook-direct-links/releases/tag/v1.3.5) - 2021/11/29
 * [Mte90/SyntaxAutoFix 2.5.1](https://github.com/Mte90/SyntaxAutoFix/releases/tag/2.5.1) - 2021/11/09
-* [Mte90/Share-Backported 2.1.4](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.4) - 2021/10/20
 * [Mte90/extended-cpts 4.5.2](https://github.com/Mte90/extended-cpts/releases/tag/4.5.2) - 2021/05/03
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [The Disruptive power of NPM developers for the Open Source brand](https://daniele.tech/2022/03/the-disruptive-power-of-npm-developers-for-the-open-source-brand/) - 2022/03/17
 * [My free software and open source activities of February 2022](https://daniele.tech/2022/02/my-free-software-and-open-source-activities-of-february-2022/) - 2022/02/28
 * [How many Firefox forks there are around?](https://daniele.tech/2022/02/how-many-firefox-forks-there-are-around/) - 2022/02/28
 * [FLoC & Topics API by Google against Interoperable Private Attribution by Mozilla](https://daniele.tech/2022/02/floc-topics-api-by-google-against-interoperable-private-attribution-by-mozilla/) - 2022/02/14
 * [My free software and open source activities of January 2022](https://daniele.tech/2022/01/my-free-software-and-open-source-activities-of-january-2022/) - 2022/01/31
-* [Modern alternatives to famous shell commands](https://daniele.tech/2022/01/modern-alternatives-to-famous-shell-commands/) - 2022/01/17
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
