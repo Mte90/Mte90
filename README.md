@@ -33,7 +33,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 <!-- reddit_pinned starts -->
 * [Hide Youtube video from new Reddit design](https://www.reddit.com/r/userscripts/comments/svfuva/hide_youtube_video_from_new_reddit_design/) - r/userscripts
 * [FLoC &amp; Topics API by Google against Interoperable Private Attribution by Mozilla](https://daniele.tech/2022/02/floc-topics-api-by-google-against-interoperable-private-attribution-by-mozilla/) - r/firefox
-* [Come fare uno scraper asincrono in Python - Daniele Mte90 Scasciafratte](https://daniele.tech/2021/11/come-fare-uno-scraper-asincrono-in-python/) - u/Mte90
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
