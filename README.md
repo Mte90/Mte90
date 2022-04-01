@@ -31,6 +31,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [The Disruptive power of NPM developers for the Open Source brand - Daniele Mte90 Scasciafratte](https://daniele.tech/2022/03/the-disruptive-power-of-npm-developers-for-the-open-source-brand/) - u/Mte90
 * [Hide Youtube video from new Reddit design](https://www.reddit.com/r/userscripts/comments/svfuva/hide_youtube_video_from_new_reddit_design/) - r/userscripts
 * [FLoC &amp; Topics API by Google against Interoperable Private Attribution by Mozilla](https://daniele.tech/2022/02/floc-topics-api-by-google-against-interoperable-private-attribution-by-mozilla/) - r/firefox
 <!-- reddit_pinned ends -->
@@ -39,11 +40,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of March 2022](https://daniele.tech/2022/03/my-free-software-and-open-source-activities-of-march-2022/) - 2022/03/31
 * [The Disruptive power of NPM developers for the Open Source brand](https://daniele.tech/2022/03/the-disruptive-power-of-npm-developers-for-the-open-source-brand/) - 2022/03/17
 * [My free software and open source activities of February 2022](https://daniele.tech/2022/02/my-free-software-and-open-source-activities-of-february-2022/) - 2022/02/28
 * [How many Firefox forks there are around?](https://daniele.tech/2022/02/how-many-firefox-forks-there-are-around/) - 2022/02/28
 * [FLoC & Topics API by Google against Interoperable Private Attribution by Mozilla](https://daniele.tech/2022/02/floc-topics-api-by-google-against-interoperable-private-attribution-by-mozilla/) - 2022/02/14
-* [My free software and open source activities of January 2022](https://daniele.tech/2022/01/my-free-software-and-open-source-activities-of-january-2022/) - 2022/01/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
