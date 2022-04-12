@@ -13,10 +13,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GlotDict 2.0.6](https://github.com/Mte90/GlotDict/releases/tag/v2.0.6) - 2022/04/11
 * [WPBP/PointerPlus 1.0.2](https://github.com/WPBP/PointerPlus/releases/tag/1.0.2) - 2022/03/28
 * [Mte90/Share-Backported 2.1.5](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.5) - 2022/03/17
 * [Mte90/gitapper 1.0.1](https://github.com/Mte90/gitapper/releases/tag/1.0.1) - 2022/03/14
-* [Mte90/GlotDict 2.0.5](https://github.com/Mte90/GlotDict/releases/tag/v2.0.5) - 2022/02/09
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.5](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.5) - 2022/02/03
 * [goodhosts/vagrant 1.1.3](https://github.com/goodhosts/vagrant/releases/tag/1.1.3) - 2022/01/04
 * [Mte90/facebook-direct-links 1.3.5](https://github.com/Mte90/facebook-direct-links/releases/tag/v1.3.5) - 2021/11/29
@@ -31,21 +31,21 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [WordPress Core contributions by (tickets) numbers](https://daniele.tech/2022/04/wordpress-core-contributions-by-tickets-numbers/) - r/Wordpress
 * [La storia di r/place dal punto di vista italiano (e dei bot)](https://daniele.tech/2022/04/la-storia-di-r-place-dal-punto-di-vista-italiano-e-dei-bot/) - r/italyPlace
 * [The r/place story from the Italian view (and from bots)](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) - r/place
 * [The Disruptive power of NPM developers for the Open Source brand - Daniele Mte90 Scasciafratte](https://daniele.tech/2022/03/the-disruptive-power-of-npm-developers-for-the-open-source-brand/) - u/Mte90
-* [FLoC &amp; Topics API by Google against Interoperable Private Attribution by Mozilla](https://daniele.tech/2022/02/floc-topics-api-by-google-against-interoperable-private-attribution-by-mozilla/) - r/firefox
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [WordPress Core contributions by (tickets) numbers](https://daniele.tech/2022/04/wordpress-core-contributions-by-tickets-numbers/) - 2022/04/11
 * [The 2022 r/place story from the Italian view (and from bots)](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) - 2022/04/05
 * [My free software and open source activities of March 2022](https://daniele.tech/2022/03/my-free-software-and-open-source-activities-of-march-2022/) - 2022/03/31
 * [The Disruptive power of NPM developers for the Open Source brand](https://daniele.tech/2022/03/the-disruptive-power-of-npm-developers-for-the-open-source-brand/) - 2022/03/17
 * [My free software and open source activities of February 2022](https://daniele.tech/2022/02/my-free-software-and-open-source-activities-of-february-2022/) - 2022/02/28
-* [How many Firefox forks there are around?](https://daniele.tech/2022/02/how-many-firefox-forks-there-are-around/) - 2022/02/28
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
