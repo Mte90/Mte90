@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of April 2022](https://daniele.tech/2022/04/my-free-software-and-open-source-activities-of-april-2022/) - 2022/04/30
 * [How to do a Woocommerce Product list shortcode with custom taxonomy](https://daniele.tech/2022/04/how-to-do-a-woocommerce-product-list-shortcode-with-custom-taxonomy/) - 2022/04/29
 * [WordPress Core contributions by (tickets) numbers](https://daniele.tech/2022/04/wordpress-core-contributions-by-tickets-numbers/) - 2022/04/11
 * [The 2022 r/place story from the Italian view (and from bots)](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) - 2022/04/05
 * [My free software and open source activities of March 2022](https://daniele.tech/2022/03/my-free-software-and-open-source-activities-of-march-2022/) - 2022/03/31
-* [The Disruptive power of NPM developers for the Open Source brand](https://daniele.tech/2022/03/the-disruptive-power-of-npm-developers-for-the-open-source-brand/) - 2022/03/17
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
