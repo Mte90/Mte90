@@ -13,8 +13,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GlotDict 2.0.7](https://github.com/Mte90/GlotDict/releases/tag/v2.0.7) - 2022/05/09
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.6](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.6) - 2022/04/21
-* [Mte90/GlotDict 2.0.6](https://github.com/Mte90/GlotDict/releases/tag/v2.0.6) - 2022/04/11
 * [WPBP/PointerPlus 1.0.2](https://github.com/WPBP/PointerPlus/releases/tag/1.0.2) - 2022/03/28
 * [Mte90/Share-Backported 2.1.5](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.5) - 2022/03/17
 * [Mte90/gitapper 1.0.1](https://github.com/Mte90/gitapper/releases/tag/1.0.1) - 2022/03/14
@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [Analysis of an hacked (and scammer) twitter account](https://daniele.tech/2022/05/analysis-of-an-hacked-and-scammer-twitter-account/) - 2022/05/09
 * [My free software and open source activities of April 2022](https://daniele.tech/2022/04/my-free-software-and-open-source-activities-of-april-2022/) - 2022/04/30
 * [How to do a Woocommerce Product list shortcode with custom taxonomy](https://daniele.tech/2022/04/how-to-do-a-woocommerce-product-list-shortcode-with-custom-taxonomy/) - 2022/04/29
 * [WordPress Core contributions by (tickets) numbers](https://daniele.tech/2022/04/wordpress-core-contributions-by-tickets-numbers/) - 2022/04/11
 * [The 2022 r/place story from the Italian view (and from bots)](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) - 2022/04/05
-* [My free software and open source activities of March 2022](https://daniele.tech/2022/03/my-free-software-and-open-source-activities-of-march-2022/) - 2022/03/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
