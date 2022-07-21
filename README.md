@@ -34,7 +34,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [WordPress Core contributions by (tickets) numbers](https://daniele.tech/2022/04/wordpress-core-contributions-by-tickets-numbers/) - r/Wordpress
 * [La storia di r/place dal punto di vista italiano (e dei bot)](https://daniele.tech/2022/04/la-storia-di-r-place-dal-punto-di-vista-italiano-e-dei-bot/) - r/italyPlace
 * [The r/place story from the Italian view (and from bots)](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) - r/place
-* [The Disruptive power of NPM developers for the Open Source brand - Daniele Mte90 Scasciafratte](https://daniele.tech/2022/03/the-disruptive-power-of-npm-developers-for-the-open-source-brand/) - u/Mte90
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
