@@ -13,9 +13,9 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.0](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.0) - 2022/07/27
 * [Mte90/GlotDict 2.0.9](https://github.com/Mte90/GlotDict/releases/tag/v2.0.9) - 2022/07/21
 * [Mte90/gitapper 1.0.3](https://github.com/Mte90/gitapper/releases/tag/1.0.3) - 2022/07/21
-* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.2.7](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.2.7) - 2022/06/27
 * [goodhosts/vagrant 1.1.4](https://github.com/goodhosts/vagrant/releases/tag/1.1.4) - 2022/05/17
 * [WPBP/PointerPlus 1.0.2](https://github.com/WPBP/PointerPlus/releases/tag/1.0.2) - 2022/03/28
 * [Mte90/Share-Backported 2.1.5](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.5) - 2022/03/17
@@ -40,11 +40,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [WordPress Plugin Boilerplate Powered 3.3.0](https://daniele.tech/2022/07/wordpress-plugin-boilerplate-powered-3-3-0/) - 2022/07/27
 * [My free software and open source activities of June 2022](https://daniele.tech/2022/06/my-free-software-and-open-source-activities-of-june-2022/) - 2022/06/30
 * [Rage against the image generation ML](https://daniele.tech/2022/06/rage-against-the-image-generation-ml/) - 2022/06/28
 * [How to create a Woocommerce Rest endpoint to Add all items to cart](https://daniele.tech/2022/06/how-to-create-a-woocommerce-rest-endpoint-to-add-all-items-to-cart/) - 2022/06/15
 * [My free software and open source activities of May 2022](https://daniele.tech/2022/05/my-free-software-and-open-source-activities-of-may-2022/) - 2022/05/31
-* [How to add autolink plugin to TinyMCE in WordPress](https://daniele.tech/2022/05/how-to-add-autolink-plugin-to-tinymce-in-wordpress/) - 2022/05/17
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
