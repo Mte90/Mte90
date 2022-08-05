@@ -31,6 +31,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Contribute to opensource: the right way - 3rd edition, looking for feedback](https://www.reddit.com/r/opensource/comments/wfy0d8/contribute_to_opensource_the_right_way_3rd/) - r/opensource
 * [WordPress Core contributions by (tickets) numbers](https://daniele.tech/2022/04/wordpress-core-contributions-by-tickets-numbers/) - r/Wordpress
 * [La storia di r/place dal punto di vista italiano (e dei bot)](https://daniele.tech/2022/04/la-storia-di-r-place-dal-punto-di-vista-italiano-e-dei-bot/) - r/italyPlace
 * [The r/place story from the Italian view (and from bots)](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) - r/place
