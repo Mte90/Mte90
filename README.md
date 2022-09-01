@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of August 2022](https://daniele.tech/2022/08/my-free-software-and-open-source-activities-of-august-2022/) - 2022/08/31
 * [My free software and open source activities of July 2022](https://daniele.tech/2022/07/my-free-software-and-open-source-activities-of-july-2022/) - 2022/07/31
 * [WordPress Plugin Boilerplate Powered 3.3.0](https://daniele.tech/2022/07/wordpress-plugin-boilerplate-powered-3-3-0/) - 2022/07/27
 * [My free software and open source activities of June 2022](https://daniele.tech/2022/06/my-free-software-and-open-source-activities-of-june-2022/) - 2022/06/30
 * [Rage against the image generation ML](https://daniele.tech/2022/06/rage-against-the-image-generation-ml/) - 2022/06/28
-* [How to create a Woocommerce Rest endpoint to Add all items to cart](https://daniele.tech/2022/06/how-to-create-a-woocommerce-rest-endpoint-to-add-all-items-to-cart/) - 2022/06/15
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
