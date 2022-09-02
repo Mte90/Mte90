@@ -24,7 +24,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
-[![Download now for free!](https://daniele.tech/wp-content/uploads/2020/07/cover-300x279.png)](https://daniele.tech/2020/07/contribute-to-open-source-the-right-way-2nd-edition-download-the-free-open-book-now)
+[![Download now for free!](https://daniele.tech/wp-content/uploads/2022/09/cover-2022-1-300x300.png)](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/)
 
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
