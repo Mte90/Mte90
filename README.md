@@ -31,20 +31,19 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Contribute to open source: the right way 3nd edition - Free ebook, new edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/) - r/opensource
 * [WordPress Core contributions by (tickets) numbers](https://daniele.tech/2022/04/wordpress-core-contributions-by-tickets-numbers/) - r/Wordpress
-* [La storia di r/place dal punto di vista italiano (e dei bot)](https://daniele.tech/2022/04/la-storia-di-r-place-dal-punto-di-vista-italiano-e-dei-bot/) - r/italyPlace
-* [The r/place story from the Italian view (and from bots)](https://daniele.tech/2022/04/the-r-place-story-from-the-italian-view-and-from-bots/) - r/place
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [How to have a unique NeoVim instance](https://daniele.tech/2022/09/how-to-have-a-unique-neovim-instance/) - 2022/09/15
 * [Contribute to open source: the right way 3rd edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3rd-edition/) - 2022/09/02
 * [My free software and open source activities of August 2022](https://daniele.tech/2022/08/my-free-software-and-open-source-activities-of-august-2022/) - 2022/08/31
 * [My free software and open source activities of July 2022](https://daniele.tech/2022/07/my-free-software-and-open-source-activities-of-july-2022/) - 2022/07/31
 * [WordPress Plugin Boilerplate Powered 3.3.0](https://daniele.tech/2022/07/wordpress-plugin-boilerplate-powered-3-3-0/) - 2022/07/27
-* [My free software and open source activities of June 2022](https://daniele.tech/2022/06/my-free-software-and-open-source-activities-of-june-2022/) - 2022/06/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
