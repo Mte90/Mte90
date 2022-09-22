@@ -39,7 +39,7 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
-* [How to have a unique NeoVim instance](https://daniele.tech/2022/09/how-to-have-a-unique-neovim-instance/) - 2022/09/15
+* [How to have a single NeoVim instance](https://daniele.tech/2022/09/how-to-have-a-unique-neovim-instance/) - 2022/09/15
 * [Contribute to open source: the right way 3rd edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3rd-edition/) - 2022/09/02
 * [My free software and open source activities of August 2022](https://daniele.tech/2022/08/my-free-software-and-open-source-activities-of-august-2022/) - 2022/08/31
 * [My free software and open source activities of July 2022](https://daniele.tech/2022/07/my-free-software-and-open-source-activities-of-july-2022/) - 2022/07/31
