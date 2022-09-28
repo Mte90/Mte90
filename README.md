@@ -31,6 +31,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Analisi di un sito ecommerce truffa - Daniele Mte90 Scasciafratte](https://daniele.tech/2022/09/analisi-di-un-sito-ecommerce-truffa/) - u/Mte90
 * [Contribute to open source: the right way 3nd edition - Free ebook, new edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/) - r/opensource
 * [WordPress Core contributions by (tickets) numbers](https://daniele.tech/2022/04/wordpress-core-contributions-by-tickets-numbers/) - r/Wordpress
 <!-- reddit_pinned ends -->
