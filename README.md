@@ -40,11 +40,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of September 2022](https://daniele.tech/2022/09/my-free-software-and-open-source-activities-of-september-2022/) - 2022/09/30
 * [How to have a single NeoVim instance](https://daniele.tech/2022/09/how-to-have-a-unique-neovim-instance/) - 2022/09/15
 * [Contribute to open source: the right way 3rd edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3rd-edition/) - 2022/09/02
 * [My free software and open source activities of August 2022](https://daniele.tech/2022/08/my-free-software-and-open-source-activities-of-august-2022/) - 2022/08/31
 * [My free software and open source activities of July 2022](https://daniele.tech/2022/07/my-free-software-and-open-source-activities-of-july-2022/) - 2022/07/31
-* [WordPress Plugin Boilerplate Powered 3.3.0](https://daniele.tech/2022/07/wordpress-plugin-boilerplate-powered-3-3-0/) - 2022/07/27
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
