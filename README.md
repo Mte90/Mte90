@@ -13,14 +13,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [goodhosts/vagrant 1.0.18](https://github.com/goodhosts/vagrant/releases/tag/1.0.18) - 2021/10/11
-* [Mte90/GlotDict 2.0.2](https://github.com/Mte90/GlotDict/releases/tag/v2.0.2) - 2021/09/16
 * [Mte90/gitapper 1.0.0](https://github.com/Mte90/gitapper/releases/tag/1.0.0) - 2021/09/09
 * [Mte90/AuroraLocalCoopFilters 1.0.0](https://github.com/Mte90/AuroraLocalCoopFilters/releases/tag/1.0.0) - 2021/03/26
 * [saboteur-team/Saboteur-Xbox360-Patcher LuaP Invincible by WV](https://github.com/saboteur-team/Saboteur-Xbox360-Patcher/releases/tag/luap-invincible) - 2021/01/31
 * [Mte90/extended-cpts 4.4.1](https://github.com/Mte90/extended-cpts/releases/tag/4.4.1) - 2020/12/30
 * [Mte90/pugdebug 1.1.0](https://github.com/Mte90/pugdebug/releases/tag/1.1.0) - 2020/10/22
-* [Mte90/facebook-direct-links 1.2.1](https://github.com/Mte90/facebook-direct-links/releases/tag/1.2.1) - 2020/10/09
+* [goodhosts/vagrant 1.0.0-beta4](https://github.com/goodhosts/vagrant/releases/tag/1.0.0-beta4) - 2020/06/05
+* [Mte90/GBAATM-Rebirth Original 1.9.9.7 version by Cracker](https://github.com/Mte90/GBAATM-Rebirth/releases/tag/original) - 2020/05/03
+* [Mte90/Game-Genie-Good-Guy 1.0.0-alpha](https://github.com/Mte90/Game-Genie-Good-Guy/releases/tag/1.0-alpha) - 2020/01/09
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
