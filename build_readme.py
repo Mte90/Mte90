@@ -36,7 +36,7 @@ query {
       nodes {
         nameWithOwner
         name
-        releases(last:1) {
+        releases(last:1, orderBy: {field: CREATED_AT, direction: ASC}) {
           totalCount
           nodes {
             name
