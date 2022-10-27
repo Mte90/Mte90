@@ -13,14 +13,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/gitapper 1.0.0](https://github.com/Mte90/gitapper/releases/tag/1.0.0) - 2021/09/09
-* [Mte90/AuroraLocalCoopFilters 1.0.0](https://github.com/Mte90/AuroraLocalCoopFilters/releases/tag/1.0.0) - 2021/03/26
-* [saboteur-team/Saboteur-Xbox360-Patcher LuaP Invincible by WV](https://github.com/saboteur-team/Saboteur-Xbox360-Patcher/releases/tag/luap-invincible) - 2021/01/31
-* [Mte90/extended-cpts 4.4.1](https://github.com/Mte90/extended-cpts/releases/tag/4.4.1) - 2020/12/30
-* [Mte90/pugdebug 1.1.0](https://github.com/Mte90/pugdebug/releases/tag/1.1.0) - 2020/10/22
-* [goodhosts/vagrant 1.0.0-beta4](https://github.com/goodhosts/vagrant/releases/tag/1.0.0-beta4) - 2020/06/05
-* [Mte90/GBAATM-Rebirth Original 1.9.9.7 version by Cracker](https://github.com/Mte90/GBAATM-Rebirth/releases/tag/original) - 2020/05/03
-* [Mte90/Game-Genie-Good-Guy 1.0.0-alpha](https://github.com/Mte90/Game-Genie-Good-Guy/releases/tag/1.0-alpha) - 2020/01/09
+* [Mte90/gitapper 1.0.5](https://github.com/Mte90/gitapper/releases/tag/1.0.5) - 2022/10/20
+* [Mte90/GlotDict 2.0.11](https://github.com/Mte90/GlotDict/releases/tag/v2.0.11) - 2022/10/20
+* [Mte90/facebook-direct-links 1.3.6](https://github.com/Mte90/facebook-direct-links/releases/tag/v1.3.6) - 2022/10/06
+* [WPBP/PointerPlus 1.0.4](https://github.com/WPBP/PointerPlus/releases/tag/1.0.4) - 2022/09/13
+* [Mte90/Contribute-to-opensource-the-right-way 2022.1](https://github.com/Mte90/Contribute-to-opensource-the-right-way/releases/tag/2022.1) - 2022/09/02
+* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.0](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.0) - 2022/07/27
+* [goodhosts/vagrant 1.1.4](https://github.com/goodhosts/vagrant/releases/tag/1.1.4) - 2022/05/17
+* [Mte90/Share-Backported 2.1.5](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.5) - 2022/03/17
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
