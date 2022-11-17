@@ -31,9 +31,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [Mastodon isn't a (real) Twitter alternative - Daniele Mte90 Scasciafratte](https://daniele.tech/2022/11/mastodon-isnt-a-real-twitter-alternative/) - u/Mte90
+* [Mastodon non è una (vera) alternativa a Twitter - Daniele Mte90 Scasciafratte](https://daniele.tech/2022/11/mastodon-non-e-una-vera-alternativa-a-twitter/) - u/Mte90
 * [Analisi di un sito ecommerce truffa - Daniele Mte90 Scasciafratte](https://daniele.tech/2022/09/analisi-di-un-sito-ecommerce-truffa/) - u/Mte90
 * [Contribute to open source: the right way 3nd edition - Free ebook, new edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/) - r/opensource
-* [WordPress Core contributions by (tickets) numbers](https://daniele.tech/2022/04/wordpress-core-contributions-by-tickets-numbers/) - r/Wordpress
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
 </td><td valign="top" style="width: 50%;">
