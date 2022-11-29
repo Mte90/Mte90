@@ -13,6 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/espanso-typofixer 1.0.0](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.0) - 2022/11/28
 * [WPBP/generator 1.3.4](https://github.com/WPBP/generator/releases/tag/1.3.4) - 2022/11/22
 * [Mte90/GlotDict 2.0.11](https://github.com/Mte90/GlotDict/releases/tag/v2.0.11) - 2022/10/20
 * [Mte90/gitapper 1.0.5](https://github.com/Mte90/gitapper/releases/tag/1.0.5) - 2022/10/20
@@ -20,7 +21,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [WPBP/PointerPlus 1.0.4](https://github.com/WPBP/PointerPlus/releases/tag/1.0.4) - 2022/09/13
 * [Mte90/Contribute-to-opensource-the-right-way 2022.1](https://github.com/Mte90/Contribute-to-opensource-the-right-way/releases/tag/2022.1) - 2022/09/02
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.0](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.0) - 2022/07/27
-* [WPBP/CPT_Columns 1.0.2](https://github.com/WPBP/CPT_Columns/releases/tag/1.0.2) - 2022/07/19
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
