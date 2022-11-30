@@ -13,7 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/espanso-typofixer 1.0.0](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.0) - 2022/11/28
+* [Mte90/espanso-typofixer 1.0.0](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.0) - 2022/11/29
 * [WPBP/generator 1.3.4](https://github.com/WPBP/generator/releases/tag/1.3.4) - 2022/11/22
 * [Mte90/GlotDict 2.0.11](https://github.com/Mte90/GlotDict/releases/tag/v2.0.11) - 2022/10/20
 * [Mte90/gitapper 1.0.5](https://github.com/Mte90/gitapper/releases/tag/1.0.5) - 2022/10/20
@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [Welcome Espanso Typofixer!](https://daniele.tech/2022/11/welcome-espanso-typofixer/) - 2022/11/29
 * [Mastodon isn’t a (real) Twitter alternative](https://daniele.tech/2022/11/mastodon-isnt-a-real-twitter-alternative/) - 2022/11/09
 * [My free software and open source activities of October 2022](https://daniele.tech/2022/10/my-free-software-and-open-source-activities-of-october-2022/) - 2022/10/31
 * [My free software and open source activities of September 2022](https://daniele.tech/2022/09/my-free-software-and-open-source-activities-of-september-2022/) - 2022/09/30
 * [How to have a single NeoVim instance](https://daniele.tech/2022/09/how-to-have-a-unique-neovim-instance/) - 2022/09/15
-* [Contribute to open source: the right way 3rd edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3rd-edition/) - 2022/09/02
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
