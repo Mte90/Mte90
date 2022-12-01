@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of November 2022](https://daniele.tech/2022/11/my-free-software-and-open-source-activities-of-november-2022/) - 2022/11/30
 * [Welcome Espanso Typofixer!](https://daniele.tech/2022/11/welcome-espanso-typofixer/) - 2022/11/29
 * [Mastodon isn’t a (real) Twitter alternative](https://daniele.tech/2022/11/mastodon-isnt-a-real-twitter-alternative/) - 2022/11/09
 * [My free software and open source activities of October 2022](https://daniele.tech/2022/10/my-free-software-and-open-source-activities-of-october-2022/) - 2022/10/31
 * [My free software and open source activities of September 2022](https://daniele.tech/2022/09/my-free-software-and-open-source-activities-of-september-2022/) - 2022/09/30
-* [How to have a single NeoVim instance](https://daniele.tech/2022/09/how-to-have-a-unique-neovim-instance/) - 2022/09/15
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
