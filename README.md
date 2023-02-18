@@ -13,8 +13,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [WPBP/generator 1.3.7](https://github.com/WPBP/generator/releases/tag/1.3.7) - 2023/02/17
 * [Mte90/GlotDict v2.1.1](https://github.com/Mte90/GlotDict/releases/tag/v2.1.1) - 2023/01/30
-* [WPBP/generator 1.3.6](https://github.com/WPBP/generator/releases/tag/1.3.6) - 2023/01/19
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.1](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.1) - 2023/01/18
 * [Mte90/gitapper 1.0.6](https://github.com/Mte90/gitapper/releases/tag/1.0.6) - 2023/01/10
 * [Mte90/espanso-typofixer 1.0.1](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.1) - 2022/12/19
