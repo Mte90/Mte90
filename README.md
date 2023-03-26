@@ -40,7 +40,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
-
+* [How to do a Django cache decorator that exclude by URL parameters](https://daniele.tech/2023/03/how-to-do-a-django-cache-decorator-that-exclude-by-url-parameters/) - 2023/03/17
+* [My free software and open source activities of February 2023](https://daniele.tech/2023/02/my-free-software-and-open-source-activities-of-february-2023/) - 2023/02/28
+* [How to do Core Old Ticket Triage for WordPress](https://daniele.tech/2023/02/how-to-do-core-old-ticket-triage-for-wordpress/) - 2023/02/09
+* [My free software and open source activities of January 2023](https://daniele.tech/2023/01/my-free-software-and-open-source-activities-of-january-2023/) - 2023/01/31
+* [My free software and open source activities of December 2022](https://daniele.tech/2022/12/my-free-software-and-open-source-activities-of-december-2022/) - 2022/12/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
