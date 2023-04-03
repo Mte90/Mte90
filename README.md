@@ -40,11 +40,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [WordPress Core contributions by (tickets) numbers – 2023 edition](https://daniele.tech/2023/04/wordpress-core-contributions-by-tickets-numbers-2023-edition/) - 2023/04/02
 * [My free software and open source activities of March 2023](https://daniele.tech/2023/03/my-free-software-and-open-source-activities-of-march-2023/) - 2023/03/31
 * [How to set X-Robots-Tag in htaccess for any query string](https://daniele.tech/2023/03/how-to-set-x-robots-tag-in-htaccess-for-any-query-string/) - 2023/03/27
 * [How to do a Django cache decorator that exclude by URL parameters](https://daniele.tech/2023/03/how-to-do-a-django-cache-decorator-that-exclude-by-url-parameters/) - 2023/03/17
 * [My free software and open source activities of February 2023](https://daniele.tech/2023/02/my-free-software-and-open-source-activities-of-february-2023/) - 2023/02/28
-* [How to do Core Old Ticket Triage for WordPress](https://daniele.tech/2023/02/how-to-do-core-old-ticket-triage-for-wordpress/) - 2023/02/09
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
