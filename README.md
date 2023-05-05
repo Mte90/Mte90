@@ -12,6 +12,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [WPBP/Page-Madness-Detector 1.0.1](https://github.com/WPBP/Page-Madness-Detector/releases/tag/1.0.1) - 2023/05/04
 * [Mte90/espanso-typofixer 1.0.2](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.2) - 2023/05/03
 * [WPBP/CronPlus 1.0.6](https://github.com/WPBP/CronPlus/releases/tag/1.0.6) - 2023/04/25
 * [WPBP/generator 1.3.7](https://github.com/WPBP/generator/releases/tag/1.3.7) - 2023/02/17
@@ -19,7 +20,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.1](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.1) - 2023/01/18
 * [Mte90/gitapper 1.0.6](https://github.com/Mte90/gitapper/releases/tag/1.0.6) - 2023/01/10
 * [goodhosts/vagrant 1.1.5](https://github.com/goodhosts/vagrant/releases/tag/1.1.5) - 2022/12/05
-* [Mte90/facebook-direct-links 1.3.6](https://github.com/Mte90/facebook-direct-links/releases/tag/v1.3.6) - 2022/10/06
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
