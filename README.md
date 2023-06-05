@@ -40,11 +40,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My 10 years in the Mozilla community](https://daniele.tech/2023/06/my-10-years-in-the-mozilla-community/) - 2023/06/04
 * [My free software and open source activities of May 2023](https://daniele.tech/2023/05/my-free-software-and-open-source-activities-of-may-2023/) - 2023/05/31
 * [My free software and open source activities of April 2023](https://daniele.tech/2023/04/my-free-software-and-open-source-activities-of-april-2023/) - 2023/04/29
 * [WordPress Core contributions by (tickets) numbers – 2023 edition](https://daniele.tech/2023/04/wordpress-core-contributions-by-tickets-numbers-2023-edition/) - 2023/04/02
 * [My free software and open source activities of March 2023](https://daniele.tech/2023/03/my-free-software-and-open-source-activities-of-march-2023/) - 2023/03/31
-* [How to set X-Robots-Tag in htaccess for any query string](https://daniele.tech/2023/03/how-to-set-x-robots-tag-in-htaccess-for-any-query-string/) - 2023/03/27
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
