@@ -30,8 +30,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
+* [My 10 years in the Mozilla community - Daniele Mte90 Scasciafratte](https://daniele.tech/2023/06/my-10-years-in-the-mozilla-community/) - u/Mte90
 * [WordPress Core contributions by (tickets) numbers - 2023 edition](https://daniele.tech/2023/04/wordpress-core-contributions-by-tickets-numbers-2023-edition/) - r/Wordpress
-* [How to do Core Old Ticket Triage for WordPress](https://daniele.tech/2023/02/how-to-do-core-old-ticket-triage-for-wordpress/) - r/Wordpress
 * [[Guide] How to get OpenRazer working easily on Steam Deck](https://daniele.tech/2022/12/how-to-get-openrazer-working-easily-on-steam-deck/) - r/SteamDeck
 * [Contribute to open source: the right way 3nd edition - Free ebook, new edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/) - r/opensource
 <!-- reddit_pinned ends -->
