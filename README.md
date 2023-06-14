@@ -12,8 +12,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.2](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.2) - 2023/05/16
 * [WPBP/generator 1.3.8](https://github.com/WPBP/generator/releases/tag/1.3.8) - 2023/05/16
+* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.2](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.2) - 2023/05/16
 * [WPBP/Page-Madness-Detector 1.0.1](https://github.com/WPBP/Page-Madness-Detector/releases/tag/1.0.1) - 2023/05/04
 * [Mte90/espanso-typofixer 1.0.2](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.2) - 2023/05/03
 * [WPBP/CronPlus 1.0.6](https://github.com/WPBP/CronPlus/releases/tag/1.0.6) - 2023/04/25
