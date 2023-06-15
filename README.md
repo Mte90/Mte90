@@ -31,6 +31,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 ### Pinned threads on Reddit
 <!-- reddit_pinned starts -->
 * [My 10 years in the Mozilla community - Daniele Mte90 Scasciafratte](https://daniele.tech/2023/06/my-10-years-in-the-mozilla-community/) - u/Mte90
+* [[Guide] How to get OpenRazer working easily on Steam Deck](https://daniele.tech/2022/12/how-to-get-openrazer-working-easily-on-steam-deck/) - r/SteamDeck
 * [Contribute to open source: the right way 3nd edition - Free ebook, new edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/) - r/opensource
 <!-- reddit_pinned ends -->
 More on [Reddit.com](https://www.reddit.com/user/Mte90)
