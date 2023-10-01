@@ -40,11 +40,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [My free software and open source activities of September 2023](https://daniele.tech/2023/09/my-free-software-and-open-source-activities-of-september-2023/) - 2023/09/30
 * [WordPress behind a reverse proxy (with Polylang)](https://daniele.tech/2023/09/wordpress-behind-a-reverse-proxy-with-polylang/) - 2023/09/26
 * [My free software and open source activities of August 2023](https://daniele.tech/2023/08/my-free-software-and-open-source-activities-of-august-2023/) - 2023/08/31
 * [How to load CSS asynchronously in WordPress [Snippet]](https://daniele.tech/2023/08/how-to-load-css-asynchronously-in-wordpress-snippet/) - 2023/08/30
 * [My free software and open source activities of July 2023](https://daniele.tech/2023/07/my-free-software-and-open-source-activities-of-july-2023/) - 2023/07/30
-* [My free software and open source activities of June 2023](https://daniele.tech/2023/06/my-free-software-and-open-source-activities-of-june-2023/) - 2023/06/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
