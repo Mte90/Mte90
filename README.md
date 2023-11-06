@@ -13,6 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/espanso-typofixer 1.0.3](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.3) - 2023/11/06
 * [Mte90/GH-License 0.3.0](https://github.com/Mte90/GH-License/releases/tag/0.3.0) - 2023/10/17
 * [WPBP/template 1.0.4](https://github.com/WPBP/template/releases/tag/1.0.4) - 2023/08/29
 * [CodeAtCode/CodeatCS 1.0.29](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.29) - 2023/08/29
@@ -20,7 +21,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [WPBP/CPT_Columns 1.0.3](https://github.com/WPBP/CPT_Columns/releases/tag/1.0.3) - 2023/08/21
 * [goodhosts/vagrant 1.1.6](https://github.com/goodhosts/vagrant/releases/tag/1.1.6) - 2023/06/21
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.2](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.2) - 2023/05/16
-* [WPBP/generator 1.3.8](https://github.com/WPBP/generator/releases/tag/1.3.8) - 2023/05/16
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
