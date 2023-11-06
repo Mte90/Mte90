@@ -1,4 +1,5 @@
-[Daniele Scasciafratte](https://twitter.com/mte90net), the Open Source Multiversal guy (founder of [Linux User Group Rieti](https://lugrieti.linux.it/)), he should work in his web agency, [Codeat](https://github.com/CodeAtCode) in Rome, and in the rest of the day collaborates in many open source projects. All his talks and slide with recordings are [avalaible on his dedicated website](https://mte90.tech/).   
+[Daniele Scasciafratte](https://twitter.com/mte90net), the Open Source Multiversal guy (founder of [Italian Linux Society Rieti](https://rieti.ils.org/)), he should work in his web agency, [Codeat](https://github.com/CodeAtCode) in Rome, and in the rest of the day collaborates in many open source projects.  
+All his talks and slide with recordings are [avalaible on his dedicated website](https://mte90.tech/).   
 Since April 2021 part of the council of [Italian Linux Society](https://ils.org) association.
 
 I have an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source and tech opinions every week (over 100+ episodes!).
