@@ -41,11 +41,11 @@ More on [Reddit.com](https://www.reddit.com/user/Mte90)
 
 ### On my blog/Guest posts
 <!-- blog starts -->
+* [How to change the language on the Steam Deck’s Desktop mode](https://daniele.tech/2023/11/how-to-change-the-language-on-the-steam-decks-desktop-mode/) - 2023/11/17
 * [My free software and open source activities of October 2023](https://daniele.tech/2023/10/my-free-software-and-open-source-activities-of-october-2023/) - 2023/10/31
 * [How to redirect WordPress images to a different domain](https://daniele.tech/2023/10/how-to-redirect-wordpress-images-to-a-different-domain/) - 2023/10/16
 * [Django packages that you can’t live without it (from Reddit)](https://daniele.tech/2023/10/django-packages-that-you-cant-live-without-from-reddit/) - 2023/10/04
 * [My free software and open source activities of September 2023](https://daniele.tech/2023/09/my-free-software-and-open-source-activities-of-september-2023/) - 2023/09/30
-* [WordPress behind a reverse proxy (with Polylang)](https://daniele.tech/2023/09/wordpress-behind-a-reverse-proxy-with-polylang/) - 2023/09/26
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td></tr>
