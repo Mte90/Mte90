@@ -66,9 +66,6 @@ def fetch_releases(oauth_token):
             query=make_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
-        print()
-        print(json.dumps(data, indent=4))
-        print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             if len(repo["releases"]["nodes"]) != 0 and repo["releases"]["nodes"][0]["author"]["login"] == 'Mte90':
                 releases.append(
@@ -101,7 +98,7 @@ def fetch_blog_entries():
 
 def fetch_reddit_pinned():
     items = []
-    headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
+    headers = {"User-Agent":"Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"}
     request = requests.get("https://api.reddit.com/user/mte90?limit=25", headers=headers)
     json_response = request.json()
     for item in json_response['data']['children']:
