@@ -35,7 +35,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h3>1158</h3>
+Latest edition total (GitHub) downloads: <h4>1158</h4>
 <!-- book_stats ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
