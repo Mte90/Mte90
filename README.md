@@ -13,7 +13,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -37,6 +36,8 @@ More on [daniele.tech](https://daniele.tech/)
 <!-- book_stats starts -->
 Latest edition total (GitHub) downloads: <h4>1158</h4>
 <!-- book_stats ends -->
+
+Pick your copy clicking on the image above!
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
   

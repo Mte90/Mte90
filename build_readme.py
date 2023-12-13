@@ -59,8 +59,6 @@ def fetch_releases(oauth_token):
     releases = []
     has_next_page = True
     after_cursor = None
-    if oauth_token == '':
-        return releases
 
     while has_next_page:
         data = client.execute(
@@ -91,7 +89,7 @@ def fetch_download_book():
     request = requests.get("https://api.github.com/repos/mte90/Contribute-to-opensource-the-right-way/releases", headers=headers)
     json_response = request.json()
     total = int(json_response[0]['assets'][0]['download_count']) + int(json_response[0]['assets'][1]['download_count'])
-    total = 'Latest edition total (GitHub) downloads: <h4>' + str(total) + '</h4>'
+    total = 'Latest edition total (GitHub) downloads: <h4>🎉' + str(total) + '</h4>'
     return total
 
 
