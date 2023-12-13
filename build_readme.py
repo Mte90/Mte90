@@ -86,6 +86,15 @@ def fetch_releases(oauth_token):
     return releases
 
 
+def fetch_download_book():
+    headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"}
+    request = requests.get("https://api.github.com/repos/mte90/Contribute-to-opensource-the-right-way/releases", headers=headers)
+    json_response = request.json()
+    total = int(json_response[0]['assets'][0]['download_count']) + int(json_response[0]['assets'][1]['download_count'])
+    total = 'Latest edition total (GitHub) downloads: <h4>' + str(total) + '</h4>'
+    return total
+
+
 def fetch_blog_entries():
     entries = feedparser.parse("https://daniele.tech/en/feed")["entries"]
     return [
@@ -96,39 +105,6 @@ def fetch_blog_entries():
         }
         for entry in entries
     ]
-
-
-def fetch_reddit_pinned():
-    items = []
-    headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"}
-    request = requests.get("https://api.reddit.com/user/mte90?limit=25", headers=headers)
-    try:
-        request.raise_for_status()
-    except requests.exceptions.HTTPError:
-        print("HTTP Error")
-        print(errh.args[0])
-    except requests.exceptions.ReadTimeout:
-        print("Time out")
-    except requests.exceptions.ConnectionErro:
-        print("Connection error")
-    except requests.exceptions.RequestException:
-        print("Exception request")
-
-    try:
-        json_response = request.json()
-    except (requests.exceptions.InvalidJSONError, TypeError):
-        print('Invalid JSON')
-        print(request.body)
-    for item in json_response['data']['children']:
-        if 'pinned' in item['data'] and item['data']['pinned']:
-            items.append(
-                {
-                    "title": item['data']["title"],
-                    "url": item['data']['url'],
-                    "sub": item['data']['subreddit_name_prefixed']
-                }
-            )
-    return items
 
 
 if __name__ == "__main__":
@@ -149,10 +125,7 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
-    entries = fetch_reddit_pinned()
-    entries_md = "\n".join(
-        ["* [{title}]({url}) - {sub}".format(**entry) for entry in entries]
-    )
-    rewritten = replace_chunk(rewritten, "reddit_pinned", entries_md)
+    total_book = fetch_download_book()
+    rewritten = replace_chunk(readme_contents, "book_stats", total_book)
 
     readme.open("w").write(rewritten)

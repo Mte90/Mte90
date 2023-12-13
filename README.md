@@ -2,7 +2,7 @@
 All his talks and slide with recordings are [avalaible on his dedicated website](https://mte90.tech/).   
 Since April 2021 part of the council of [Italian Linux Society](https://ils.org) association.
 
-I have an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source and tech opinions every week (over 100+ episodes!).
+I have an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source and tech opinions every week (over 150+ episodes!).
 
 During office hours for the [WordPress world of which he is a Core Contributor](https://profiles.wordpress.org/mte90/), plugin developer and PTE. Creator of [GlotDict](https://github.com/Mte90/GlotDict) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) and one of the maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).  
 In the meantime also a long time experience volunteer in the [Mozilla community](https://mozillians.org/it/u/Mte90/) (part of [Mozilla Italia](https://github.com/MozillaItalia)), a former [Mozilla TechSpeakers](https://wiki.mozilla.org/TechSpeakers) and former [Mozilla Rep](https://wiki.mozilla.org/ReMo) (former Reps Council member) .  
@@ -13,14 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/espanso-typofixer 1.0.3](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.3) - 2023/11/06
-* [Mte90/GH-License 0.3.0](https://github.com/Mte90/GH-License/releases/tag/0.3.0) - 2023/10/17
-* [WPBP/template 1.0.4](https://github.com/WPBP/template/releases/tag/1.0.4) - 2023/08/29
-* [CodeAtCode/CodeatCS 1.0.29](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.29) - 2023/08/29
-* [Mte90/GlotDict v2.1.2](https://github.com/Mte90/GlotDict/releases/tag/v2.1.2) - 2023/08/28
-* [WPBP/CPT_Columns 1.0.3](https://github.com/WPBP/CPT_Columns/releases/tag/1.0.3) - 2023/08/21
-* [goodhosts/vagrant 1.1.6](https://github.com/goodhosts/vagrant/releases/tag/1.1.6) - 2023/06/21
-* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.2](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.2) - 2023/05/16
+
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -29,25 +22,21 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
 
-### Pinned threads on Reddit
-<!-- reddit_pinned starts -->
-* [How to change the language on the Steam Deck's Desktop mode](https://daniele.tech/2023/11/how-to-change-the-language-on-the-steam-decks-desktop-mode/) - r/SteamDeck
-* [My 10 years in the Mozilla community - Daniele Mte90 Scasciafratte](https://daniele.tech/2023/06/my-10-years-in-the-mozilla-community/) - u/Mte90
-* [WordPress Core contributions by (tickets) numbers - 2023 edition](https://daniele.tech/2023/04/wordpress-core-contributions-by-tickets-numbers-2023-edition/) - r/Wordpress
-* [Contribute to open source: the right way 3nd edition - Free ebook, new edition](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/) - r/opensource
-<!-- reddit_pinned ends -->
-More on [Reddit.com](https://www.reddit.com/user/Mte90)
-</td><td valign="top" style="width: 50%;">
-
-### On my blog/Guest posts
+### On my blog
 <!-- blog starts -->
+* [How I did a pull request to an open source project with ChatGPT](https://daniele.tech/2023/12/how-i-did-a-pull-request-to-an-open-source-project-with-chatgpt/) - 2023/12/12
 * [My free software and open source activities of November 2023](https://daniele.tech/2023/11/my-free-software-and-open-source-activities-of-november-2023/) - 2023/11/30
 * [How to change the language on the Steam Deck’s Desktop mode](https://daniele.tech/2023/11/how-to-change-the-language-on-the-steam-decks-desktop-mode/) - 2023/11/17
 * [My free software and open source activities of October 2023](https://daniele.tech/2023/10/my-free-software-and-open-source-activities-of-october-2023/) - 2023/10/31
-* [How to redirect WordPress images to a different domain](https://daniele.tech/2023/10/how-to-redirect-wordpress-images-to-a-different-domain/) - 2023/10/16
-* [Django packages that you can’t live without it (from Reddit)](https://daniele.tech/2023/10/django-packages-that-you-cant-live-without-from-reddit/) - 2023/10/04
+* [How to redirect WordPress images to a different domain (with htaccess)](https://daniele.tech/2023/10/how-to-redirect-wordpress-images-to-a-different-domain/) - 2023/10/16
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
+</td><td valign="top" style="width: 50%;">
+
+### Downloads for my book
+<!-- book_stats starts -->
+Latest edition total (GitHub) downloads: <h3>1158</h3>
+<!-- book_stats ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
   
