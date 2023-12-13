@@ -2,7 +2,6 @@
 # Based on https://github.com/simonw/simonw/
 from python_graphql_client import GraphqlClient
 import feedparser
-import json
 import pathlib
 import re
 import os
@@ -60,6 +59,8 @@ def fetch_releases(oauth_token):
     releases = []
     has_next_page = True
     after_cursor = None
+    if oauth_token == '':
+        return releases
 
     while has_next_page:
         data = client.execute(
@@ -80,7 +81,7 @@ def fetch_releases(oauth_token):
             "hasNextPage"
         ]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
-    
+
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     return releases
 
@@ -96,23 +97,28 @@ def fetch_blog_entries():
         for entry in entries
     ]
 
+
 def fetch_reddit_pinned():
     items = []
-    headers = {"User-Agent":"Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"}
+    headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"}
     request = requests.get("https://api.reddit.com/user/mte90?limit=25", headers=headers)
-    try: 
-        requests.raise_for_status() 
-    except requests.exceptions.HTTPError as errh: 
-        print("HTTP Error") 
-        print(errh.args[0]) 
-    except requests.exceptions.ReadTimeout as errrt: 
-        print("Time out") 
-    except requests.exceptions.ConnectionError as conerr: 
-        print("Connection error") 
-    except requests.exceptions.RequestException as errex: 
-        print("Exception request") 
-    
-    json_response = request.json()
+    try:
+        request.raise_for_status()
+    except requests.exceptions.HTTPError:
+        print("HTTP Error")
+        print(errh.args[0])
+    except requests.exceptions.ReadTimeout:
+        print("Time out")
+    except requests.exceptions.ConnectionErro:
+        print("Connection error")
+    except requests.exceptions.RequestException:
+        print("Exception request")
+
+    try:
+        json_response = request.json()
+    except (requests.exceptions.InvalidJSONError, TypeError):
+        print('Invalid JSON')
+        print(request.body)
     for item in json_response['data']['children']:
         if 'pinned' in item['data'] and item['data']['pinned']:
             items.append(
@@ -123,7 +129,8 @@ def fetch_reddit_pinned():
                 }
             )
     return items
-    
+
+
 if __name__ == "__main__":
     readme = root / "README.md"
     releases = fetch_releases(TOKEN)
@@ -141,7 +148,7 @@ if __name__ == "__main__":
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
-    
+
     entries = fetch_reddit_pinned()
     entries_md = "\n".join(
         ["* [{title}]({url}) - {sub}".format(**entry) for entry in entries]
