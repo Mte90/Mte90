@@ -100,6 +100,18 @@ def fetch_reddit_pinned():
     items = []
     headers = {"User-Agent":"Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"}
     request = requests.get("https://api.reddit.com/user/mte90?limit=25", headers=headers)
+    try: 
+        requests.raise_for_status() 
+    except requests.exceptions.HTTPError as errh: 
+        print("HTTP Error") 
+        print(errh.args[0]) 
+    except requests.exceptions.ReadTimeout as errrt: 
+        print("Time out") 
+    except requests.exceptions.ConnectionError as conerr: 
+        print("Connection error") 
+    except requests.exceptions.RequestException as errex: 
+        print("Exception request") 
+    
     json_response = request.json()
     for item in json_response['data']['children']:
         if 'pinned' in item['data'] and item['data']['pinned']:
