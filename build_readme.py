@@ -89,7 +89,7 @@ def fetch_download_book():
     request = requests.get("https://api.github.com/repos/mte90/Contribute-to-opensource-the-right-way/releases", headers=headers)
     json_response = request.json()
     total = int(json_response[0]['assets'][0]['download_count']) + int(json_response[0]['assets'][1]['download_count'])
-    total = 'Latest edition total (GitHub) downloads: <h2>' + str(total) + '🎉</h2><br>!'
+    total = 'Latest edition total (GitHub) downloads: <h2>' + str(total) + '🎉!</h2>'
     return total
 
 

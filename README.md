@@ -43,8 +43,8 @@ More on [daniele.tech](https://daniele.tech/)
 ### Downloads for my book
 <!-- book_stats starts -->
 Latest edition total (GitHub) downloads: <h2>1158🎉</h2><br>!
-<!-- book_stats ends -->
-🤌 Thanks to everyone (from 🇮🇹)<br>
+<!-- book_stats ends --><br>
+🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
