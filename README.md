@@ -36,7 +36,7 @@ More on [daniele.tech](https://daniele.tech/)
 <!-- book_stats starts -->
 Latest edition total (GitHub) downloads: <h2>🎉 1158</h2>
 <!-- book_stats ends -->
-
+🤌 Thanks to everyone (from 🇮🇹)<br>
 Pick your copy clicking on the image above!
 </td></tr>
 <tr><td valign="top" style="width: 50%;">

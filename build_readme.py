@@ -65,7 +65,6 @@ def fetch_releases(oauth_token):
             query=make_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
-        print(data)
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             if len(repo["releases"]["nodes"]) != 0 and repo["releases"]["nodes"][0]["author"]["login"] == 'Mte90':
                 releases.append(
@@ -82,7 +81,6 @@ def fetch_releases(oauth_token):
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
 
     releases.sort(key=lambda r: r["published_at"], reverse=True)
-    print(releases)
     return releases
 
 
@@ -91,7 +89,7 @@ def fetch_download_book():
     request = requests.get("https://api.github.com/repos/mte90/Contribute-to-opensource-the-right-way/releases", headers=headers)
     json_response = request.json()
     total = int(json_response[0]['assets'][0]['download_count']) + int(json_response[0]['assets'][1]['download_count'])
-    total = 'Latest edition total (GitHub) downloads: <h2>🎉 ' + str(total) + '</h2>'
+    total = 'Latest edition total (GitHub) downloads: <h2>' + str(total) + '🎉</h2><br>!'
     return total
 
 
@@ -126,6 +124,6 @@ if __name__ == "__main__":
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
     total_book = fetch_download_book()
-    rewritten = replace_chunk(readme_contents, "book_stats", total_book)
+    rewritten = replace_chunk(rewritten, "book_stats", total_book)
 
     readme.open("w").write(rewritten)
