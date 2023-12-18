@@ -88,7 +88,7 @@ def fetch_download_book():
     headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"}
     request = requests.get("https://api.github.com/repos/mte90/Contribute-to-opensource-the-right-way/releases", headers=headers)
     json_response = request.json()
-    if requests.status_code != 200:
+    if request.status_code != 200:
         request = requests.get("https://api.github.com/repos/mte90/Contribute-to-opensource-the-right-way/releases", headers=headers)
         json_response = request.json()
     total = int(json_response[0]['assets'][0]['download_count']) + int(json_response[0]['assets'][1]['download_count'])
