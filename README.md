@@ -13,10 +13,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [CodeAtCode/CodeatCS 1.0.30](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.30) - 2023/12/18
 * [Mte90/espanso-typofixer 1.0.3](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.3) - 2023/11/06
 * [Mte90/GH-License 0.3.0](https://github.com/Mte90/GH-License/releases/tag/0.3.0) - 2023/10/17
 * [WPBP/template 1.0.4](https://github.com/WPBP/template/releases/tag/1.0.4) - 2023/08/29
-* [CodeAtCode/CodeatCS 1.0.29](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.29) - 2023/08/29
 * [Mte90/GlotDict v2.1.2](https://github.com/Mte90/GlotDict/releases/tag/v2.1.2) - 2023/08/28
 * [WPBP/CPT_Columns 1.0.3](https://github.com/WPBP/CPT_Columns/releases/tag/1.0.3) - 2023/08/21
 * [goodhosts/vagrant 1.1.6](https://github.com/goodhosts/vagrant/releases/tag/1.1.6) - 2023/06/21
