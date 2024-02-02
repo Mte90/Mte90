@@ -31,11 +31,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [How to fix Cloudflare Polish on Apache web server](https://daniele.tech/2024/02/how-to-fix-cloudflare-polish-on-apache-web-server/) - 2024/02/01
+* [My free software and open source activities of January 2024](https://daniele.tech/2024/01/my-free-software-and-open-source-activities-of-january-2024/) - 2024/01/31
 * [NeoVim LSP and DAP for Python (and Django)](https://daniele.tech/2024/01/neovim-lsp-and-dap-for-python-and-django/) - 2024/01/17
 * [My free software and open source activities of December 2023](https://daniele.tech/2023/12/my-free-software-and-open-source-activities-of-december-2023/) - 2023/12/31
 * [How I did a pull request to an open source project with ChatGPT](https://daniele.tech/2023/12/how-i-did-a-pull-request-to-an-open-source-project-with-chatgpt/) - 2023/12/12
-* [My free software and open source activities of November 2023](https://daniele.tech/2023/11/my-free-software-and-open-source-activities-of-november-2023/) - 2023/11/30
-* [How to change the language on the Steam Deck’s Desktop mode](https://daniele.tech/2023/11/how-to-change-the-language-on-the-steam-decks-desktop-mode/) - 2023/11/17
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
