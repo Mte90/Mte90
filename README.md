@@ -31,18 +31,18 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [How to execute Firefox with support for KDE filepicker (again)](https://daniele.tech/2024/02/how-to-execute-firefox-with-support-for-kde-filepicker-again/) - 2024/02/09
 * [How to fix Cloudflare Polish on Apache web server](https://daniele.tech/2024/02/how-to-fix-cloudflare-polish-on-apache-web-server/) - 2024/02/01
 * [My free software and open source activities of January 2024](https://daniele.tech/2024/01/my-free-software-and-open-source-activities-of-january-2024/) - 2024/01/31
 * [NeoVim LSP and DAP for Python (and Django)](https://daniele.tech/2024/01/neovim-lsp-and-dap-for-python-and-django/) - 2024/01/17
 * [My free software and open source activities of December 2023](https://daniele.tech/2023/12/my-free-software-and-open-source-activities-of-december-2023/) - 2023/12/31
-* [How I did a pull request to an open source project with ChatGPT](https://daniele.tech/2023/12/how-i-did-a-pull-request-to-an-open-source-project-with-chatgpt/) - 2023/12/12
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1220🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1221🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
