@@ -13,11 +13,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/espanso-typofixer 1.0.3](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.3) - 2024/02/20
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.3) - 2024/02/06
 * [WPBP/generator 1.3.9](https://github.com/WPBP/generator/releases/tag/1.3.9) - 2024/02/06
 * [CodeAtCode/CodeatCS 1.0.32](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.32) - 2024/02/06
 * [goodhosts/vagrant 1.1.7](https://github.com/goodhosts/vagrant/releases/tag/1.1.7) - 2024/01/26
-* [Mte90/espanso-typofixer 1.0.3](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.3) - 2023/11/06
 * [Mte90/GH-License 0.3.0](https://github.com/Mte90/GH-License/releases/tag/0.3.0) - 2023/10/17
 * [WPBP/template 1.0.4](https://github.com/WPBP/template/releases/tag/1.0.4) - 2023/08/29
 * [Mte90/GlotDict v2.1.2](https://github.com/Mte90/GlotDict/releases/tag/v2.1.2) - 2023/08/28
