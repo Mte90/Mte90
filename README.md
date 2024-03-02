@@ -31,11 +31,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [How I hacked a course platform built with WordPress](https://daniele.tech/2024/03/how-i-hacked-a-course-platform-built-with-wordpress/) - 2024/03/01
 * [My free software and open source activities of February 2024](https://daniele.tech/2024/02/my-free-software-and-open-source-activities-of-february-2024/) - 2024/02/29
 * [How to execute Firefox with support for KDE filepicker (again)](https://daniele.tech/2024/02/how-to-execute-firefox-with-support-for-kde-filepicker-again/) - 2024/02/09
 * [How to fix Cloudflare Polish on Apache web server](https://daniele.tech/2024/02/how-to-fix-cloudflare-polish-on-apache-web-server/) - 2024/02/01
 * [My free software and open source activities of January 2024](https://daniele.tech/2024/01/my-free-software-and-open-source-activities-of-january-2024/) - 2024/01/31
-* [NeoVim LSP and DAP for Python (and Django)](https://daniele.tech/2024/01/neovim-lsp-and-dap-for-python-and-django/) - 2024/01/17
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
