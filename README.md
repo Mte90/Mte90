@@ -13,7 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/yad-static-build nightly-15032024](https://github.com/Mte90/yad-static-build/releases/tag/nightly-15032024) - 2024/03/15
+* [Mte90/yad-static-build nightly-18032024](https://github.com/Mte90/yad-static-build/releases/tag/nightly-18032024) - 2024/03/18
 * [Mte90/espanso-typofixer 1.0.3](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.3) - 2024/02/20
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.3) - 2024/02/06
 * [WPBP/generator 1.3.9](https://github.com/WPBP/generator/releases/tag/1.3.9) - 2024/02/06
@@ -42,7 +42,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1240🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1242🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
