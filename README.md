@@ -31,18 +31,18 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [How to fix Properly Images size Pagespeed error on WordPress](https://daniele.tech/2024/03/how-to-fix-properly-images-size-on-wordpress/) - 2024/03/27
 * [How to generate a Linux static build of a binary](https://daniele.tech/2024/03/how-to-generate-a-linux-static-build-of-a-binary/) - 2024/03/19
 * [fibra.city Cross Site Scripting Vulnerability](https://daniele.tech/2024/03/fibra-city-cross-site-scripting-vulnerability/) - 2024/03/11
 * [How I hacked a course platform built with WordPress](https://daniele.tech/2024/03/how-i-hacked-a-course-platform-built-with-wordpress/) - 2024/03/01
 * [My free software and open source activities of February 2024](https://daniele.tech/2024/02/my-free-software-and-open-source-activities-of-february-2024/) - 2024/02/29
-* [How to execute Firefox with support for KDE filepicker (again)](https://daniele.tech/2024/02/how-to-execute-firefox-with-support-for-kde-filepicker-again/) - 2024/02/09
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1248🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1249🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
