@@ -13,6 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [WPBP/Widgets-Helper 1.0.17](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.17) - 2024/04/09
 * [Mte90/GlotDict v2.1.3](https://github.com/Mte90/GlotDict/releases/tag/v2.1.3) - 2024/04/08
 * [Mte90/Share-Backported 2.1.6](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.6) - 2024/03/20
 * [Mte90/yad-static-build nightly-18032024](https://github.com/Mte90/yad-static-build/releases/tag/nightly-18032024) - 2024/03/18
@@ -20,7 +21,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.3) - 2024/02/06
 * [WPBP/generator 1.3.9](https://github.com/WPBP/generator/releases/tag/1.3.9) - 2024/02/06
 * [CodeAtCode/CodeatCS 1.0.32](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.32) - 2024/02/06
-* [goodhosts/vagrant 1.1.7](https://github.com/goodhosts/vagrant/releases/tag/1.1.7) - 2024/01/26
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -42,7 +42,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1255🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1256🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
