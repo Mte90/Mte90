@@ -19,8 +19,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/Share-Backported 2.1.6](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.6) - 2024/03/20
 * [Mte90/yad-static-build nightly-18032024](https://github.com/Mte90/yad-static-build/releases/tag/nightly-18032024) - 2024/03/18
 * [Mte90/espanso-typofixer 1.0.3](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.3) - 2024/02/20
-* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.3) - 2024/02/06
 * [WPBP/generator 1.3.9](https://github.com/WPBP/generator/releases/tag/1.3.9) - 2024/02/06
+* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.3) - 2024/02/06
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -31,18 +31,18 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of April 2024](https://daniele.tech/2024/04/my-free-software-and-open-source-activities-of-april-2024/) - 2024/04/30
 * [My free software and open source activities of March 2024](https://daniele.tech/2024/04/my-free-software-and-open-source-activities-of-march-2024/) - 2024/04/02
 * [How to fix Properly Images size Pagespeed error on WordPress](https://daniele.tech/2024/03/how-to-fix-properly-images-size-on-wordpress/) - 2024/03/27
 * [How to generate a Linux static build of a binary](https://daniele.tech/2024/03/how-to-generate-a-linux-static-build-of-a-binary/) - 2024/03/19
 * [fibra.city Cross Site Scripting Vulnerability](https://daniele.tech/2024/03/fibra-city-cross-site-scripting-vulnerability/) - 2024/03/11
-* [How I hacked a course platform built with WordPress](https://daniele.tech/2024/03/how-i-hacked-a-course-platform-built-with-wordpress/) - 2024/03/01
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1262🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1263🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
