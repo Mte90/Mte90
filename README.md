@@ -32,7 +32,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 ### On my blog
 <!-- blog starts -->
 * [My free software and open source activities of April 2024](https://daniele.tech/2024/04/my-free-software-and-open-source-activities-of-april-2024/) - 2024/04/30
-* [My free software and open source activities of March 2024](https://daniele.tech/2024/04/my-free-software-and-open-source-activities-of-march-2024/) - 2024/04/02
+* [My free software and open source activities of March 2024](https://daniele.tech/2024/03/my-free-software-and-open-source-activities-of-march-2024/) - 2024/03/30
 * [How to fix Properly Images size Pagespeed error on WordPress](https://daniele.tech/2024/03/how-to-fix-properly-images-size-on-wordpress/) - 2024/03/27
 * [How to generate a Linux static build of a binary](https://daniele.tech/2024/03/how-to-generate-a-linux-static-build-of-a-binary/) - 2024/03/19
 * [fibra.city Cross Site Scripting Vulnerability](https://daniele.tech/2024/03/fibra-city-cross-site-scripting-vulnerability/) - 2024/03/11
@@ -42,7 +42,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1270🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1273🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
