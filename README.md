@@ -13,7 +13,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [CodeAtCode/CodeatCS 1.0.33](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.33) - 2024/04/22
+* [CodeAtCode/CodeatCS 1.0.34](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.34) - 2024/05/21
 * [WPBP/Widgets-Helper 1.0.17](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.17) - 2024/04/09
 * [Mte90/GlotDict v2.1.3](https://github.com/Mte90/GlotDict/releases/tag/v2.1.3) - 2024/04/08
 * [Mte90/Share-Backported 2.1.6](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.6) - 2024/03/20
@@ -42,7 +42,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1280🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1281🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
