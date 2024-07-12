@@ -13,14 +13,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [WPBP/Widgets-Helper 1.0.19](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.19) - 2024/07/05
+* [WPBP/Widgets-Helper 1.0.20](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.20) - 2024/07/11
+* [WPBP/Debug 1.1.4](https://github.com/WPBP/Debug/releases/tag/1.1.4) - 2024/07/11
 * [CodeAtCode/CodeatCS 1.0.34](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.34) - 2024/05/21
 * [Mte90/GlotDict v2.1.3](https://github.com/Mte90/GlotDict/releases/tag/v2.1.3) - 2024/04/08
 * [Mte90/Share-Backported 2.1.6](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.6) - 2024/03/20
 * [Mte90/yad-static-build nightly-18032024](https://github.com/Mte90/yad-static-build/releases/tag/nightly-18032024) - 2024/03/18
 * [Mte90/espanso-typofixer 1.0.3](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.3) - 2024/02/20
 * [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.3) - 2024/02/06
-* [WPBP/generator 1.3.9](https://github.com/WPBP/generator/releases/tag/1.3.9) - 2024/02/06
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -42,7 +42,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1338🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1339🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
