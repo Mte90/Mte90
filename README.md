@@ -15,13 +15,13 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/espanso-typofixer 1.0.4](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.4) - 2024/09/11
 * [Mte90/Share-Backported 2.1.7](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.7) - 2024/09/05
 * [WPBP/Widgets-Helper 1.0.21](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.21) - 2024/07/18
 * [WPBP/Debug 1.1.4](https://github.com/WPBP/Debug/releases/tag/1.1.4) - 2024/07/11
 * [CodeAtCode/CodeatCS 1.0.34](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.34) - 2024/05/21
 * [Mte90/GlotDict v2.1.3](https://github.com/Mte90/GlotDict/releases/tag/v2.1.3) - 2024/04/08
 * [Mte90/yad-static-build nightly-18032024](https://github.com/Mte90/yad-static-build/releases/tag/nightly-18032024) - 2024/03/18
-* [Mte90/espanso-typofixer 1.0.3](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.3) - 2024/02/20
 * [WPBP/generator 1.3.9](https://github.com/WPBP/generator/releases/tag/1.3.9) - 2024/02/06
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
@@ -33,11 +33,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [Convert files to HTML using LibreOffice from shell](https://daniele.tech/2024/09/convert-files-to-html-using-libreoffice-from-shell/) - 2024/09/11
 * [My free software and open source activities of August 2024](https://daniele.tech/2024/09/my-free-software-and-open-source-activities-of-august-2024/) - 2024/09/03
 * [My free software and open source activities of July 2024](https://daniele.tech/2024/07/my-free-software-and-open-source-activities-of-july-2024/) - 2024/07/31
 * [Why you should try Amber-Lang for your Bash Scripts](https://daniele.tech/2024/07/why-you-should-try-amber-lang-for-your-bash-scripts/) - 2024/07/19
 * [My free software and open source activities of June 2024](https://daniele.tech/2024/06/my-free-software-and-open-source-activities-of-june-2024/) - 2024/06/30
-* [My free software and open source activities of May 2024](https://daniele.tech/2024/05/my-free-software-and-open-source-activities-of-may-2024/) - 2024/05/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
