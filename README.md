@@ -33,11 +33,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of September 2024](https://daniele.tech/2024/10/my-free-software-and-open-source-activities-of-september-2024/) - 2024/10/03
 * [Convert files to HTML using LibreOffice from shell](https://daniele.tech/2024/09/convert-files-to-html-using-libreoffice-from-shell/) - 2024/09/11
 * [My free software and open source activities of August 2024](https://daniele.tech/2024/09/my-free-software-and-open-source-activities-of-august-2024/) - 2024/09/03
 * [My free software and open source activities of July 2024](https://daniele.tech/2024/07/my-free-software-and-open-source-activities-of-july-2024/) - 2024/07/31
 * [Why you should try Amber-Lang for your Bash Scripts](https://daniele.tech/2024/07/why-you-should-try-amber-lang-for-your-bash-scripts/) - 2024/07/19
-* [My free software and open source activities of June 2024](https://daniele.tech/2024/06/my-free-software-and-open-source-activities-of-june-2024/) - 2024/06/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
