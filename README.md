@@ -22,7 +22,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [CodeAtCode/CodeatCS 1.0.34](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.34) - 2024/05/21
 * [Mte90/GlotDict v2.1.3](https://github.com/Mte90/GlotDict/releases/tag/v2.1.3) - 2024/04/08
 * [Mte90/yad-static-build nightly-18032024](https://github.com/Mte90/yad-static-build/releases/tag/nightly-18032024) - 2024/03/18
-* [WPBP/generator 1.3.9](https://github.com/WPBP/generator/releases/tag/1.3.9) - 2024/02/06
+* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.3) - 2024/02/06
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
