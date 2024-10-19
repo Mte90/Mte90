@@ -15,6 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
 * [Mte90/espanso-typofixer 1.0.4](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.4) - 2024/09/11
 * [Mte90/Share-Backported 2.1.7](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.7) - 2024/09/05
 * [WPBP/Widgets-Helper 1.0.21](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.21) - 2024/07/18
@@ -22,7 +23,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [CodeAtCode/CodeatCS 1.0.34](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.34) - 2024/05/21
 * [Mte90/GlotDict v2.1.3](https://github.com/Mte90/GlotDict/releases/tag/v2.1.3) - 2024/04/08
 * [Mte90/yad-static-build nightly-18032024](https://github.com/Mte90/yad-static-build/releases/tag/nightly-18032024) - 2024/03/18
-* [WPBP/WordPress-Plugin-Boilerplate-Powered 3.3.3](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/releases/tag/3.3.3) - 2024/02/06
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -44,7 +44,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1402🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1404🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
