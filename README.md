@@ -44,7 +44,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1439🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1441🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
