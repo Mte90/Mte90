@@ -15,10 +15,10 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/Share-Backported v2.1.8](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.8) - 2024/12/09
 * [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 * [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
 * [Mte90/espanso-typofixer 1.0.4](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.4) - 2024/09/11
-* [Mte90/Share-Backported 2.1.7](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.7) - 2024/09/05
 * [WPBP/Widgets-Helper 1.0.21](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.21) - 2024/07/18
 * [WPBP/Debug 1.1.4](https://github.com/WPBP/Debug/releases/tag/1.1.4) - 2024/07/11
 * [Mte90/GlotDict v2.1.3](https://github.com/Mte90/GlotDict/releases/tag/v2.1.3) - 2024/04/08
@@ -44,7 +44,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1451🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1452🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
