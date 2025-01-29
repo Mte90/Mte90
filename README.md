@@ -15,7 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/Share-Backported v2.1.8](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.8) - 2024/12/09
+* [Mte90/Share-Backported v2.1.9](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.9) - 2025/01/28
 * [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 * [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
 * [Mte90/espanso-typofixer 1.0.4](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.4) - 2024/09/11
