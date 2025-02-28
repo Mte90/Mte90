@@ -4,10 +4,10 @@ Since April 2021 part of the council of [Italian Linux Society](https://ils.org)
 
 I have an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source and tech opinions every week (over 180+ episodes!).
 
-In the [WordPress world he was a Core Contributor](https://profiles.wordpress.org/mte90/), (still) plugin developer and PTE. Creator of [GlotDict](https://github.com/Mte90/GlotDict) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) and one of the maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).  
+In the [WordPress world he was a Core Contributor](https://profiles.wordpress.org/mte90/), (still) plugin developer (and PTE because is the creator of [GlotDict](https://github.com/Mte90/GlotDict)) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) author and one of the maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).  
 In the meantime also a long time experience volunteer in the [Mozilla community](https://mozillians.org/it/u/Mte90/) (part of [Mozilla Italia](https://github.com/MozillaItalia)), a former [Mozilla TechSpeakers](https://wiki.mozilla.org/TechSpeakers) and former [Mozilla Rep](https://wiki.mozilla.org/ReMo) (former Reps Council member) .  
 
-In 2024 I joined the [Amber-Lang](https://amber-lang.com/) project to create a Bash transpiler.
+In 2024 I joined the [Amber-Lang](https://amber-lang.com/) project to create a Bash transpiler as one of the co maintainers.
 
 A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension developer](https://github.com/Mte90/ExtStoreStats) with [Share Backported](https://github.com/Mte90/Share-Backported), [Footswitch Scripted](https://github.com/Mte90/pydal) with [scripting addictions](https://github.com/Mte90/My-Scripts), [Enforcer of OSS license in projects](https://github.com/Mte90/GH-License), [Addicted typo generator/fixer](https://github.com/Mte90/espanso-typofixer) and also a Retrogaming tool developer for rom cheats with [GGGG](https://github.com/Mte90/Game-Genie-Good-Guy) and [GBAATM-Rebirth](https://github.com/Mte90/GBAATM-Rebirth).
 
