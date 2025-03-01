@@ -33,18 +33,18 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of February 2025](https://daniele.tech/2025/02/my-free-software-and-open-source-activities-of-february-2025/) - 2025/02/28
 * [My free software and open source activities of January 2025](https://daniele.tech/2025/01/my-free-software-and-open-source-activities-of-january-2025/) - 2025/01/30
 * [How to import Fixture in Django with Sqlite with Foreign Key disabled](https://daniele.tech/2025/01/how-to-import-fixture-in-django-with-sqlite-with-foreign-key-disabled/) - 2025/01/14
 * [My free software and open source activities of December 2024](https://daniele.tech/2024/12/my-free-software-and-open-source-activities-of-december-2024/) - 2024/12/29
 * [My free software and open source activities of November 2024](https://daniele.tech/2024/11/my-free-software-and-open-source-activities-of-november-2024/) - 2024/11/30
-* [My free software and open source activities of October 2024](https://daniele.tech/2024/10/my-free-software-and-open-source-activities-of-october-2024/) - 2024/10/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1505🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1506🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
