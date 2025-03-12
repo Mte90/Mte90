@@ -15,6 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [CodeAtCode/paypal-subscription-lib 0.1.0](https://github.com/CodeAtCode/paypal-subscription-lib/releases/tag/0.1.0) - 2025/03/11
 * [Mte90/Share-Backported v2.1.11](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.11) - 2025/02/21
 * [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 * [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
@@ -22,7 +23,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [WPBP/Widgets-Helper 1.0.21](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.21) - 2024/07/18
 * [WPBP/Debug 1.1.4](https://github.com/WPBP/Debug/releases/tag/1.1.4) - 2024/07/11
 * [Mte90/GlotDict v2.1.3](https://github.com/Mte90/GlotDict/releases/tag/v2.1.3) - 2024/04/08
-* [Mte90/yad-static-build nightly-18032024](https://github.com/Mte90/yad-static-build/releases/tag/nightly-18032024) - 2024/03/18
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -33,11 +33,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [Launch a executables inside the Proton environment of any game (on Steam Deck)](https://daniele.tech/2025/03/launch-a-executables-inside-the-proton-environment-of-any-game-on-steam-deck/) - 2025/03/11
 * [My free software and open source activities of February 2025](https://daniele.tech/2025/02/my-free-software-and-open-source-activities-of-february-2025/) - 2025/02/28
 * [My free software and open source activities of January 2025](https://daniele.tech/2025/01/my-free-software-and-open-source-activities-of-january-2025/) - 2025/01/30
 * [How to import Fixture in Django with Sqlite with Foreign Key disabled](https://daniele.tech/2025/01/how-to-import-fixture-in-django-with-sqlite-with-foreign-key-disabled/) - 2025/01/14
 * [My free software and open source activities of December 2024](https://daniele.tech/2024/12/my-free-software-and-open-source-activities-of-december-2024/) - 2024/12/29
-* [My free software and open source activities of November 2024](https://daniele.tech/2024/11/my-free-software-and-open-source-activities-of-november-2024/) - 2024/11/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
