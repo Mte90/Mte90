@@ -2,7 +2,7 @@
 All his talks and slide with recordings are [avalaible on his dedicated website](https://mte90.tech/).   
 Since April 2021 part of the council of [Italian Linux Society](https://ils.org) association.
 
-I have an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source and tech opinions every week (over 180+ episodes!).
+I had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source and tech opinions every week (197 episodes!) for 4 years.
 
 In the [WordPress world he was a Core Contributor](https://profiles.wordpress.org/mte90/), (still) plugin developer (and PTE because is the creator of [GlotDict](https://github.com/Mte90/GlotDict)) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) author and one of the maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).  
 In the meantime also a long time experience volunteer in the [Mozilla community](https://mozillians.org/it/u/Mte90/) (part of [Mozilla Italia](https://github.com/MozillaItalia)), a former [Mozilla TechSpeakers](https://wiki.mozilla.org/TechSpeakers) and former [Mozilla Rep](https://wiki.mozilla.org/ReMo) (former Reps Council member) .  
@@ -54,5 +54,5 @@ Pick your copy clicking on the image above!
 ![Mte90's github stats](https://github-readme-stats.vercel.app/api?username=mte90&show_icons=true)
   
 </td><td valign="top" style="width: 50%;">
-  <a href="https://daniele.tech/podcast"><img src="https://daniele.tech/wp-content/uploads/2020/12/Open_source1-300x300.png"></a>
+
 </td></tr></table>
