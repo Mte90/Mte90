@@ -15,8 +15,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/Share-Backported v2.1.12](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.12) - 2025/03/25
 * [CodeAtCode/paypal-subscription-lib 0.1.0](https://github.com/CodeAtCode/paypal-subscription-lib/releases/tag/0.1.0) - 2025/03/11
-* [Mte90/Share-Backported v2.1.11](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.11) - 2025/02/21
 * [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 * [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
 * [Mte90/espanso-typofixer 1.0.4](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.4) - 2024/09/11
@@ -33,18 +33,18 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [A tiny library in Python for Paypal Subscriptions](https://daniele.tech/2025/03/a-tiny-library-in-python-for-paypal-subscriptions/) - 2025/03/25
 * [Launch a executables inside the Proton environment of any game (on Steam Deck)](https://daniele.tech/2025/03/launch-a-executables-inside-the-proton-environment-of-any-game-on-steam-deck/) - 2025/03/11
 * [My free software and open source activities of February 2025](https://daniele.tech/2025/02/my-free-software-and-open-source-activities-of-february-2025/) - 2025/02/28
 * [My free software and open source activities of January 2025](https://daniele.tech/2025/01/my-free-software-and-open-source-activities-of-january-2025/) - 2025/01/30
 * [How to import Fixture in Django with Sqlite with Foreign Key disabled](https://daniele.tech/2025/01/how-to-import-fixture-in-django-with-sqlite-with-foreign-key-disabled/) - 2025/01/14
-* [My free software and open source activities of December 2024](https://daniele.tech/2024/12/my-free-software-and-open-source-activities-of-december-2024/) - 2024/12/29
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1513🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1514🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
