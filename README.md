@@ -15,7 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [CodeAtCode/paypal-subscription-lib 0.1.1](https://github.com/CodeAtCode/paypal-subscription-lib/releases/tag/0.1.1) - 2025/04/14
+* [CodeAtCode/paypal-subscription-lib 0.1.2](https://github.com/CodeAtCode/paypal-subscription-lib/releases/tag/0.1.2) - 2025/04/15
 * [Mte90/Share-Backported v2.1.12](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.12) - 2025/03/25
 * [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 * [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
@@ -44,7 +44,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1525🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1527🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
