@@ -15,6 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GlotDict v2.1.4](https://github.com/Mte90/GlotDict/releases/tag/v2.1.4) - 2025/05/23
 * [Mte90/Share-Backported v2.1.14](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.14) - 2025/05/08
 * [Mte90/espanso-typofixer 1.0.5](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.5) - 2025/05/08
 * [CodeAtCode/paypal-subscription-lib 0.1.2](https://github.com/CodeAtCode/paypal-subscription-lib/releases/tag/0.1.2) - 2025/04/15
@@ -22,7 +23,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
 * [WPBP/Widgets-Helper 1.0.21](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.21) - 2024/07/18
 * [WPBP/Debug 1.1.4](https://github.com/WPBP/Debug/releases/tag/1.1.4) - 2024/07/11
-* [Mte90/GlotDict v2.1.3](https://github.com/Mte90/GlotDict/releases/tag/v2.1.3) - 2024/04/08
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
