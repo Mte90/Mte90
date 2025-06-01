@@ -33,11 +33,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of May 2025](https://daniele.tech/2025/05/my-free-software-and-open-source-activities-of-may-2025/) - 2025/05/31
 * [My free software and open source activities of April 2025](https://daniele.tech/2025/04/my-free-software-and-open-source-activities-of-april-2025/) - 2025/04/30
 * [How to center the mouse between monitors in Wayland](https://daniele.tech/2025/04/how-to-center-the-mouse-between-monitors-in-wayland/) - 2025/04/10
 * [My free software and open source activities of March 2025](https://daniele.tech/2025/03/my-free-software-and-open-source-activities-of-march-2025/) - 2025/03/31
 * [A tiny library in Python for Paypal Subscriptions](https://daniele.tech/2025/03/a-tiny-library-in-python-for-paypal-subscriptions/) - 2025/03/25
-* [Launch a executables inside the Proton environment of any game (on Steam Deck)](https://daniele.tech/2025/03/launch-a-executables-inside-the-proton-environment-of-any-game-on-steam-deck/) - 2025/03/11
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
