@@ -85,7 +85,7 @@ def fetch_releases(oauth_token):
 
 
 def fetch_download_book():
-    headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"}
+    headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0"}
     request = requests.get("https://api.github.com/repos/mte90/Contribute-to-opensource-the-right-way/releases", headers=headers)
     json_response = request.json()
     if request.status_code != 200:
@@ -110,7 +110,9 @@ def fetch_blog_entries():
 
 if __name__ == "__main__":
     readme = root / "README.md"
-    releases = fetch_releases(TOKEN)
+    releases = []
+    if TOKEN != "":
+        releases = fetch_releases(TOKEN)
     md = "\n".join(
         [
             "* [{nameWithOwner} {release}]({url}) - {published_at}".format(**release)
