@@ -15,8 +15,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GlotDict v2.1.5](https://github.com/Mte90/GlotDict/releases/tag/v2.1.5) - 2025/08/19
 * [Mte90/yad-static-build nightly-23062025](https://github.com/Mte90/yad-static-build/releases/tag/nightly-23062025) - 2025/06/23
-* [Mte90/GlotDict v2.1.4](https://github.com/Mte90/GlotDict/releases/tag/v2.1.4) - 2025/05/23
 * [Mte90/espanso-typofixer 1.0.5](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.5) - 2025/05/08
 * [Mte90/Share-Backported v2.1.14](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.14) - 2025/05/08
 * [CodeAtCode/paypal-subscription-lib 0.1.2](https://github.com/CodeAtCode/paypal-subscription-lib/releases/tag/0.1.2) - 2025/04/15
@@ -33,18 +33,18 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of July 2025](https://daniele.tech/2025/08/my-free-software-and-open-source-activities-of-july-2025/) - 2025/08/19
 * [Bulk move posts with tag to categories with WP-CLI](https://daniele.tech/2025/07/bulk-move-posts-with-tag-to-categories-with-wp-cli/) - 2025/07/10
 * [My free software and open source activities of June 2025](https://daniele.tech/2025/06/my-free-software-and-open-source-activities-of-june-2025/) - 2025/06/30
 * [My free software and open source activities of May 2025](https://daniele.tech/2025/05/my-free-software-and-open-source-activities-of-may-2025/) - 2025/05/31
 * [My free software and open source activities of April 2025](https://daniele.tech/2025/04/my-free-software-and-open-source-activities-of-april-2025/) - 2025/04/30
-* [How to center the mouse between monitors in Wayland](https://daniele.tech/2025/04/how-to-center-the-mouse-between-monitors-in-wayland/) - 2025/04/10
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1592🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1593🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
