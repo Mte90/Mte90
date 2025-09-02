@@ -33,18 +33,18 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of August 2025](https://daniele.tech/2025/09/my-free-software-and-open-source-activities-of-august-2025/) - 2025/09/01
 * [My free software and open source activities of July 2025](https://daniele.tech/2025/08/my-free-software-and-open-source-activities-of-july-2025/) - 2025/08/19
 * [Bulk move posts with tag to categories with WP-CLI](https://daniele.tech/2025/07/bulk-move-posts-with-tag-to-categories-with-wp-cli/) - 2025/07/10
 * [My free software and open source activities of June 2025](https://daniele.tech/2025/06/my-free-software-and-open-source-activities-of-june-2025/) - 2025/06/30
 * [My free software and open source activities of May 2025](https://daniele.tech/2025/05/my-free-software-and-open-source-activities-of-may-2025/) - 2025/05/31
-* [My free software and open source activities of April 2025](https://daniele.tech/2025/04/my-free-software-and-open-source-activities-of-april-2025/) - 2025/04/30
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1600🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1602🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
