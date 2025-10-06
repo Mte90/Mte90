@@ -28,14 +28,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent repositories
 <!-- new_repositories starts -->
-* [Mte90/Mte90](https://github.com/Mte90/Mte90) - Updated at: 2025-10-06
-* [Mte90/espanso-typofixer](https://github.com/Mte90/espanso-typofixer) - Updated at: 2025-10-06
-* [amber-lang/amber](https://github.com/amber-lang/amber) - Updated at: 2025-10-06
-* [common-voice/common-voice](https://github.com/common-voice/common-voice) - Updated at: 2025-10-06
-* [Mte90/ExtStoreStats](https://github.com/Mte90/ExtStoreStats) - Updated at: 2025-10-06
-* [CodeAtCode/WP-Review-Me](https://github.com/CodeAtCode/WP-Review-Me) - Updated at: 2025-10-05
-* [Mte90/kate-ollama](https://github.com/Mte90/kate-ollama) - Updated at: 2025-10-05
-* [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - Updated at: 2025-10-04
+* [regolo-ai/Regolo-Catalog](https://github.com/regolo-ai/Regolo-Catalog) - Created at: 2025-10-02
+* [Mte90/django-ratelimit](https://github.com/Mte90/django-ratelimit) - Created at: 2025-09-25 (Fork)
+* [Mte90/django-unfold](https://github.com/Mte90/django-unfold) - Created at: 2025-09-03 (Fork)
+* [regolo-ai/regolo-agents-for-openbb](https://github.com/regolo-ai/regolo-agents-for-openbb) - Created at: 2025-09-03 (Fork)
+* [regolo-ai/dify-official-plugins](https://github.com/regolo-ai/dify-official-plugins) - Created at: 2025-09-02 (Fork)
+* [regolo-ai/regolofactor](https://github.com/regolo-ai/regolofactor) - Created at: 2025-08-29
+* [regolo-ai/status-page](https://github.com/regolo-ai/status-page) - Created at: 2025-08-20 (Fork)
+* [Mte90/dj-rest-auth](https://github.com/Mte90/dj-rest-auth) - Created at: 2025-08-04 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
