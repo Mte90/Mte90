@@ -153,9 +153,9 @@ if __name__ == "__main__":
     )
     md_new_repos = "\n".join(
         [
-            "* [{nameWithOwner}]({url}) - {createdAt}{fork_status}{description}".format(
+            "* [{nameWithOwner}]({url}) - {createdAt}{fork_status}{desc}".format(
             fork_status=" (Fork)" if repo["isFork"] else "",
-            description=" - " + repo["description"] if not repo["isFork"] and repo["description"] else "",
+            desc=" - " + repo["description"] if not repo["isFork"] and repo["description"] else "",
             **repo)
             for repo in new_repositories
         ]
