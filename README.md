@@ -23,11 +23,18 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 * [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
 * [WPBP/Widgets-Helper 1.0.21](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.21) - 2024/07/18
-
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 ### Recent releases (for project)
 <!-- new_repositories starts -->
+* [Mte90/Mte90](https://github.com/Mte90/Mte90) - Updated at: 2025-10-06
+* [Mte90/espanso-typofixer](https://github.com/Mte90/espanso-typofixer) - Updated at: 2025-10-06
+* [amber-lang/amber](https://github.com/amber-lang/amber) - Updated at: 2025-10-06
+* [common-voice/common-voice](https://github.com/common-voice/common-voice) - Updated at: 2025-10-06
+* [Mte90/ExtStoreStats](https://github.com/Mte90/ExtStoreStats) - Updated at: 2025-10-06
+* [CodeAtCode/WP-Review-Me](https://github.com/CodeAtCode/WP-Review-Me) - Updated at: 2025-10-05
+* [Mte90/kate-ollama](https://github.com/Mte90/kate-ollama) - Updated at: 2025-10-05
+* [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - Updated at: 2025-10-04
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
