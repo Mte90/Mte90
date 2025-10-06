@@ -28,14 +28,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
-* [regolo-ai/Regolo-Catalog](https://github.com/regolo-ai/Regolo-Catalog) - Created at: 2025-10-02
-* [Mte90/django-ratelimit](https://github.com/Mte90/django-ratelimit) - Created at: 2025-09-25 (Fork)
-* [Mte90/django-unfold](https://github.com/Mte90/django-unfold) - Created at: 2025-09-03 (Fork)
-* [regolo-ai/regolo-agents-for-openbb](https://github.com/regolo-ai/regolo-agents-for-openbb) - Created at: 2025-09-03 (Fork)
-* [regolo-ai/dify-official-plugins](https://github.com/regolo-ai/dify-official-plugins) - Created at: 2025-09-02 (Fork)
-* [regolo-ai/regolofactor](https://github.com/regolo-ai/regolofactor) - Created at: 2025-08-29
-* [regolo-ai/status-page](https://github.com/regolo-ai/status-page) - Created at: 2025-08-20 (Fork)
-* [Mte90/dj-rest-auth](https://github.com/Mte90/dj-rest-auth) - Created at: 2025-08-04 (Fork)
+* [Mte90/django-ratelimit](https://github.com/Mte90/django-ratelimit) - 2025-09-25 (Fork)
+* [Mte90/django-unfold](https://github.com/Mte90/django-unfold) - 2025-09-03 (Fork)
+* [Mte90/dj-rest-auth](https://github.com/Mte90/dj-rest-auth) - 2025-08-04 (Fork)
+* [Mte90/double-turbo](https://github.com/Mte90/double-turbo) - 2025-07-22
+* [Mte90/TurboDRF](https://github.com/Mte90/TurboDRF) - 2025-07-22 (Fork)
+* [amber-lang/amber-images](https://github.com/amber-lang/amber-images) - 2025-06-24
+* [CodeAtCode/deadsimple](https://github.com/CodeAtCode/deadsimple) - 2025-06-19
+* [amber-lang/homebrew-amber](https://github.com/amber-lang/homebrew-amber) - 2025-06-11
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
