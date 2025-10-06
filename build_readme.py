@@ -36,6 +36,7 @@ query {
         nameWithOwner
         name
         url
+        createdAt
         updatedAt
         isFork
         releases(last:1, orderBy: {field: CREATED_AT, direction: ASC}) {
