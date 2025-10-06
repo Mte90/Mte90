@@ -39,6 +39,7 @@ query {
         createdAt
         updatedAt
         isFork
+        description
         releases(last:1, orderBy: {field: CREATED_AT, direction: ASC}) {
           totalCount
           nodes {
@@ -91,7 +92,7 @@ def fetch_new_repositories(oauth_token, limit=8):
     repositories = []
     has_next_page = True
     after_cursor = None
-    excluded_users = ["common-voice", "regolo-ai", "Varying-Vagrant-Vagrants", "merge-it", "ItalianLinuxSociety", "cheshire-cat-ai", "goodhosts", "italyplace"]
+    excluded_users = ["common-voice", "regolo-ai", "Varying-Vagrant-Vagrants", "merge-it", "ItalianLinuxSociety", "cheshire-cat-ai", "goodhosts", "italyplace", "amber-lang"]
     while has_next_page and len(repositories) < limit:
         data = client.execute(
             query=make_query(after_cursor),
@@ -103,8 +104,9 @@ def fetch_new_repositories(oauth_token, limit=8):
             repositories.append({
                 "nameWithOwner": repo["nameWithOwner"],
                 "url": repo["url"],
-                "createdAt": repo["createdAt"].split("T")[0],
+                "createdAt": repo["createdAt"].replace('-', '/').split("T")[0],
                 "isFork": repo["isFork"],
+                "description": repo["description"],
             })
         has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"]["hasNextPage"]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
@@ -151,8 +153,9 @@ if __name__ == "__main__":
     )
     md_new_repos = "\n".join(
         [
-            "* [{nameWithOwner}]({url}) - {createdAt}{fork_status}".format(
+            "* [{nameWithOwner}]({url}) - {createdAt}{fork_status}{description}".format(
             fork_status=" (Fork)" if repo["isFork"] else "",
+            description=" - " + repo["description"] if not repo["isFork"] and repo["description"] else "",
             **repo)
             for repo in new_repositories
         ]
