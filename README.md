@@ -28,14 +28,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
-* [Mte90/django-ratelimit](https://github.com/Mte90/django-ratelimit) - 2025-09-25 (Fork)
-* [Mte90/django-unfold](https://github.com/Mte90/django-unfold) - 2025-09-03 (Fork)
-* [Mte90/dj-rest-auth](https://github.com/Mte90/dj-rest-auth) - 2025-08-04 (Fork)
-* [Mte90/double-turbo](https://github.com/Mte90/double-turbo) - 2025-07-22
-* [Mte90/TurboDRF](https://github.com/Mte90/TurboDRF) - 2025-07-22 (Fork)
-* [amber-lang/amber-images](https://github.com/amber-lang/amber-images) - 2025-06-24
-* [CodeAtCode/deadsimple](https://github.com/CodeAtCode/deadsimple) - 2025-06-19
-* [amber-lang/homebrew-amber](https://github.com/amber-lang/homebrew-amber) - 2025-06-11
+* [Mte90/django-ratelimit](https://github.com/Mte90/django-ratelimit) - 2025/09/25 (Fork)
+* [Mte90/django-unfold](https://github.com/Mte90/django-unfold) - 2025/09/03 (Fork)
+* [Mte90/dj-rest-auth](https://github.com/Mte90/dj-rest-auth) - 2025/08/04 (Fork)
+* [Mte90/double-turbo](https://github.com/Mte90/double-turbo) - 2025/07/22 - A django boilerplate for Turbo (Unfold admin theme) and Turbo-DRF
+* [Mte90/TurboDRF](https://github.com/Mte90/TurboDRF) - 2025/07/22 (Fork)
+* [CodeAtCode/deadsimple](https://github.com/CodeAtCode/deadsimple) - 2025/06/19 - A Fast and simple document extractor based on markitdown library with 0 OCRs
+* [CodeAtCode/piggyprompt](https://github.com/CodeAtCode/piggyprompt) - 2025/06/03 - The Trusty Vault for Your AI Prompts
+* [Mte90/kate-ollama](https://github.com/Mte90/kate-ollama) - 2025/03/18 - Experimental plugin to integrate Ollama in Kate for KDE
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
