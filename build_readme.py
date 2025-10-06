@@ -90,20 +90,24 @@ def fetch_new_repositories(oauth_token, limit=8):
     repositories = []
     has_next_page = True
     after_cursor = None
+    excluded_users = ["common-voice"]
     while has_next_page and len(repositories) < limit:
         data = client.execute(
             query=make_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
+            if any(excluded_user in repo["nameWithOwner"] for excluded_user in excluded_users):
+                continue
             repositories.append({
                 "nameWithOwner": repo["nameWithOwner"],
                 "url": repo["url"],
-                "updatedAt": repo["updatedAt"].split("T")[0],
+                "createdAt": repo["createdAt"].split("T")[0],
+                "isFork": repo["isFork"],
             })
         has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"]["hasNextPage"]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
-    repositories.sort(key=lambda r: r["updatedAt"], reverse=True)
+    repositories.sort(key=lambda r: r["createdAt"], reverse=True)
     return repositories[:limit]
 
 
@@ -146,7 +150,9 @@ if __name__ == "__main__":
     )
     md_new_repos = "\n".join(
         [
-            "* [{nameWithOwner}]({url}) - Updated at: {updatedAt}".format(**repo)
+            "* [{nameWithOwner}]({url}) - Created at: {createdAt}{fork_status}".format(
+            fork_status=" (Fork)" if repo["isFork"] else "",
+            **repo)
             for repo in new_repositories
         ]
     )

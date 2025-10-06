@@ -25,7 +25,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [WPBP/Widgets-Helper 1.0.21](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.21) - 2024/07/18
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
-### Recent releases (for project)
+
+### Recent repositories
 <!-- new_repositories starts -->
 * [Mte90/Mte90](https://github.com/Mte90/Mte90) - Updated at: 2025-10-06
 * [Mte90/espanso-typofixer](https://github.com/Mte90/espanso-typofixer) - Updated at: 2025-10-06
@@ -49,11 +50,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
+
 [![Download now for free!](https://daniele.tech/wp-content/uploads/2022/09/cover-2022-1-300x300.png)](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/)
+
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
 
 ![Mte90's github stats](https://github-readme-stats.vercel.app/api?username=mte90&show_icons=true)
+
 </td><td valign="top" style="width: 50%;">
 
 ### Downloads for my book
