@@ -26,7 +26,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
-### Recent repositories
+### New repositories
 <!-- new_repositories starts -->
 * [regolo-ai/Regolo-Catalog](https://github.com/regolo-ai/Regolo-Catalog) - Created at: 2025-10-02
 * [Mte90/django-ratelimit](https://github.com/Mte90/django-ratelimit) - Created at: 2025-09-25 (Fork)

@@ -91,7 +91,7 @@ def fetch_new_repositories(oauth_token, limit=8):
     repositories = []
     has_next_page = True
     after_cursor = None
-    excluded_users = ["common-voice"]
+    excluded_users = ["common-voice", "regolo-ai", "Varying-Vagrant-Vagrants", "merge-it", "ItalianLinuxSociety", "cheshire-cat-ai", "goodhosts", "italyplace"]
     while has_next_page and len(repositories) < limit:
         data = client.execute(
             query=make_query(after_cursor),
@@ -151,7 +151,7 @@ if __name__ == "__main__":
     )
     md_new_repos = "\n".join(
         [
-            "* [{nameWithOwner}]({url}) - Created at: {createdAt}{fork_status}".format(
+            "* [{nameWithOwner}]({url}) - {createdAt}{fork_status}".format(
             fork_status=" (Fork)" if repo["isFork"] else "",
             **repo)
             for repo in new_repositories
@@ -161,7 +161,7 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "recent_releases", md_releases)
     rewritten = replace_chunk(rewritten, "new_repositories", md_new_repos)
 
-    entries = fetch_blog_entries()[:5]
+    entries = fetch_blog_entries()[:8]
     entries_md = "\n".join(
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
