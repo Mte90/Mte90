@@ -4,7 +4,7 @@ Since April 2021 part of the council of [Italian Linux Society](https://ils.org)
 
 I had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source and tech opinions every week (197 episodes!) for 4 years.
 
-In the [WordPress world he was a Core Contributor](https://profiles.wordpress.org/mte90/), (still) plugin developer (and PTE because is the creator of [GlotDict](https://github.com/Mte90/GlotDict)) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) author and one of the maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).  
+In the [WordPress world he was a Core Contributor](https://profiles.wordpress.org/mte90/), (still) plugin developer (and PTE because is the creator of [GlotDict](https://github.com/Mte90/GlotDict)) and [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/) author and one of the ex-maintainers of [VVV](https://github.com/Varying-Vagrant-Vagrants).
 In the meantime also a long time experience volunteer in the [Mozilla community](https://mozillians.org/it/u/Mte90/) (part of [Mozilla Italia](https://github.com/MozillaItalia)), a former [Mozilla TechSpeakers](https://wiki.mozilla.org/TechSpeakers) and former [Mozilla Rep](https://wiki.mozilla.org/ReMo) (former Reps Council member) .  
 
 In 2024 I joined the [Amber-Lang](https://amber-lang.com/) project to create a Bash transpiler as one of the co maintainers.
@@ -23,11 +23,12 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 * [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
 * [WPBP/Widgets-Helper 1.0.21](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.21) - 2024/07/18
+
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
-
-[![Download now for free!](https://daniele.tech/wp-content/uploads/2022/09/cover-2022-1-300x300.png)](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/)
-
+### Recent releases (for project)
+<!-- new_repositories starts -->
+<!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
 
@@ -41,6 +42,12 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
+[![Download now for free!](https://daniele.tech/wp-content/uploads/2022/09/cover-2022-1-300x300.png)](https://daniele.tech/2022/09/contribute-to-open-source-the-right-way-3nd-edition/)
+</td></tr>
+<tr><td valign="top" style="width: 50%;">
+
+![Mte90's github stats](https://github-readme-stats.vercel.app/api?username=mte90&show_icons=true)
+</td><td valign="top" style="width: 50%;">
 
 ### Downloads for my book
 <!-- book_stats starts -->
@@ -48,11 +55,4 @@ Latest edition total (GitHub) downloads: <h2>1624🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
-</td></tr>
-<tr><td valign="top" style="width: 50%;">
-  
-![Mte90's github stats](https://github-readme-stats.vercel.app/api?username=mte90&show_icons=true)
-  
-</td><td valign="top" style="width: 50%;">
-
 </td></tr></table>

@@ -35,6 +35,9 @@ query {
       nodes {
         nameWithOwner
         name
+        url
+        updatedAt
+        isFork
         releases(last:1, orderBy: {field: CREATED_AT, direction: ASC}) {
           totalCount
           nodes {
@@ -83,6 +86,26 @@ def fetch_releases(oauth_token):
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     return releases
 
+def fetch_new_repositories(oauth_token, limit=8):
+    repositories = []
+    has_next_page = True
+    after_cursor = None
+    while has_next_page and len(repositories) < limit:
+        data = client.execute(
+            query=make_query(after_cursor),
+            headers={"Authorization": "Bearer {}".format(oauth_token)},
+        )
+        for repo in data["data"]["viewer"]["repositories"]["nodes"]:
+            repositories.append({
+                "nameWithOwner": repo["nameWithOwner"],
+                "url": repo["url"],
+                "updatedAt": repo["updatedAt"].split("T")[0],
+            })
+        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"]["hasNextPage"]
+        after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
+    repositories.sort(key=lambda r: r["updatedAt"], reverse=True)
+    return repositories[:limit]
+
 
 def fetch_download_book():
     headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0"}
@@ -113,14 +136,23 @@ if __name__ == "__main__":
     releases = []
     if TOKEN != "":
         releases = fetch_releases(TOKEN)
-    md = "\n".join(
+        new_repositories = fetch_new_repositories(TOKEN)
+
+    md_releases = "\n".join(
         [
             "* [{nameWithOwner} {release}]({url}) - {published_at}".format(**release)
             for release in releases[:8]
         ]
     )
+    md_new_repos = "\n".join(
+        [
+            "* [{nameWithOwner}]({url}) - Updated at: {updatedAt}".format(**repo)
+            for repo in new_repositories
+        ]
+    )
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "recent_releases", md)
+    rewritten = replace_chunk(readme_contents, "recent_releases", md_releases)
+    rewritten = replace_chunk(rewritten, "new_repositories", md_new_repos)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
