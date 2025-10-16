@@ -42,11 +42,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [Find all your Steam games that offer Local Multiplayer (and play on the couch)](https://daniele.tech/2025/10/find-all-your-steam-games-that-offer-local-multiplayer-and-play-on-the-couch/) - 2025/10/15
 * [My free software and open source activities of September 2025](https://daniele.tech/2025/10/my-free-software-and-open-source-activities-of-september-2025/) - 2025/10/01
 * [How to create a Tracking Click Rest endpoint in Django](https://daniele.tech/2025/09/how-to-create-a-tracking-click-rest-endpoint-in-django/) - 2025/09/29
 * [My free software and open source activities of August 2025](https://daniele.tech/2025/09/my-free-software-and-open-source-activities-of-august-2025/) - 2025/09/01
 * [My free software and open source activities of July 2025](https://daniele.tech/2025/08/my-free-software-and-open-source-activities-of-july-2025/) - 2025/08/19
-* [Bulk move posts with tag to categories with WP-CLI](https://daniele.tech/2025/07/bulk-move-posts-with-tag-to-categories-with-wp-cli/) - 2025/07/10
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
