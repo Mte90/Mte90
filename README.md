@@ -28,13 +28,13 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [CodeAtCode/PicoCode](https://github.com/CodeAtCode/PicoCode) - 2025/10/22 - Local Codebase Assistant that use an external service for embedding and coding chat model but the data are locally
 * [Mte90/django-ratelimit](https://github.com/Mte90/django-ratelimit) - 2025/09/25 (Fork)
 * [Mte90/django-unfold](https://github.com/Mte90/django-unfold) - 2025/09/03 (Fork)
 * [Mte90/dj-rest-auth](https://github.com/Mte90/dj-rest-auth) - 2025/08/04 (Fork)
 * [Mte90/TurboDRF](https://github.com/Mte90/TurboDRF) - 2025/07/22 (Fork)
 * [Mte90/double-turbo](https://github.com/Mte90/double-turbo) - 2025/07/22 - A django boilerplate for Turbo (Unfold admin theme) and Turbo-DRF
 * [CodeAtCode/deadsimple](https://github.com/CodeAtCode/deadsimple) - 2025/06/19 - A Fast and simple document extractor based on markitdown library with 0 OCRs
-* [CodeAtCode/piggyprompt](https://github.com/CodeAtCode/piggyprompt) - 2025/06/03 - The Trusty Vault for Your AI Prompts
 * [Mte90/kate-ollama](https://github.com/Mte90/kate-ollama) - 2025/03/18 - Experimental plugin to integrate Ollama in Kate for KDE
 <!-- new_repositories ends -->
 </td></tr>
@@ -62,7 +62,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1631🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1632🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
