@@ -15,6 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [CodeAtCode/PicoCode 0.0.1-test](https://github.com/CodeAtCode/PicoCode/releases/tag/0.0.1-test) - 2025/11/11
 * [Mte90/GlotDict v2.1.5](https://github.com/Mte90/GlotDict/releases/tag/v2.1.5) - 2025/08/19
 * [Mte90/yad-static-build nightly-23062025](https://github.com/Mte90/yad-static-build/releases/tag/nightly-23062025) - 2025/06/23
 * [Mte90/espanso-typofixer 1.0.5](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.5) - 2025/05/08
@@ -22,7 +23,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [CodeAtCode/paypal-subscription-lib 0.1.2](https://github.com/CodeAtCode/paypal-subscription-lib/releases/tag/0.1.2) - 2025/04/15
 * [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 * [php-stubs/genesis-stubs Release v3.5.0](https://github.com/php-stubs/genesis-stubs/releases/tag/v3.5.0) - 2024/10/18
-* [WPBP/Widgets-Helper 1.0.21](https://github.com/WPBP/Widgets-Helper/releases/tag/1.0.21) - 2024/07/18
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -62,7 +62,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1642🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1643🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
