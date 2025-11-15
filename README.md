@@ -15,7 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [CodeAtCode/PicoCode 0.0.1-test](https://github.com/CodeAtCode/PicoCode/releases/tag/0.0.1-test) - 2025/11/12
+* [CodeAtCode/PicoCode 0.0.1](https://github.com/CodeAtCode/PicoCode/releases/tag/0.0.1) - 2025/11/14
 * [Mte90/GlotDict v2.1.5](https://github.com/Mte90/GlotDict/releases/tag/v2.1.5) - 2025/08/19
 * [Mte90/yad-static-build nightly-23062025](https://github.com/Mte90/yad-static-build/releases/tag/nightly-23062025) - 2025/06/23
 * [Mte90/espanso-typofixer 1.0.5](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.5) - 2025/05/08
