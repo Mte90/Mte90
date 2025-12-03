@@ -42,11 +42,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of November 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-november-2025/) - 2025/12/02
 * [PicoCode – AI self-hosted Local Codebase Assistant (RAG)](https://daniele.tech/2025/11/picocode-ai-self-hosted-local-codebase-assistant-rag/) - 2025/11/17
 * [My free software and open source activities of October 2025](https://daniele.tech/2025/10/my-free-software-and-open-source-activities-of-october-2025/) - 2025/10/31
 * [Find all your Steam games that offer Local Multiplayer (and play on the couch)](https://daniele.tech/2025/10/find-all-your-steam-games-that-offer-local-multiplayer-and-play-on-the-couch/) - 2025/10/15
 * [My free software and open source activities of September 2025](https://daniele.tech/2025/10/my-free-software-and-open-source-activities-of-september-2025/) - 2025/10/01
-* [How to create a Tracking Click Rest endpoint in Django](https://daniele.tech/2025/09/how-to-create-a-tracking-click-rest-endpoint-in-django/) - 2025/09/29
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
