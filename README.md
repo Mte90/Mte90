@@ -32,8 +32,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [CodeAtCode/PicoCode](https://github.com/CodeAtCode/PicoCode) - 2025/10/22 - Local Codebase Assistant, data are locally and the inference is customizable!
 * [Mte90/django-ratelimit](https://github.com/Mte90/django-ratelimit) - 2025/09/25 (Fork)
 * [Mte90/django-unfold](https://github.com/Mte90/django-unfold) - 2025/09/03 (Fork)
-* [Mte90/TurboDRF](https://github.com/Mte90/TurboDRF) - 2025/07/22 (Fork)
 * [Mte90/double-turbo](https://github.com/Mte90/double-turbo) - 2025/07/22 - A django boilerplate for Turbo (Unfold admin theme) and Turbo-DRF
+* [Mte90/TurboDRF](https://github.com/Mte90/TurboDRF) - 2025/07/22 (Fork)
 * [Mte90/kate-ollama](https://github.com/Mte90/kate-ollama) - 2025/03/18 - Experimental plugin to integrate Ollama in Kate for KDE
 * [Mte90/litellm](https://github.com/Mte90/litellm) - 2025/02/17 (Fork)
 <!-- new_repositories ends -->
@@ -42,11 +42,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of December 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-december-2025/) - 2025/12/30
 * [My free software and open source activities of November 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-november-2025/) - 2025/12/02
 * [PicoCode – AI self-hosted Local Codebase Assistant (RAG)](https://daniele.tech/2025/11/picocode-ai-self-hosted-local-codebase-assistant-rag/) - 2025/11/17
 * [My free software and open source activities of October 2025](https://daniele.tech/2025/10/my-free-software-and-open-source-activities-of-october-2025/) - 2025/10/31
 * [Find all your Steam games that offer Local Multiplayer (and play on the couch)](https://daniele.tech/2025/10/find-all-your-steam-games-that-offer-local-multiplayer-and-play-on-the-couch/) - 2025/10/15
-* [My free software and open source activities of September 2025](https://daniele.tech/2025/10/my-free-software-and-open-source-activities-of-september-2025/) - 2025/10/01
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
