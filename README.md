@@ -15,12 +15,12 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/Share-Backported v2.1.15](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.15) - 2026/01/08
 * [goodhosts/vagrant 1.1.8](https://github.com/goodhosts/vagrant/releases/tag/1.1.8) - 2025/12/15
 * [CodeAtCode/PicoCode 0.0.1](https://github.com/CodeAtCode/PicoCode/releases/tag/0.0.1) - 2025/11/14
 * [Mte90/GlotDict v2.1.5](https://github.com/Mte90/GlotDict/releases/tag/v2.1.5) - 2025/08/19
 * [Mte90/yad-static-build nightly-23062025](https://github.com/Mte90/yad-static-build/releases/tag/nightly-23062025) - 2025/06/23
 * [Mte90/espanso-typofixer 1.0.5](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.5) - 2025/05/08
-* [Mte90/Share-Backported v2.1.14](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.14) - 2025/05/08
 * [CodeAtCode/paypal-subscription-lib 0.1.2](https://github.com/CodeAtCode/paypal-subscription-lib/releases/tag/0.1.2) - 2025/04/15
 * [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 <!-- recent_releases ends -->
@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/llama_index](https://github.com/Mte90/llama_index) - 2026/01/08 (Fork)
 * [Mte90/drf-stripe-subscription](https://github.com/Mte90/drf-stripe-subscription) - 2025/11/20 (Fork)
 * [CodeAtCode/PicoCode](https://github.com/CodeAtCode/PicoCode) - 2025/10/22 - Local Codebase Assistant, data are locally and the inference is customizable!
 * [Mte90/django-ratelimit](https://github.com/Mte90/django-ratelimit) - 2025/09/25 (Fork)
@@ -35,7 +36,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/double-turbo](https://github.com/Mte90/double-turbo) - 2025/07/22 - A django boilerplate for Turbo (Unfold admin theme) and Turbo-DRF
 * [Mte90/TurboDRF](https://github.com/Mte90/TurboDRF) - 2025/07/22 (Fork)
 * [Mte90/kate-ollama](https://github.com/Mte90/kate-ollama) - 2025/03/18 - Experimental plugin to integrate Ollama in Kate for KDE
-* [Mte90/litellm](https://github.com/Mte90/litellm) - 2025/02/17 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
