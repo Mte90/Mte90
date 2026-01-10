@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/qwen3-coder-amberlang](https://github.com/Mte90/qwen3-coder-amberlang) - 2026/01/09 - Script to generate the Qwen3-coder-amberlang finetuned model
 * [Mte90/llama_index](https://github.com/Mte90/llama_index) - 2026/01/08 (Fork)
 * [Mte90/drf-stripe-subscription](https://github.com/Mte90/drf-stripe-subscription) - 2025/11/20 (Fork)
 * [CodeAtCode/PicoCode](https://github.com/CodeAtCode/PicoCode) - 2025/10/22 - Local Codebase Assistant, data are locally and the inference is customizable!
@@ -35,7 +36,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/django-unfold](https://github.com/Mte90/django-unfold) - 2025/09/03 (Fork)
 * [Mte90/double-turbo](https://github.com/Mte90/double-turbo) - 2025/07/22 - A django boilerplate for Turbo (Unfold admin theme) and Turbo-DRF
 * [Mte90/TurboDRF](https://github.com/Mte90/TurboDRF) - 2025/07/22 (Fork)
-* [Mte90/kate-ollama](https://github.com/Mte90/kate-ollama) - 2025/03/18 - Experimental plugin to integrate Ollama in Kate for KDE
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
@@ -62,7 +62,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1670🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1672🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
