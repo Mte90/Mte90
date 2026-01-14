@@ -28,8 +28,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
-* [Mte90/plasmoid-kimai](https://github.com/Mte90/plasmoid-kimai) - 2026/01/12
 * [Mte90/vikunja-telegram-bot](https://github.com/Mte90/vikunja-telegram-bot) - 2026/01/12 (Fork)
+* [Mte90/plasmoid-kimai](https://github.com/Mte90/plasmoid-kimai) - 2026/01/12
 * [Mte90/hyprwhspr](https://github.com/Mte90/hyprwhspr) - 2026/01/12 (Fork)
 * [Mte90/qwen3-coder-amberlang](https://github.com/Mte90/qwen3-coder-amberlang) - 2026/01/09 - Script to generate the Qwen3-coder-amberlang finetuned model
 * [Mte90/llama_index](https://github.com/Mte90/llama_index) - 2026/01/08 (Fork)
@@ -42,7 +42,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
-
+* [My free software and open source activities of December 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-december-2025/) - 2025/12/30
+* [My free software and open source activities of November 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-november-2025/) - 2025/12/02
+* [PicoCode – AI self-hosted Local Codebase Assistant (RAG)](https://daniele.tech/2025/11/picocode-ai-self-hosted-local-codebase-assistant-rag/) - 2025/11/17
+* [My free software and open source activities of October 2025](https://daniele.tech/2025/10/my-free-software-and-open-source-activities-of-october-2025/) - 2025/10/31
+* [Find all your Steam games that offer Local Multiplayer (and play on the couch)](https://daniele.tech/2025/10/find-all-your-steam-games-that-offer-local-multiplayer-and-play-on-the-couch/) - 2025/10/15
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
