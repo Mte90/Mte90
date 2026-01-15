@@ -28,8 +28,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
-* [Mte90/vikunja-telegram-bot](https://github.com/Mte90/vikunja-telegram-bot) - 2026/01/12 (Fork)
 * [Mte90/plasmoid-kimai](https://github.com/Mte90/plasmoid-kimai) - 2026/01/12
+* [Mte90/vikunja-telegram-bot](https://github.com/Mte90/vikunja-telegram-bot) - 2026/01/12 (Fork)
 * [Mte90/hyprwhspr](https://github.com/Mte90/hyprwhspr) - 2026/01/12 (Fork)
 * [Mte90/qwen3-coder-amberlang](https://github.com/Mte90/qwen3-coder-amberlang) - 2026/01/09 - Script to generate the Qwen3-coder-amberlang finetuned model
 * [Mte90/llama_index](https://github.com/Mte90/llama_index) - 2026/01/08 (Fork)
