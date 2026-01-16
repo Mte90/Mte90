@@ -15,6 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/plasmoid-kimai 0.0.1](https://github.com/Mte90/plasmoid-kimai/releases/tag/0.0.1) - 2026/01/15
 * [Mte90/Share-Backported v2.1.15](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.15) - 2026/01/08
 * [goodhosts/vagrant 1.1.8](https://github.com/goodhosts/vagrant/releases/tag/1.1.8) - 2025/12/15
 * [CodeAtCode/PicoCode 0.0.1](https://github.com/CodeAtCode/PicoCode/releases/tag/0.0.1) - 2025/11/14
@@ -22,13 +23,12 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/yad-static-build nightly-23062025](https://github.com/Mte90/yad-static-build/releases/tag/nightly-23062025) - 2025/06/23
 * [Mte90/espanso-typofixer 1.0.5](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.5) - 2025/05/08
 * [CodeAtCode/paypal-subscription-lib 0.1.2](https://github.com/CodeAtCode/paypal-subscription-lib/releases/tag/0.1.2) - 2025/04/15
-* [CodeAtCode/CodeatCS 1.0.35](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.35) - 2024/12/02
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
 ### New repositories
 <!-- new_repositories starts -->
-* [Mte90/plasmoid-kimai](https://github.com/Mte90/plasmoid-kimai) - 2026/01/12
+* [Mte90/plasmoid-kimai](https://github.com/Mte90/plasmoid-kimai) - 2026/01/12 - Kimai integration for KDE
 * [Mte90/vikunja-telegram-bot](https://github.com/Mte90/vikunja-telegram-bot) - 2026/01/12 (Fork)
 * [Mte90/hyprwhspr](https://github.com/Mte90/hyprwhspr) - 2026/01/12 (Fork)
 * [Mte90/qwen3-coder-amberlang](https://github.com/Mte90/qwen3-coder-amberlang) - 2026/01/09 - Script to generate the Qwen3-coder-amberlang finetuned model
