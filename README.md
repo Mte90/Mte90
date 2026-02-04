@@ -30,8 +30,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 <!-- new_repositories starts -->
 * [Mte90/hyprwhspr](https://github.com/Mte90/hyprwhspr) - 2026/01/26 (Fork)
 * [Mte90/www.kimai.org](https://github.com/Mte90/www.kimai.org) - 2026/01/16 (Fork)
-* [Mte90/plasmoid-kimai](https://github.com/Mte90/plasmoid-kimai) - 2026/01/12 - Kimai integration for KDE
 * [Mte90/vikunja-telegram-bot](https://github.com/Mte90/vikunja-telegram-bot) - 2026/01/12 (Fork)
+* [Mte90/plasmoid-kimai](https://github.com/Mte90/plasmoid-kimai) - 2026/01/12 - Kimai integration for KDE
 * [Mte90/qwen3-coder-amberlang](https://github.com/Mte90/qwen3-coder-amberlang) - 2026/01/09 - Script to generate the Qwen3-coder-amberlang finetuned model
 * [Mte90/drf-stripe-subscription](https://github.com/Mte90/drf-stripe-subscription) - 2025/11/20 (Fork)
 * [CodeAtCode/PicoCode](https://github.com/CodeAtCode/PicoCode) - 2025/10/22 - Local Codebase Assistant, data are locally and the inference is customizable!
