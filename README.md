@@ -42,11 +42,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
-* [My free software and open source activities of January 2026](https://daniele.tech/2026/01/my-free-software-and-open-source-activities-of-january-2026/) - 2026/01/31
-* [My free software and open source activities of December 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-december-2025/) - 2025/12/30
-* [My free software and open source activities of November 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-november-2025/) - 2025/12/02
-* [PicoCode – AI self-hosted Local Codebase Assistant (RAG)](https://daniele.tech/2025/11/picocode-ai-self-hosted-local-codebase-assistant-rag/) - 2025/11/17
-* [My free software and open source activities of October 2025](https://daniele.tech/2025/10/my-free-software-and-open-source-activities-of-october-2025/) - 2025/10/31
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
@@ -62,7 +58,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1680🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1681🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
