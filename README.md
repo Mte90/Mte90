@@ -28,14 +28,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/glm-tray](https://github.com/Mte90/glm-tray) - 2026/03/12 (Fork)
 * [Mte90/Transcribe](https://github.com/Mte90/Transcribe) - 2026/03/10 - A simple GUI in PyQt that lets you to transcribe a audio/video file with chunking with AI
-* [Mte90/ToneCraft](https://github.com/Mte90/ToneCraft) - 2026/03/09 - Thunderbird extension that detects (and blocks) unprofessional language in outgoing emails and suggests polite alternatives.
 * [CodeAtCode/oss-ai-skills](https://github.com/CodeAtCode/oss-ai-skills) - 2026/03/09 - An archive of skill.md to work on opensource projects for plugins/extension or to contribute to them
+* [Mte90/ToneCraft](https://github.com/Mte90/ToneCraft) - 2026/03/09 - Thunderbird extension that detects (and blocks) unprofessional language in outgoing emails and suggests polite alternatives.
 * [Mte90/n8n-vps](https://github.com/Mte90/n8n-vps) - 2026/03/09 (Fork)
 * [Mte90/ListaSpesa](https://github.com/Mte90/ListaSpesa) - 2026/02/25 - Una semplice pagina che legge da un file txt
 * [Mte90/segnalabuche](https://github.com/Mte90/segnalabuche) - 2026/02/16 - Un progetto raccolta segnalazioni per il tuo comune, configurabile che manda email
 * [Mte90/hyprwhspr](https://github.com/Mte90/hyprwhspr) - 2026/01/26 (Fork)
-* [Mte90/www.kimai.org](https://github.com/Mte90/www.kimai.org) - 2026/01/16 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
@@ -62,7 +62,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1701🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1703🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
