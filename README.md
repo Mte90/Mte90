@@ -15,7 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/ToneCraft 1.0.1](https://github.com/Mte90/ToneCraft/releases/tag/1.0.1) - 2026/03/10
+* [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
 * [goodhosts/vagrant 1.1.9](https://github.com/goodhosts/vagrant/releases/tag/1.1.9) - 2026/01/26
 * [Mte90/espanso-typofixer 1.0.6](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.6) - 2026/01/19
 * [Mte90/plasmoid-kimai 0.0.1](https://github.com/Mte90/plasmoid-kimai/releases/tag/0.0.1) - 2026/01/15
@@ -28,25 +28,21 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/kanbanomo](https://github.com/Mte90/kanbanomo) - 2026/03/16 - A kanban view for oh-my-openagent plans or custom todo (former oh-my-opencode)
 * [Mte90/glm-tray](https://github.com/Mte90/glm-tray) - 2026/03/12 (Fork)
 * [Mte90/Transcribe](https://github.com/Mte90/Transcribe) - 2026/03/10 - A simple GUI in PyQt that lets you to transcribe a audio/video file with chunking with AI
-* [CodeAtCode/oss-ai-skills](https://github.com/CodeAtCode/oss-ai-skills) - 2026/03/09 - An archive of skill.md to work on opensource projects for plugins/extension or to contribute to them
 * [Mte90/ToneCraft](https://github.com/Mte90/ToneCraft) - 2026/03/09 - Thunderbird extension that detects (and blocks) unprofessional language in outgoing emails and suggests polite alternatives.
+* [CodeAtCode/oss-ai-skills](https://github.com/CodeAtCode/oss-ai-skills) - 2026/03/09 - An archive of skill.md to work on opensource projects for plugins/extension or to contribute to them
 * [Mte90/n8n-vps](https://github.com/Mte90/n8n-vps) - 2026/03/09 (Fork)
 * [Mte90/ListaSpesa](https://github.com/Mte90/ListaSpesa) - 2026/02/25 - Una semplice pagina che legge da un file txt
 * [Mte90/segnalabuche](https://github.com/Mte90/segnalabuche) - 2026/02/16 - Un progetto raccolta segnalazioni per il tuo comune, configurabile che manda email
-* [Mte90/hyprwhspr](https://github.com/Mte90/hyprwhspr) - 2026/01/26 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
 
 ### On my blog
 <!-- blog starts -->
-* [ToneCraft – Thunderbird Extension to write more professional emails with AI](https://daniele.tech/2026/03/tonecraft-thunderbird-extension-to-write-more-professional-emails-with-ai/) - 2026/03/10
-* [My free software and open source activities of February 2026](https://daniele.tech/2026/02/my-free-software-and-open-source-activities-of-february-2026/) - 2026/02/28
-* [My free software and open source activities of January 2026](https://daniele.tech/2026/01/my-free-software-and-open-source-activities-of-january-2026/) - 2026/01/31
-* [My free software and open source activities of December 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-december-2025/) - 2025/12/30
-* [My free software and open source activities of November 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-november-2025/) - 2025/12/02
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
