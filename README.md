@@ -42,11 +42,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
-* [OSS-AI-Skill(.md) – To extend open source projects or contribute to them](https://daniele.tech/2026/03/oss-ai-skill-md-to-extend-open-source-projects-or-contribute-to-them/) - 2026/03/16
-* [ToneCraft – Thunderbird Extension to write more professional emails with AI](https://daniele.tech/2026/03/tonecraft-thunderbird-extension-to-write-more-professional-emails-with-ai/) - 2026/03/10
-* [My free software and open source activities of February 2026](https://daniele.tech/2026/02/my-free-software-and-open-source-activities-of-february-2026/) - 2026/02/28
-* [My free software and open source activities of January 2026](https://daniele.tech/2026/01/my-free-software-and-open-source-activities-of-january-2026/) - 2026/01/31
-* [My free software and open source activities of December 2025](https://daniele.tech/2025/12/my-free-software-and-open-source-activities-of-december-2025/) - 2025/12/30
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
