@@ -42,7 +42,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
-
+* [Transcribe – simple PyQt UI to transcribe your multimedia files](https://daniele.tech/2026/03/transcribe-simple-pyqt-ui-to-transcribe-your-multimedia-files/) - 2026/03/23
+* [OSS-AI-Skill(.md) – To extend open source projects or contribute to them](https://daniele.tech/2026/03/oss-ai-skill-md-to-extend-open-source-projects-or-contribute-to-them/) - 2026/03/16
+* [ToneCraft – Thunderbird Extension to write more professional emails with AI](https://daniele.tech/2026/03/tonecraft-thunderbird-extension-to-write-more-professional-emails-with-ai/) - 2026/03/10
+* [My free software and open source activities of February 2026](https://daniele.tech/2026/02/my-free-software-and-open-source-activities-of-february-2026/) - 2026/02/28
+* [My free software and open source activities of January 2026](https://daniele.tech/2026/01/my-free-software-and-open-source-activities-of-january-2026/) - 2026/01/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
@@ -58,7 +62,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1703🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1704🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
