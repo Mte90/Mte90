@@ -15,6 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
 * [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
 * [goodhosts/vagrant 1.1.9](https://github.com/goodhosts/vagrant/releases/tag/1.1.9) - 2026/01/26
 * [Mte90/espanso-typofixer 1.0.6](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.6) - 2026/01/19
@@ -22,7 +23,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/Share-Backported v2.1.15](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.15) - 2026/01/08
 * [CodeAtCode/PicoCode 0.0.1](https://github.com/CodeAtCode/PicoCode/releases/tag/0.0.1) - 2025/11/14
 * [Mte90/GlotDict v2.1.5](https://github.com/Mte90/GlotDict/releases/tag/v2.1.5) - 2025/08/19
-* [Mte90/yad-static-build nightly-23062025](https://github.com/Mte90/yad-static-build/releases/tag/nightly-23062025) - 2025/06/23
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
