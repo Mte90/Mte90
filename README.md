@@ -32,8 +32,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/kanbanomo](https://github.com/Mte90/kanbanomo) - 2026/03/16 - A kanban view for oh-my-openagent plans or custom todo (former oh-my-opencode)
 * [Mte90/glm-tray](https://github.com/Mte90/glm-tray) - 2026/03/12 (Fork)
 * [Mte90/Transcribe](https://github.com/Mte90/Transcribe) - 2026/03/10 - A simple GUI in PyQt that lets you to transcribe a audio/video file with chunking with AI
-* [Mte90/ToneCraft](https://github.com/Mte90/ToneCraft) - 2026/03/09 - Thunderbird extension that detects (and blocks) unprofessional language in outgoing emails and suggests polite alternatives.
 * [CodeAtCode/oss-ai-skills](https://github.com/CodeAtCode/oss-ai-skills) - 2026/03/09 - An archive of skill.md to work on opensource projects for plugins/extension or to contribute to them
+* [Mte90/ToneCraft](https://github.com/Mte90/ToneCraft) - 2026/03/09 - Thunderbird extension that detects (and blocks) unprofessional language in outgoing emails and suggests polite alternatives.
 * [Mte90/n8n-vps](https://github.com/Mte90/n8n-vps) - 2026/03/09 (Fork)
 * [Mte90/ListaSpesa](https://github.com/Mte90/ListaSpesa) - 2026/02/25 - Una semplice pagina che legge da un file txt
 <!-- new_repositories ends -->
