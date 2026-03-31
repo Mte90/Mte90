@@ -42,11 +42,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [MusicHouse – Fix your Mp3, Leadboard and Artists suggestions in a pyQt UI](https://daniele.tech/2026/03/musichouse-fix-your-mp3-leadboard-and-artists-suggestions-in-a-pyqt-ui/) - 2026/03/30
 * [Transcribe – simple PyQt UI to transcribe your multimedia files](https://daniele.tech/2026/03/transcribe-simple-pyqt-ui-to-transcribe-your-multimedia-files/) - 2026/03/23
 * [OSS-AI-Skill(.md) – To extend open source projects or contribute to them](https://daniele.tech/2026/03/oss-ai-skill-md-to-extend-open-source-projects-or-contribute-to-them/) - 2026/03/16
 * [ToneCraft – Thunderbird Extension to write more professional emails with AI](https://daniele.tech/2026/03/tonecraft-thunderbird-extension-to-write-more-professional-emails-with-ai/) - 2026/03/10
 * [My free software and open source activities of February 2026](https://daniele.tech/2026/02/my-free-software-and-open-source-activities-of-february-2026/) - 2026/02/28
-* [My free software and open source activities of January 2026](https://daniele.tech/2026/01/my-free-software-and-open-source-activities-of-january-2026/) - 2026/01/31
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
