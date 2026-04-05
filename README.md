@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/saved-posts-organizer](https://github.com/Mte90/saved-posts-organizer) - 2026/04/04 (Fork)
 * [Mte90/mgba](https://github.com/Mte90/mgba) - 2026/04/01 (Fork)
 * [Mte90/MusicHouse](https://github.com/Mte90/MusicHouse) - 2026/03/17 - A pyqt tool to manage and fix MP3 files
 * [Mte90/kanbanomo](https://github.com/Mte90/kanbanomo) - 2026/03/16 - A kanban view for oh-my-openagent plans or custom todo (former oh-my-opencode)
@@ -35,7 +36,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/Transcribe](https://github.com/Mte90/Transcribe) - 2026/03/10 - A simple GUI in PyQt that lets you to transcribe a audio/video file with chunking with AI
 * [CodeAtCode/oss-ai-skills](https://github.com/CodeAtCode/oss-ai-skills) - 2026/03/09 - An archive of skill.md to work on opensource projects/frameworks/packages for plugins/extension or to contribute/use to them
 * [Mte90/ToneCraft](https://github.com/Mte90/ToneCraft) - 2026/03/09 - Thunderbird extension that detects (and blocks) unprofessional language in outgoing emails and suggests polite alternatives.
-* [Mte90/n8n-vps](https://github.com/Mte90/n8n-vps) - 2026/03/09 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
@@ -62,7 +62,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1705🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1706🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
