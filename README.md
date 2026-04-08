@@ -15,6 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/opencode-auto-resume v1.0.1](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.1) - 2026/04/07
 * [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
 * [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
 * [goodhosts/vagrant 1.1.9](https://github.com/goodhosts/vagrant/releases/tag/1.1.9) - 2026/01/26
@@ -22,20 +23,19 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/plasmoid-kimai 0.0.1](https://github.com/Mte90/plasmoid-kimai/releases/tag/0.0.1) - 2026/01/15
 * [Mte90/Share-Backported v2.1.15](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.15) - 2026/01/08
 * [CodeAtCode/PicoCode 0.0.1](https://github.com/CodeAtCode/PicoCode/releases/tag/0.0.1) - 2025/11/14
-* [Mte90/GlotDict v2.1.5](https://github.com/Mte90/GlotDict/releases/tag/v2.1.5) - 2025/08/19
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/avoidrain](https://github.com/Mte90/avoidrain) - 2026/04/07
+* [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - 2026/04/07 - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
 * [Mte90/saved-posts-organizer](https://github.com/Mte90/saved-posts-organizer) - 2026/04/04 (Fork)
 * [Mte90/mgba](https://github.com/Mte90/mgba) - 2026/04/01 (Fork)
 * [Mte90/MusicHouse](https://github.com/Mte90/MusicHouse) - 2026/03/17 - A pyqt tool to manage and fix MP3 files
 * [Mte90/kanbanomo](https://github.com/Mte90/kanbanomo) - 2026/03/16 - A kanban view for oh-my-openagent plans or custom todo (former oh-my-opencode)
 * [Mte90/glm-tray](https://github.com/Mte90/glm-tray) - 2026/03/12 (Fork)
 * [Mte90/Transcribe](https://github.com/Mte90/Transcribe) - 2026/03/10 - A simple GUI in PyQt that lets you to transcribe a audio/video file with chunking with AI
-* [CodeAtCode/oss-ai-skills](https://github.com/CodeAtCode/oss-ai-skills) - 2026/03/09 - An archive of skill.md to work on opensource projects/frameworks/packages for plugins/extension or to contribute/use to them
-* [Mte90/ToneCraft](https://github.com/Mte90/ToneCraft) - 2026/03/09 - Thunderbird extension that detects (and blocks) unprofessional language in outgoing emails and suggests polite alternatives.
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
