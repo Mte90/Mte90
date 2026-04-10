@@ -15,7 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume v1.0.2](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.2) - 2026/04/08
+* [Mte90/opencode-auto-resume v1.0.4](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.4) - 2026/04/09
 * [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
 * [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
 * [goodhosts/vagrant 1.1.9](https://github.com/goodhosts/vagrant/releases/tag/1.1.9) - 2026/01/26
@@ -29,7 +29,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 ### New repositories
 <!-- new_repositories starts -->
 * [Mte90/paperclip](https://github.com/Mte90/paperclip) - 2026/04/08 (Fork)
-* [Mte90/avoidrain](https://github.com/Mte90/avoidrain) - 2026/04/07
+* [Mte90/avoidrain](https://github.com/Mte90/avoidrain) - 2026/04/07 - A 3D browser game where you run under balconies to avoid the rain!
 * [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - 2026/04/07 - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
 * [Mte90/saved-posts-organizer](https://github.com/Mte90/saved-posts-organizer) - 2026/04/04 (Fork)
 * [Mte90/mgba](https://github.com/Mte90/mgba) - 2026/04/01 (Fork)
