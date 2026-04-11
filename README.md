@@ -42,11 +42,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
+* [How I used Suno AI to generate 70 different covers of my wife song](https://daniele.tech/2026/04/how-i-used-suno-ai-to-generate-70-different-covers-of-my-wife-song/) - 2026/04/10
 * [KanbanOmO – A Kanban for your task and plans for oh-my-opencode](https://daniele.tech/2026/04/kanbanomo-a-kanban-for-your-task-and-plans-for-oh-my-opencode/) - 2026/04/06
 * [My free software and open source activities of March 2026](https://daniele.tech/2026/04/my-free-software-and-open-source-activities-of-march-2026/) - 2026/04/03
 * [MusicHouse – Fix your Mp3, Leadboard and Artists suggestions in a pyQt UI](https://daniele.tech/2026/03/musichouse-fix-your-mp3-leadboard-and-artists-suggestions-in-a-pyqt-ui/) - 2026/03/30
 * [Transcribe – simple PyQt UI to transcribe your multimedia files](https://daniele.tech/2026/03/transcribe-simple-pyqt-ui-to-transcribe-your-multimedia-files/) - 2026/03/23
-* [OSS-AI-Skill(.md) – To extend open source projects or contribute to them](https://daniele.tech/2026/03/oss-ai-skill-md-to-extend-open-source-projects-or-contribute-to-them/) - 2026/03/16
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
@@ -62,7 +62,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1707🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1708🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
