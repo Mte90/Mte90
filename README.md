@@ -15,7 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume v1.0.4](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.4) - 2026/04/09
+* [Mte90/opencode-auto-resume v1.0.6](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.6) - 2026/04/14
 * [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
 * [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
 * [goodhosts/vagrant 1.1.9](https://github.com/goodhosts/vagrant/releases/tag/1.1.9) - 2026/01/26
@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/solopreneur](https://github.com/Mte90/solopreneur) - 2026/04/14 - A handbook + SKILL.md based on real content but aggregates by an AI
 * [Mte90/paperclip](https://github.com/Mte90/paperclip) - 2026/04/08 (Fork)
 * [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - 2026/04/07 - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
 * [Mte90/avoidrain](https://github.com/Mte90/avoidrain) - 2026/04/07 - A 3D browser game where you run under balconies to avoid the rain!
@@ -35,7 +36,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/mgba](https://github.com/Mte90/mgba) - 2026/04/01 (Fork)
 * [Mte90/MusicHouse](https://github.com/Mte90/MusicHouse) - 2026/03/17 - A pyqt tool to manage and fix MP3 files
 * [Mte90/kanbanomo](https://github.com/Mte90/kanbanomo) - 2026/03/16 - A kanban view for oh-my-openagent plans or custom todo (former oh-my-opencode)
-* [Mte90/glm-tray](https://github.com/Mte90/glm-tray) - 2026/03/12 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
