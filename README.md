@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/social-content-bot](https://github.com/Mte90/social-content-bot) - 2026/04/17 - Scrape your stuff and propose new social posts
 * [Mte90/solopreneur](https://github.com/Mte90/solopreneur) - 2026/04/14 - A handbook + SKILL.md based on real content but aggregates by an AI
 * [Mte90/paperclip](https://github.com/Mte90/paperclip) - 2026/04/08 (Fork)
 * [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - 2026/04/07 - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
@@ -35,14 +36,17 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/saved-posts-organizer](https://github.com/Mte90/saved-posts-organizer) - 2026/04/04 (Fork)
 * [Mte90/mgba](https://github.com/Mte90/mgba) - 2026/04/01 (Fork)
 * [Mte90/MusicHouse](https://github.com/Mte90/MusicHouse) - 2026/03/17 - A pyqt tool to manage and fix MP3 files
-* [Mte90/kanbanomo](https://github.com/Mte90/kanbanomo) - 2026/03/16 - A kanban view for oh-my-openagent plans or custom todo (former oh-my-opencode)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
 
 ### On my blog
 <!-- blog starts -->
-
+* [How I used Suno AI to generate 70 different covers of my wife song](https://daniele.tech/2026/04/how-i-used-suno-ai-to-generate-70-different-covers-of-my-wife-song/) - 2026/04/10
+* [KanbanOmO – A Kanban for your task and plans for oh-my-opencode](https://daniele.tech/2026/04/kanbanomo-a-kanban-for-your-task-and-plans-for-oh-my-opencode/) - 2026/04/06
+* [My free software and open source activities of March 2026](https://daniele.tech/2026/04/my-free-software-and-open-source-activities-of-march-2026/) - 2026/04/03
+* [MusicHouse – Fix your Mp3, Leadboard and Artists suggestions in a pyQt UI](https://daniele.tech/2026/03/musichouse-fix-your-mp3-leadboard-and-artists-suggestions-in-a-pyqt-ui/) - 2026/03/30
+* [Transcribe – simple PyQt UI to transcribe your multimedia files](https://daniele.tech/2026/03/transcribe-simple-pyqt-ui-to-transcribe-your-multimedia-files/) - 2026/03/23
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
