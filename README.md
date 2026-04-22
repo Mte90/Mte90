@@ -31,8 +31,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/social-content-bot](https://github.com/Mte90/social-content-bot) - 2026/04/17 - Scrape your stuff and propose new social posts
 * [Mte90/solopreneur](https://github.com/Mte90/solopreneur) - 2026/04/14 - A handbook + SKILL.md based on real content but aggregates by an AI
 * [Mte90/paperclip](https://github.com/Mte90/paperclip) - 2026/04/08 (Fork)
-* [Mte90/avoidrain](https://github.com/Mte90/avoidrain) - 2026/04/07 - A 3D browser game where you run under balconies to avoid the rain!
 * [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - 2026/04/07 - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
+* [Mte90/avoidrain](https://github.com/Mte90/avoidrain) - 2026/04/07 - A 3D browser game where you run under balconies to avoid the rain!
 * [Mte90/saved-posts-organizer](https://github.com/Mte90/saved-posts-organizer) - 2026/04/04 (Fork)
 * [Mte90/mgba](https://github.com/Mte90/mgba) - 2026/04/01 (Fork)
 * [Mte90/MusicHouse](https://github.com/Mte90/MusicHouse) - 2026/03/17 - A pyqt tool to manage and fix MP3 files
