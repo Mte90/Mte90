@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/skillgrade](https://github.com/Mte90/skillgrade) - 2026/04/28 (Fork)
 * [Mte90/ai](https://github.com/Mte90/ai) - 2026/04/22 (Fork)
 * [Mte90/postiz-app](https://github.com/Mte90/postiz-app) - 2026/04/22 (Fork)
 * [Mte90/social-content-bot](https://github.com/Mte90/social-content-bot) - 2026/04/17 - Scrape your stuff and propose new social posts
@@ -35,7 +36,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/paperclip](https://github.com/Mte90/paperclip) - 2026/04/08 (Fork)
 * [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - 2026/04/07 - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
 * [Mte90/avoidrain](https://github.com/Mte90/avoidrain) - 2026/04/07 - A 3D browser game where you run under balconies to avoid the rain!
-* [Mte90/saved-posts-organizer](https://github.com/Mte90/saved-posts-organizer) - 2026/04/04 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
