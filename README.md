@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/kate-agents](https://github.com/Mte90/kate-agents) - 2026/05/04 - [Experimental] Replicate Zed Agents feature in Kate editor
 * [Mte90/skillgrade](https://github.com/Mte90/skillgrade) - 2026/04/28 (Fork)
 * [Mte90/ai](https://github.com/Mte90/ai) - 2026/04/22 (Fork)
 * [Mte90/postiz-app](https://github.com/Mte90/postiz-app) - 2026/04/22 (Fork)
@@ -35,18 +36,13 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/solopreneur](https://github.com/Mte90/solopreneur) - 2026/04/14 - A handbook + SKILL.md based on real content but aggregates by an AI
 * [Mte90/paperclip](https://github.com/Mte90/paperclip) - 2026/04/08 (Fork)
 * [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - 2026/04/07 - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
-* [Mte90/avoidrain](https://github.com/Mte90/avoidrain) - 2026/04/07 - A 3D browser game where you run under balconies to avoid the rain!
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
 
 ### On my blog
 <!-- blog starts -->
-* [Social Content Bot – Scrape your WordPress blog, tweets and Upvoted Reddit posts to generate tweets](https://daniele.tech/2026/04/social-content-bot-scrape-your-wordpress-blog-tweets-and-upvoted-reddit-posts-to-generate-tweets/) - 2026/04/27
-* [Solopreneur the handbook with SKILL.md based on real content](https://daniele.tech/2026/04/solopreneur-the-handbook-with-skill-md-based-on-real-content/) - 2026/04/20
-* [How I used Suno AI to generate 70 different covers of my wife song](https://daniele.tech/2026/04/how-i-used-suno-ai-to-generate-70-different-covers-of-my-wife-song/) - 2026/04/10
-* [KanbanOmO – A Kanban for your task and plans for oh-my-opencode](https://daniele.tech/2026/04/kanbanomo-a-kanban-for-your-task-and-plans-for-oh-my-opencode/) - 2026/04/06
-* [My free software and open source activities of March 2026](https://daniele.tech/2026/04/my-free-software-and-open-source-activities-of-march-2026/) - 2026/04/03
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
