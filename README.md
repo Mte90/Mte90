@@ -15,6 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [regolo-ai/regolo-rubberduck v1.0.3](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.3) - 2026/05/07
 * [Mte90/opencode-auto-resume v1.0.9](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.9) - 2026/04/23
 * [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
 * [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
@@ -22,20 +23,19 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/espanso-typofixer 1.0.6](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.6) - 2026/01/19
 * [Mte90/plasmoid-kimai 0.0.1](https://github.com/Mte90/plasmoid-kimai/releases/tag/0.0.1) - 2026/01/15
 * [Mte90/Share-Backported v2.1.15](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.15) - 2026/01/08
-* [CodeAtCode/PicoCode 0.0.1](https://github.com/CodeAtCode/PicoCode/releases/tag/0.0.1) - 2025/11/14
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/GBAtoPy](https://github.com/Mte90/GBAtoPy) - 2026/05/07 - A GBA rom transpiler in pure python
+* [Mte90/AutoGPT](https://github.com/Mte90/AutoGPT) - 2026/05/07 (Fork)
 * [Mte90/kate-agents](https://github.com/Mte90/kate-agents) - 2026/05/04 - [Experimental] Replicate Zed Agents feature in Kate editor
 * [Mte90/skillgrade](https://github.com/Mte90/skillgrade) - 2026/04/28 (Fork)
 * [Mte90/ai](https://github.com/Mte90/ai) - 2026/04/22 (Fork)
 * [Mte90/postiz-app](https://github.com/Mte90/postiz-app) - 2026/04/22 (Fork)
 * [Mte90/social-content-bot](https://github.com/Mte90/social-content-bot) - 2026/04/17 - Scrape your stuff and propose new social posts
 * [Mte90/solopreneur](https://github.com/Mte90/solopreneur) - 2026/04/14 - A handbook + SKILL.md based on real content but aggregates by an AI
-* [Mte90/paperclip](https://github.com/Mte90/paperclip) - 2026/04/08 (Fork)
-* [Mte90/opencode-auto-resume](https://github.com/Mte90/opencode-auto-resume) - 2026/04/07 - OpenCode stops working if a model goes in timeout or there are errors, this plugin fixes those issues
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
