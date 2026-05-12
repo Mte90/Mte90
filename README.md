@@ -28,7 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
-* [Mte90/GBAtoPy](https://github.com/Mte90/GBAtoPy) - 2026/05/07 - A GBA rom transpiler in pure python
+* [Mte90/GBAtoPy](https://github.com/Mte90/GBAtoPy) - 2026/05/07 - A GBA rom transpiler to pure python
 * [Mte90/AutoGPT](https://github.com/Mte90/AutoGPT) - 2026/05/07 (Fork)
 * [Mte90/kate-agents](https://github.com/Mte90/kate-agents) - 2026/05/04 - [Experimental] Replicate Zed Agents feature in Kate editor
 * [Mte90/skillgrade](https://github.com/Mte90/skillgrade) - 2026/04/28 (Fork)
@@ -42,7 +42,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
-
+* [How to connect official Metabase MCP to OpenCode](https://daniele.tech/2026/05/how-to-connect-official-metabase-mcp-to-opencode/) - 2026/05/04
+* [Social Content Bot – Scrape your WordPress blog, tweets and Upvoted Reddit posts to generate tweets](https://daniele.tech/2026/04/social-content-bot-scrape-your-wordpress-blog-tweets-and-upvoted-reddit-posts-to-generate-tweets/) - 2026/04/27
+* [Solopreneur the handbook with SKILL.md based on real content](https://daniele.tech/2026/04/solopreneur-the-handbook-with-skill-md-based-on-real-content/) - 2026/04/20
+* [How I used Suno AI to generate 70 different covers of my wife song](https://daniele.tech/2026/04/how-i-used-suno-ai-to-generate-70-different-covers-of-my-wife-song/) - 2026/04/10
+* [KanbanOmO – A Kanban for your task and plans for oh-my-opencode](https://daniele.tech/2026/04/kanbanomo-a-kanban-for-your-task-and-plans-for-oh-my-opencode/) - 2026/04/06
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
