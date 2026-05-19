@@ -15,8 +15,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/opencode-auto-resume v1.0.11](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.11) - 2026/05/18
 * [regolo-ai/regolo-rubberduck v1.0.6](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.6) - 2026/05/14
-* [Mte90/opencode-auto-resume v1.0.9](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.9) - 2026/04/23
 * [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
 * [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
 * [goodhosts/vagrant 1.1.9](https://github.com/goodhosts/vagrant/releases/tag/1.1.9) - 2026/01/26
