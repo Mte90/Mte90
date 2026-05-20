@@ -42,11 +42,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
-* [My free software and open source activities of April 2026](https://daniele.tech/2026/05/my-free-software-and-open-source-activities-of-april-2026/) - 2026/05/12
-* [How to connect official Metabase MCP to OpenCode](https://daniele.tech/2026/05/how-to-connect-official-metabase-mcp-to-opencode/) - 2026/05/04
-* [Social Content Bot – Scrape your WordPress blog, tweets and Upvoted Reddit posts to generate tweets](https://daniele.tech/2026/04/social-content-bot-scrape-your-wordpress-blog-tweets-and-upvoted-reddit-posts-to-generate-tweets/) - 2026/04/27
-* [Solopreneur the handbook with SKILL.md based on real content](https://daniele.tech/2026/04/solopreneur-the-handbook-with-skill-md-based-on-real-content/) - 2026/04/20
-* [How I used Suno AI to generate 70 different covers of my wife song](https://daniele.tech/2026/04/how-i-used-suno-ai-to-generate-70-different-covers-of-my-wife-song/) - 2026/04/10
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
