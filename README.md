@@ -31,7 +31,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/langflow](https://github.com/Mte90/langflow) - 2026/05/13 (Fork)
 * [Mte90/GBAtoPy](https://github.com/Mte90/GBAtoPy) - 2026/05/07 - A GBA rom transpiler to pure python
 * [Mte90/AutoGPT](https://github.com/Mte90/AutoGPT) - 2026/05/07 (Fork)
-* [Mte90/kate-agents](https://github.com/Mte90/kate-agents) - 2026/05/04 - [Experimental] Replicate Zed Agents feature in Kate editor
+* [Mte90/kate-agents](https://github.com/Mte90/kate-agents) - 2026/05/04 - Replicate Zed Agents feature in Kate editor
 * [Mte90/skillgrade](https://github.com/Mte90/skillgrade) - 2026/04/28 (Fork)
 * [Mte90/ai](https://github.com/Mte90/ai) - 2026/04/22 (Fork)
 * [Mte90/postiz-app](https://github.com/Mte90/postiz-app) - 2026/04/22 (Fork)
