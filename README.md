@@ -42,11 +42,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
-* [Firefox after 11 years is getting WebSerial officially](https://daniele.tech/2026/05/firefox-after-11-years-is-getting-webserial-officially/) - 2026/05/22
-* [My free software and open source activities of April 2026](https://daniele.tech/2026/05/my-free-software-and-open-source-activities-of-april-2026/) - 2026/05/12
-* [How to connect official Metabase MCP to OpenCode](https://daniele.tech/2026/05/how-to-connect-official-metabase-mcp-to-opencode/) - 2026/05/04
-* [Social Content Bot – Scrape your WordPress blog, tweets and Upvoted Reddit posts to generate tweets](https://daniele.tech/2026/04/social-content-bot-scrape-your-wordpress-blog-tweets-and-upvoted-reddit-posts-to-generate-tweets/) - 2026/04/27
-* [Solopreneur the handbook with SKILL.md based on real content](https://daniele.tech/2026/04/solopreneur-the-handbook-with-skill-md-based-on-real-content/) - 2026/04/20
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
@@ -62,7 +58,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1717🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1718🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
