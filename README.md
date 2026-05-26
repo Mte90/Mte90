@@ -15,6 +15,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/GlotDict v2.1.6](https://github.com/Mte90/GlotDict/releases/tag/v2.1.6) - 2026/05/25
 * [Mte90/opencode-auto-resume v1.0.11](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.11) - 2026/05/18
 * [regolo-ai/regolo-rubberduck v1.0.6](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.6) - 2026/05/14
 * [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
@@ -22,7 +23,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [goodhosts/vagrant 1.1.9](https://github.com/goodhosts/vagrant/releases/tag/1.1.9) - 2026/01/26
 * [Mte90/espanso-typofixer 1.0.6](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.6) - 2026/01/19
 * [Mte90/plasmoid-kimai 0.0.1](https://github.com/Mte90/plasmoid-kimai/releases/tag/0.0.1) - 2026/01/15
-* [Mte90/Share-Backported v2.1.15](https://github.com/Mte90/Share-Backported/releases/tag/v2.1.15) - 2026/01/08
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
