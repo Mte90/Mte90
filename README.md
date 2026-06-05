@@ -42,7 +42,11 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
-
+* [My free software and open source activities of May 2026](https://daniele.tech/2026/06/my-free-software-and-open-source-activities-of-may-2026/) - 2026/06/03
+* [GBAtoPy – GameBoy Advance Rom Python transpiler](https://daniele.tech/2026/05/gbatopy-gameboy-advance-rom-python-transpiler/) - 2026/05/25
+* [Firefox after 11 years is getting WebSerial officially](https://daniele.tech/2026/05/firefox-after-11-years-is-getting-webserial-officially/) - 2026/05/22
+* [My free software and open source activities of April 2026](https://daniele.tech/2026/05/my-free-software-and-open-source-activities-of-april-2026/) - 2026/05/12
+* [How to connect official Metabase MCP to OpenCode](https://daniele.tech/2026/05/how-to-connect-official-metabase-mcp-to-opencode/) - 2026/05/04
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
