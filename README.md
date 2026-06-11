@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/MinecraftSplitscreenSteamdeck](https://github.com/Mte90/MinecraftSplitscreenSteamdeck) - 2026/06/10 (Fork)
 * [Mte90/soundkonverter](https://github.com/Mte90/soundkonverter) - 2026/05/26 (Fork)
 * [Mte90/langflow](https://github.com/Mte90/langflow) - 2026/05/13 (Fork)
 * [Mte90/GBAtoPy](https://github.com/Mte90/GBAtoPy) - 2026/05/07 - A GBA rom transpiler to pure python
@@ -35,7 +36,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/kate-agents](https://github.com/Mte90/kate-agents) - 2026/05/04 - Replicate Zed Agents feature in Kate editor
 * [Mte90/skillgrade](https://github.com/Mte90/skillgrade) - 2026/04/28 (Fork)
 * [Mte90/ai](https://github.com/Mte90/ai) - 2026/04/22 (Fork)
-* [Mte90/postiz-app](https://github.com/Mte90/postiz-app) - 2026/04/22 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
