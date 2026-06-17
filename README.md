@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/nccm](https://github.com/Mte90/nccm) - 2026/06/16 (Fork)
 * [Mte90/hub](https://github.com/Mte90/hub) - 2026/06/15 (Fork)
 * [Mte90/MinecraftSplitscreenSteamdeck](https://github.com/Mte90/MinecraftSplitscreenSteamdeck) - 2026/06/10 (Fork)
 * [Mte90/soundkonverter](https://github.com/Mte90/soundkonverter) - 2026/05/26 (Fork)
@@ -35,18 +36,13 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/GBAtoPy](https://github.com/Mte90/GBAtoPy) - 2026/05/07 - A GBA rom transpiler to pure python
 * [Mte90/AutoGPT](https://github.com/Mte90/AutoGPT) - 2026/05/07 (Fork)
 * [Mte90/kate-agents](https://github.com/Mte90/kate-agents) - 2026/05/04 - Replicate Zed Agents feature in Kate editor
-* [Mte90/skillgrade](https://github.com/Mte90/skillgrade) - 2026/04/28 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
 
 ### On my blog
 <!-- blog starts -->
-* [How track AI Chatbots with Matomo in WordPress without plugins](https://daniele.tech/2026/06/how-track-ai-chatbots-with-matomo-in-wordpress-without-plugins/) - 2026/06/15
-* [My free software and open source activities of May 2026](https://daniele.tech/2026/06/my-free-software-and-open-source-activities-of-may-2026/) - 2026/06/03
-* [GBAtoPy – GameBoy Advance Rom Python transpiler](https://daniele.tech/2026/05/gbatopy-gameboy-advance-rom-python-transpiler/) - 2026/05/25
-* [Firefox after 11 years is getting WebSerial officially](https://daniele.tech/2026/05/firefox-after-11-years-is-getting-webserial-officially/) - 2026/05/22
-* [My free software and open source activities of April 2026](https://daniele.tech/2026/05/my-free-software-and-open-source-activities-of-april-2026/) - 2026/05/12
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
