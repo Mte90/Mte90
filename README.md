@@ -15,14 +15,14 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/opencode-auto-resume v1.0.15](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.15) - 2026/06/18
+* [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
 * [Mte90/soundkonverter 1.0.0](https://github.com/Mte90/soundkonverter/releases/tag/1.0.0) - 2026/06/17
-* [Mte90/opencode-auto-resume v1.0.14](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.14) - 2026/06/15
 * [Mte90/espanso-typofixer 1.0.7](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.7) - 2026/06/15
 * [Mte90/GlotDict v2.1.6](https://github.com/Mte90/GlotDict/releases/tag/v2.1.6) - 2026/05/25
 * [regolo-ai/regolo-rubberduck v1.0.6](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.6) - 2026/05/14
 * [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
 * [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
-* [goodhosts/vagrant 1.1.9](https://github.com/goodhosts/vagrant/releases/tag/1.1.9) - 2026/01/26
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -42,11 +42,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### On my blog
 <!-- blog starts -->
-* [SoundKonverter – How I migrated this old KDE app with AI to QT6](https://daniele.tech/2026/06/soundkonverter-how-i-migrated-this-old-kde-app-with-ai-to-qt6/) - 2026/06/16
-* [How track AI Chatbots with Matomo in WordPress without plugins](https://daniele.tech/2026/06/how-track-ai-chatbots-with-matomo-in-wordpress-without-plugins/) - 2026/06/15
-* [My free software and open source activities of May 2026](https://daniele.tech/2026/06/my-free-software-and-open-source-activities-of-may-2026/) - 2026/06/03
-* [GBAtoPy – GameBoy Advance Rom Python transpiler](https://daniele.tech/2026/05/gbatopy-gameboy-advance-rom-python-transpiler/) - 2026/05/25
-* [Firefox after 11 years is getting WebSerial officially](https://daniele.tech/2026/05/firefox-after-11-years-is-getting-webserial-officially/) - 2026/05/22
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
@@ -62,7 +58,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1727🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1728🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
