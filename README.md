@@ -15,12 +15,12 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [regolo-ai/regolo-rubberduck v1.0.7](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.7) - 2026/06/22
 * [Mte90/opencode-auto-resume v1.0.15](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.15) - 2026/06/18
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
 * [Mte90/soundkonverter 1.0.0](https://github.com/Mte90/soundkonverter/releases/tag/1.0.0) - 2026/06/17
 * [Mte90/espanso-typofixer 1.0.7](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.7) - 2026/06/15
 * [Mte90/GlotDict v2.1.6](https://github.com/Mte90/GlotDict/releases/tag/v2.1.6) - 2026/05/25
-* [regolo-ai/regolo-rubberduck v1.0.6](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.6) - 2026/05/14
 * [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
 * [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
 <!-- recent_releases ends -->
