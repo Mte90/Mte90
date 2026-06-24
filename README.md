@@ -15,8 +15,8 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/opencode-auto-resume v1.0.16](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.16) - 2026/06/23
 * [regolo-ai/regolo-rubberduck v1.0.7](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.7) - 2026/06/22
-* [Mte90/opencode-auto-resume v1.0.15](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.15) - 2026/06/18
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
 * [Mte90/soundkonverter 1.0.0](https://github.com/Mte90/soundkonverter/releases/tag/1.0.0) - 2026/06/17
 * [Mte90/espanso-typofixer 1.0.7](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.7) - 2026/06/15
@@ -28,6 +28,7 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 
 ### New repositories
 <!-- new_repositories starts -->
+* [CodeAtCode/baco-scanner](https://github.com/CodeAtCode/baco-scanner) - 2026/06/23 - A CLI-based security vulnerability scanner that combines static analysis, LLM-powered discovery, and ticket system cross-referencing
 * [Mte90/nccm](https://github.com/Mte90/nccm) - 2026/06/16 (Fork)
 * [Mte90/hub](https://github.com/Mte90/hub) - 2026/06/15 (Fork)
 * [Mte90/MinecraftSplitscreenSteamdeck](https://github.com/Mte90/MinecraftSplitscreenSteamdeck) - 2026/06/10 (Fork)
@@ -35,7 +36,6 @@ A [NeoVim lover](https://github.com/Mte90/dotfiles), [Browser Extension develope
 * [Mte90/langflow](https://github.com/Mte90/langflow) - 2026/05/13 (Fork)
 * [Mte90/GBAtoPy](https://github.com/Mte90/GBAtoPy) - 2026/05/07 - A GBA rom transpiler to pure python
 * [Mte90/AutoGPT](https://github.com/Mte90/AutoGPT) - 2026/05/07 (Fork)
-* [Mte90/kate-agents](https://github.com/Mte90/kate-agents) - 2026/05/04 - Replicate Zed Agents feature in Kate editor
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
