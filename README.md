@@ -18,8 +18,8 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/opencode-auto-resume v1.0.18](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.18) - 2026/07/03
 * [regolo-ai/regolo-rubberduck v1.0.9](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.9) - 2026/06/26
-* [Mte90/opencode-auto-resume v1.0.16](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.16) - 2026/06/23
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
 * [Mte90/soundkonverter 1.0.0](https://github.com/Mte90/soundkonverter/releases/tag/1.0.0) - 2026/06/17
 * [Mte90/espanso-typofixer 1.0.7](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.7) - 2026/06/15
