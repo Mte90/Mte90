@@ -18,7 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume v1.0.18](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.0.18) - 2026/07/03
+* [Mte90/opencode-auto-resume 1.0.23](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.0.23) - 2026/07/07
 * [regolo-ai/regolo-rubberduck v1.0.9](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.9) - 2026/06/26
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
 * [Mte90/soundkonverter 1.0.0](https://github.com/Mte90/soundkonverter/releases/tag/1.0.0) - 2026/06/17
@@ -45,11 +45,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### On my blog
 <!-- blog starts -->
-* [My free software and open source activities of June 2026](https://daniele.tech/2026/07/my-free-software-and-open-source-activities-of-june-2026/) - 2026/07/03
-* [SoundKonverter – How I migrated this old KDE app with AI to Qt6](https://daniele.tech/2026/06/soundkonverter-how-i-migrated-this-old-kde-app-with-ai-to-qt6/) - 2026/06/16
-* [How track AI Chatbots with Matomo in WordPress without plugins](https://daniele.tech/2026/06/how-track-ai-chatbots-with-matomo-in-wordpress-without-plugins/) - 2026/06/15
-* [My free software and open source activities of May 2026](https://daniele.tech/2026/06/my-free-software-and-open-source-activities-of-may-2026/) - 2026/06/03
-* [GBAtoPy – GameBoy Advance Rom Python transpiler](https://daniele.tech/2026/05/gbatopy-gameboy-advance-rom-python-transpiler/) - 2026/05/25
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
