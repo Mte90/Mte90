@@ -18,14 +18,14 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume 1.0.23](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.0.23) - 2026/07/07
+* [CodeAtCode/baco-scanner v1.0.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.0.0) - 2026/07/08
+* [Mte90/opencode-auto-resume 1.0.24](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1) - 2026/07/08
 * [regolo-ai/regolo-rubberduck v1.0.9](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.9) - 2026/06/26
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
 * [Mte90/soundkonverter 1.0.0](https://github.com/Mte90/soundkonverter/releases/tag/1.0.0) - 2026/06/17
 * [Mte90/espanso-typofixer 1.0.7](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.7) - 2026/06/15
 * [Mte90/GlotDict v2.1.6](https://github.com/Mte90/GlotDict/releases/tag/v2.1.6) - 2026/05/25
 * [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
-* [Mte90/ToneCraft 1.0.2](https://github.com/Mte90/ToneCraft/releases/tag/1.0.2) - 2026/03/16
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
