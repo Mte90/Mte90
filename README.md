@@ -18,7 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume 1.1.1](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.1) - 2026/07/09
+* [Mte90/opencode-auto-resume 1.1.2](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.2) - 2026/07/15
 * [CodeAtCode/baco-scanner v1.0.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.0.0) - 2026/07/08
 * [regolo-ai/regolo-rubberduck v1.0.9](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.9) - 2026/06/26
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
@@ -61,7 +61,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1732🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1736🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
