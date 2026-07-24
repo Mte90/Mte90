@@ -18,6 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [CodeAtCode/CodeatCS 1.0.36](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.36) - 2026/07/23
 * [Mte90/opencode-auto-resume 1.1.4](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.4) - 2026/07/21
 * [CodeAtCode/baco-scanner v1.0.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.0.0) - 2026/07/08
 * [regolo-ai/regolo-rubberduck v1.0.9](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.9) - 2026/06/26
@@ -25,7 +26,6 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 * [Mte90/soundkonverter 1.0.0](https://github.com/Mte90/soundkonverter/releases/tag/1.0.0) - 2026/06/17
 * [Mte90/espanso-typofixer 1.0.7](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.7) - 2026/06/15
 * [Mte90/GlotDict v2.1.6](https://github.com/Mte90/GlotDict/releases/tag/v2.1.6) - 2026/05/25
-* [Mte90/GH-License 0.4.0](https://github.com/Mte90/GH-License/releases/tag/0.4.0) - 2026/03/26
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -45,11 +45,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### On my blog
 <!-- blog starts -->
-* [Baco Scanner – Find bugs and security issues with different LLMs](https://daniele.tech/2026/07/baco-scanner-find-bugs-and-security-issues-with-different-llms/) - 2026/07/09
-* [My free software and open source activities of June 2026](https://daniele.tech/2026/07/my-free-software-and-open-source-activities-of-june-2026/) - 2026/07/03
-* [SoundKonverter – How I migrated this old KDE app with AI to Qt6](https://daniele.tech/2026/06/soundkonverter-how-i-migrated-this-old-kde-app-with-ai-to-qt6/) - 2026/06/16
-* [How track AI Chatbots with Matomo in WordPress without plugins](https://daniele.tech/2026/06/how-track-ai-chatbots-with-matomo-in-wordpress-without-plugins/) - 2026/06/15
-* [My free software and open source activities of May 2026](https://daniele.tech/2026/06/my-free-software-and-open-source-activities-of-may-2026/) - 2026/06/03
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
