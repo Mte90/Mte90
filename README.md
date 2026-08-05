@@ -18,9 +18,9 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/opencode-auto-resume 1.1.9](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.9) - 2026/08/04
 * [Mte90/espanso-typofixer 1.0.8](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.8) - 2026/07/24
 * [CodeAtCode/CodeatCS 1.0.36](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.36) - 2026/07/23
-* [Mte90/opencode-auto-resume 1.1.4](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.4) - 2026/07/21
 * [CodeAtCode/baco-scanner v1.0.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.0.0) - 2026/07/08
 * [regolo-ai/regolo-rubberduck v1.0.9](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.9) - 2026/06/26
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
@@ -31,6 +31,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/linus-torvalds-skill](https://github.com/Mte90/linus-torvalds-skill) - 2026/08/04 - Distilled Code Reviewer skills from 32k~ email from the kernel newsletter
 * [Mte90/branded-social-images](https://github.com/Mte90/branded-social-images) - 2026/07/09 (Fork)
 * [CodeAtCode/baco-scanner](https://github.com/CodeAtCode/baco-scanner) - 2026/06/23 - A CLI-based security vulnerability scanner that combines static analysis, LLM-powered discovery, and ticket system cross-referencing
 * [Mte90/nccm](https://github.com/Mte90/nccm) - 2026/06/16 (Fork)
@@ -38,18 +39,13 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 * [Mte90/MinecraftSplitscreenSteamdeck](https://github.com/Mte90/MinecraftSplitscreenSteamdeck) - 2026/06/10 (Fork)
 * [Mte90/soundkonverter](https://github.com/Mte90/soundkonverter) - 2026/05/26 (Fork)
 * [Mte90/langflow](https://github.com/Mte90/langflow) - 2026/05/13 (Fork)
-* [Mte90/GBAtoPy](https://github.com/Mte90/GBAtoPy) - 2026/05/07 - A GBA rom transpiler to pure python
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
 
 ### On my blog
 <!-- blog starts -->
-* [GBAtoPy – 2nd update, Hello World!](https://daniele.tech/2026/07/gbatopy-2nd-update-hello-world/) - 2026/07/24
-* [Baco Scanner – Find bugs and security issues with different LLMs](https://daniele.tech/2026/07/baco-scanner-find-bugs-and-security-issues-with-different-llms/) - 2026/07/09
-* [My free software and open source activities of June 2026](https://daniele.tech/2026/07/my-free-software-and-open-source-activities-of-june-2026/) - 2026/07/03
-* [SoundKonverter – How I migrated this old KDE app with AI to Qt6](https://daniele.tech/2026/06/soundkonverter-how-i-migrated-this-old-kde-app-with-ai-to-qt6/) - 2026/06/16
-* [How track AI Chatbots with Matomo in WordPress without plugins](https://daniele.tech/2026/06/how-track-ai-chatbots-with-matomo-in-wordpress-without-plugins/) - 2026/06/15
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
@@ -65,7 +61,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1745🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1748🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
