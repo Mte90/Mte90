@@ -31,6 +31,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/models.dev](https://github.com/Mte90/models.dev) - 2026/08/05 (Fork)
 * [Mte90/linus-torvalds-skill](https://github.com/Mte90/linus-torvalds-skill) - 2026/08/04 - Distilled Code Reviewer skills from 32k~ email from the kernel newsletter
 * [Mte90/branded-social-images](https://github.com/Mte90/branded-social-images) - 2026/07/09 (Fork)
 * [CodeAtCode/baco-scanner](https://github.com/CodeAtCode/baco-scanner) - 2026/06/23 - A CLI-based security vulnerability scanner that combines static analysis, LLM-powered discovery, and ticket system cross-referencing
@@ -38,7 +39,6 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 * [Mte90/hub](https://github.com/Mte90/hub) - 2026/06/15 (Fork)
 * [Mte90/MinecraftSplitscreenSteamdeck](https://github.com/Mte90/MinecraftSplitscreenSteamdeck) - 2026/06/10 (Fork)
 * [Mte90/soundkonverter](https://github.com/Mte90/soundkonverter) - 2026/05/26 (Fork)
-* [Mte90/langflow](https://github.com/Mte90/langflow) - 2026/05/13 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
