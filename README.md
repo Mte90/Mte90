@@ -18,6 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/linus-torvalds-skill Data - 200826](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-200826) - 2026/08/20
 * [Mte90/opencode-auto-resume 1.1.10](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.10) - 2026/08/10
 * [Mte90/espanso-typofixer 1.0.8](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.8) - 2026/07/24
 * [CodeAtCode/CodeatCS 1.0.36](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.36) - 2026/07/23
@@ -25,7 +26,6 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 * [regolo-ai/regolo-rubberduck v1.0.9](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.9) - 2026/06/26
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
 * [Mte90/soundkonverter 1.0.0](https://github.com/Mte90/soundkonverter/releases/tag/1.0.0) - 2026/06/17
-* [Mte90/GlotDict v2.1.6](https://github.com/Mte90/GlotDict/releases/tag/v2.1.6) - 2026/05/25
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
 
@@ -45,11 +45,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### On my blog
 <!-- blog starts -->
-* [My free software and open source activities of July 2026](https://daniele.tech/2026/08/my-free-software-and-open-source-activities-of-july-2026/) - 2026/08/04
-* [GBAtoPy – 2nd update, Hello World!](https://daniele.tech/2026/07/gbatopy-2nd-update-hello-world/) - 2026/07/24
-* [Baco Scanner – Find bugs and security issues with different LLMs](https://daniele.tech/2026/07/baco-scanner-find-bugs-and-security-issues-with-different-llms/) - 2026/07/09
-* [My free software and open source activities of June 2026](https://daniele.tech/2026/07/my-free-software-and-open-source-activities-of-june-2026/) - 2026/07/03
-* [SoundKonverter – How I migrated this old KDE app with AI to Qt6](https://daniele.tech/2026/06/soundkonverter-how-i-migrated-this-old-kde-app-with-ai-to-qt6/) - 2026/06/16
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
@@ -65,7 +61,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1753🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1755🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
