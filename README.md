@@ -18,12 +18,12 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume 1.1.11](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.11) - 2026/08/24
+* [Mte90/opencode-auto-resume 1.1.12](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.12) - 2026/09/01
+* [regolo-ai/regolo-rubberduck v1.0.10](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.10) - 2026/09/01
 * [Mte90/linus-torvalds-skill Data - 200826](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-200826) - 2026/08/20
 * [Mte90/espanso-typofixer 1.0.8](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.8) - 2026/07/24
 * [CodeAtCode/CodeatCS 1.0.36](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.36) - 2026/07/23
 * [CodeAtCode/baco-scanner v1.0.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.0.0) - 2026/07/08
-* [regolo-ai/regolo-rubberduck v1.0.9](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.9) - 2026/06/26
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
 * [Mte90/soundkonverter 1.0.0](https://github.com/Mte90/soundkonverter/releases/tag/1.0.0) - 2026/06/17
 <!-- recent_releases ends -->
