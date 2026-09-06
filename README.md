@@ -45,11 +45,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### On my blog
 <!-- blog starts -->
-* [My free software and open source activities of August 2026](https://daniele.tech/2026/08/my-free-software-and-open-source-activities-of-august-2026/) - 2026/08/31
-* [My free software and open source activities of July 2026](https://daniele.tech/2026/08/my-free-software-and-open-source-activities-of-july-2026/) - 2026/08/04
-* [GBAtoPy – 2nd update, Hello World!](https://daniele.tech/2026/07/gbatopy-2nd-update-hello-world/) - 2026/07/24
-* [Baco Scanner – Find bugs and security issues with different LLMs](https://daniele.tech/2026/07/baco-scanner-find-bugs-and-security-issues-with-different-llms/) - 2026/07/09
-* [My free software and open source activities of June 2026](https://daniele.tech/2026/07/my-free-software-and-open-source-activities-of-june-2026/) - 2026/07/03
+
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
@@ -65,7 +61,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1759🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1760🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
