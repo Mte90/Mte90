@@ -18,9 +18,9 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume 1.1.13](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.13) - 2026/09/03
+* [Mte90/linus-torvalds-skill data-090926](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-090926) - 2026/09/09
+* [Mte90/opencode-auto-resume 1.1.14](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.14) - 2026/09/09
 * [regolo-ai/regolo-rubberduck v1.0.10](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.10) - 2026/09/01
-* [Mte90/linus-torvalds-skill Data - 200826](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-200826) - 2026/08/20
 * [Mte90/espanso-typofixer 1.0.8](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.8) - 2026/07/24
 * [CodeAtCode/CodeatCS 1.0.36](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.36) - 2026/07/23
 * [CodeAtCode/baco-scanner v1.0.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.0.0) - 2026/07/08
@@ -31,14 +31,14 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/walden](https://github.com/Mte90/walden) - 2026/09/09 (Fork)
+* [Mte90/django-autopay](https://github.com/Mte90/django-autopay) - 2026/09/09 - Recurring / off-session charge extension for django-payments
 * [Mte90/models.dev](https://github.com/Mte90/models.dev) - 2026/08/28 (Fork)
 * [Mte90/linus-torvalds-skill](https://github.com/Mte90/linus-torvalds-skill) - 2026/08/04 - Distilled Code Reviewer skills/soul from 32k~ email from the kernel newsletter
 * [Mte90/branded-social-images](https://github.com/Mte90/branded-social-images) - 2026/07/09 (Fork)
 * [CodeAtCode/baco-scanner](https://github.com/CodeAtCode/baco-scanner) - 2026/06/23 - A CLI-based security vulnerability scanner that combines static analysis, LLM-powered discovery, and ticket system cross-referencing
 * [Mte90/nccm](https://github.com/Mte90/nccm) - 2026/06/16 (Fork)
 * [Mte90/hub](https://github.com/Mte90/hub) - 2026/06/15 (Fork)
-* [Mte90/MinecraftSplitscreenSteamdeck](https://github.com/Mte90/MinecraftSplitscreenSteamdeck) - 2026/06/10 (Fork)
-* [Mte90/soundkonverter](https://github.com/Mte90/soundkonverter) - 2026/05/26 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
