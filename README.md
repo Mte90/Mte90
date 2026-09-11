@@ -18,8 +18,8 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/opencode-auto-resume 1.1.15](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.15) - 2026/09/10
 * [Mte90/linus-torvalds-skill data-090926](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-090926) - 2026/09/09
-* [Mte90/opencode-auto-resume 1.1.14](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.14) - 2026/09/09
 * [regolo-ai/regolo-rubberduck v1.0.10](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.10) - 2026/09/01
 * [Mte90/espanso-typofixer 1.0.8](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.8) - 2026/07/24
 * [CodeAtCode/CodeatCS 1.0.36](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.36) - 2026/07/23
@@ -45,11 +45,11 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### On my blog
 <!-- blog starts -->
+* [Linus Torvalds Skill/Soul or how I distilled the knowledge for code reviews from 32~k emails](https://daniele.tech/2026/09/linus-torvalds-skill-soul-or-how-i-distilled-the-knowledge-for-code-reviews-from-32k-emails/) - 2026/09/10
 * [My free software and open source activities of August 2026](https://daniele.tech/2026/08/my-free-software-and-open-source-activities-of-august-2026/) - 2026/08/31
 * [My free software and open source activities of July 2026](https://daniele.tech/2026/08/my-free-software-and-open-source-activities-of-july-2026/) - 2026/08/04
 * [GBAtoPy – 2nd update, Hello World!](https://daniele.tech/2026/07/gbatopy-2nd-update-hello-world/) - 2026/07/24
 * [Baco Scanner – Find bugs and security issues with different LLMs](https://daniele.tech/2026/07/baco-scanner-find-bugs-and-security-issues-with-different-llms/) - 2026/07/09
-* [My free software and open source activities of June 2026](https://daniele.tech/2026/07/my-free-software-and-open-source-activities-of-june-2026/) - 2026/07/03
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
