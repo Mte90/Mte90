@@ -18,7 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume 1.1.17](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.17) - 2026/09/17
+* [Mte90/opencode-auto-resume 1.1.18](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.18) - 2026/09/21
 * [Mte90/linus-torvalds-skill data-090926](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-090926) - 2026/09/09
 * [regolo-ai/regolo-rubberduck v1.0.10](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.10) - 2026/09/01
 * [Mte90/espanso-typofixer 1.0.8](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.8) - 2026/07/24
@@ -31,6 +31,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/hermes-firefox-bookmarks](https://github.com/Mte90/hermes-firefox-bookmarks) - 2026/09/21 - Hermes plugin to add support to read Firefox bookmarks
 * [Mte90/espanso](https://github.com/Mte90/espanso) - 2026/09/17 (Fork)
 * [Mte90/walden](https://github.com/Mte90/walden) - 2026/09/09 (Fork)
 * [Mte90/django-autopay](https://github.com/Mte90/django-autopay) - 2026/09/09 - Recurring / off-session charge extension for django-payments
@@ -38,18 +39,17 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 * [CodeAtCode/scartoffina](https://github.com/CodeAtCode/scartoffina) - 2026/08/06 - Skill per agenti AI specializzati nella burocrazia italiana
 * [Mte90/linus-torvalds-skill](https://github.com/Mte90/linus-torvalds-skill) - 2026/08/04 - Distilled Code Reviewer skills/soul from 32k~ email from the kernel newsletter
 * [Mte90/branded-social-images](https://github.com/Mte90/branded-social-images) - 2026/07/09 (Fork)
-* [CodeAtCode/baco-scanner](https://github.com/CodeAtCode/baco-scanner) - 2026/06/23 - A CLI-based security vulnerability scanner that combines static analysis, LLM-powered discovery, and ticket system cross-referencing
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
 
 ### On my blog
 <!-- blog starts -->
+* [1TB ext4 hdd was unreadable with the help of ChatGPT now works again](https://daniele.tech/2026/09/1tb-ext4-hdd-was-unreadable-with-the-help-of-chatgpt-now-works-again/) - 2026/09/21
 * [Linus Torvalds Skill/Soul or how I distilled the knowledge for code reviews from 32~k emails](https://daniele.tech/2026/09/linus-torvalds-skill-soul-or-how-i-distilled-the-knowledge-for-code-reviews-from-32k-emails/) - 2026/09/10
 * [My free software and open source activities of August 2026](https://daniele.tech/2026/08/my-free-software-and-open-source-activities-of-august-2026/) - 2026/08/31
 * [My free software and open source activities of July 2026](https://daniele.tech/2026/08/my-free-software-and-open-source-activities-of-july-2026/) - 2026/08/04
 * [GBAtoPy – 2nd update, Hello World!](https://daniele.tech/2026/07/gbatopy-2nd-update-hello-world/) - 2026/07/24
-* [Baco Scanner – Find bugs and security issues with different LLMs](https://daniele.tech/2026/07/baco-scanner-find-bugs-and-security-issues-with-different-llms/) - 2026/07/09
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
