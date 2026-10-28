@@ -18,10 +18,10 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [Mte90/linus-torvalds-skill data-271026](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-271026) - 2026/10/27
 * [Mte90/opencode-auto-resume 1.1.21](https://github.com/Mte90/opencode-auto-resume/releases/tag/1.1.21) - 2026/10/08
 * [CodeAtCode/CodeatCS 1.0.37](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.37) - 2026/10/01
 * [CodeAtCode/baco-scanner v1.1.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.1.0) - 2026/09/29
-* [Mte90/linus-torvalds-skill data-090926](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-090926) - 2026/09/09
 * [regolo-ai/regolo-rubberduck v1.0.10](https://github.com/regolo-ai/regolo-rubberduck/releases/tag/v1.0.10) - 2026/09/01
 * [Mte90/espanso-typofixer 1.0.8](https://github.com/Mte90/espanso-typofixer/releases/tag/1.0.8) - 2026/07/24
 * [regolo-ai/opencode-regolo 1.0.3](https://github.com/regolo-ai/opencode-regolo/releases/tag/1.0.3) - 2026/06/18
