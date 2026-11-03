@@ -18,7 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume v1.2.1](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.1) - 2026/10/30
+* [Mte90/opencode-auto-resume v1.2.2](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.2) - 2026/11/02
 * [Mte90/linus-torvalds-skill data-271026](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-271026) - 2026/10/27
 * [CodeAtCode/CodeatCS 1.0.37](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.37) - 2026/10/01
 * [CodeAtCode/baco-scanner v1.1.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.1.0) - 2026/09/29
@@ -45,11 +45,11 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### On my blog
 <!-- blog starts -->
+* [My free software and open source activities of October 2026](https://daniele.tech/2026/11/my-free-software-and-open-source-activities-of-october-2026/) - 2026/11/02
 * [My free software and open source activities of September 2026](https://daniele.tech/2026/10/my-free-software-and-open-source-activities-of-september-2026/) - 2026/10/05
 * [1TB ext4 hdd was unreadable with the help of ChatGPT now works again](https://daniele.tech/2026/09/1tb-ext4-hdd-was-unreadable-with-the-help-of-chatgpt-now-works-again/) - 2026/09/21
 * [Linus Torvalds Skill/Soul or how I distilled the knowledge for code reviews from 32~k emails](https://daniele.tech/2026/09/linus-torvalds-skill-soul-or-how-i-distilled-the-knowledge-for-code-reviews-from-32k-emails/) - 2026/09/10
 * [My free software and open source activities of August 2026](https://daniele.tech/2026/08/my-free-software-and-open-source-activities-of-august-2026/) - 2026/08/31
-* [My free software and open source activities of July 2026](https://daniele.tech/2026/08/my-free-software-and-open-source-activities-of-july-2026/) - 2026/08/04
 <!-- blog ends -->
 More on [daniele.tech](https://daniele.tech/)
 </td><td valign="top" style="width: 50%;">
@@ -65,7 +65,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1784🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1785🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
