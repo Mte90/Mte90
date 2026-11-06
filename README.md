@@ -18,7 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume v1.2.3](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.3) - 2026/11/04
+* [Mte90/opencode-auto-resume v1.2.5](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.5) - 2026/11/05
 * [Mte90/linus-torvalds-skill data-271026](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-271026) - 2026/10/27
 * [CodeAtCode/CodeatCS 1.0.37](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.37) - 2026/10/01
 * [CodeAtCode/baco-scanner v1.1.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.1.0) - 2026/09/29
@@ -33,8 +33,8 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 <!-- new_repositories starts -->
 * [Mte90/hermes-firefox-bookmarks](https://github.com/Mte90/hermes-firefox-bookmarks) - 2026/09/21 - Hermes plugin to add support to read Firefox bookmarks
 * [Mte90/espanso](https://github.com/Mte90/espanso) - 2026/09/17 (Fork)
-* [Mte90/walden](https://github.com/Mte90/walden) - 2026/09/09 (Fork)
 * [Mte90/django-autopay](https://github.com/Mte90/django-autopay) - 2026/09/09 - Recurring / off-session charge extension for django-payments
+* [Mte90/walden](https://github.com/Mte90/walden) - 2026/09/09 (Fork)
 * [Mte90/models.dev](https://github.com/Mte90/models.dev) - 2026/08/28 (Fork)
 * [CodeAtCode/scartoffina](https://github.com/CodeAtCode/scartoffina) - 2026/08/06 - Skill per agenti AI specializzati nella burocrazia italiana
 * [Mte90/linus-torvalds-skill](https://github.com/Mte90/linus-torvalds-skill) - 2026/08/04 - Distilled Code Reviewer skills/soul from 32k~ email from the kernel newsletter
