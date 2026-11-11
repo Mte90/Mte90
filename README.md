@@ -18,7 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume v1.2.5](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.5) - 2026/11/05
+* [Mte90/opencode-auto-resume v1.2.6](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.6) - 2026/11/10
 * [Mte90/linus-torvalds-skill data-271026](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-271026) - 2026/10/27
 * [CodeAtCode/CodeatCS 1.0.37](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.37) - 2026/10/01
 * [CodeAtCode/baco-scanner v1.1.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.1.0) - 2026/09/29
@@ -65,7 +65,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1788🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1789🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
