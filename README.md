@@ -18,7 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume v1.2.6](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.6) - 2026/11/10
+* [Mte90/opencode-auto-resume v1.2.7](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.7) - 2026/11/19
 * [Mte90/linus-torvalds-skill data-271026](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-271026) - 2026/10/27
 * [CodeAtCode/CodeatCS 1.0.37](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.37) - 2026/10/01
 * [CodeAtCode/baco-scanner v1.1.0](https://github.com/CodeAtCode/baco-scanner/releases/tag/v1.1.0) - 2026/09/29
@@ -31,6 +31,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/decky-nexus](https://github.com/Mte90/decky-nexus) - 2026/11/19 (Fork)
 * [Mte90/hermes-firefox-bookmarks](https://github.com/Mte90/hermes-firefox-bookmarks) - 2026/09/21 - Hermes plugin to add support to read Firefox bookmarks
 * [Mte90/espanso](https://github.com/Mte90/espanso) - 2026/09/17 (Fork)
 * [Mte90/django-autopay](https://github.com/Mte90/django-autopay) - 2026/09/09 - Recurring / off-session charge extension for django-payments
@@ -38,7 +39,6 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 * [Mte90/models.dev](https://github.com/Mte90/models.dev) - 2026/08/28 (Fork)
 * [CodeAtCode/scartoffina](https://github.com/CodeAtCode/scartoffina) - 2026/08/06 - Skill per agenti AI specializzati nella burocrazia italiana
 * [Mte90/linus-torvalds-skill](https://github.com/Mte90/linus-torvalds-skill) - 2026/08/04 - Distilled Code Reviewer skills/soul from 32k~ email from the kernel newsletter
-* [Mte90/branded-social-images](https://github.com/Mte90/branded-social-images) - 2026/07/09 (Fork)
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
@@ -65,7 +65,7 @@ More on [daniele.tech](https://daniele.tech/)
 
 ### Downloads for my book
 <!-- book_stats starts -->
-Latest edition total (GitHub) downloads: <h2>1799🎉!</h2>
+Latest edition total (GitHub) downloads: <h2>1800🎉!</h2>
 <!-- book_stats ends --><br>
 🤌 Thanks to everyone (from 🇮🇹)<br><br>
 Pick your copy clicking on the image above!
