@@ -18,7 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume v.1.2.9](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.9) - 2026/11/23
+* [Mte90/opencode-auto-resume v1.2.10](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.10) - 2026/11/24
 * [Mte90/ToneCraft 1.0.3](https://github.com/Mte90/ToneCraft/releases/tag/1.0.3) - 2026/11/23
 * [Mte90/linus-torvalds-skill data-271026](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-271026) - 2026/10/27
 * [CodeAtCode/CodeatCS 1.0.37](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.37) - 2026/10/01
@@ -31,6 +31,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### New repositories
 <!-- new_repositories starts -->
+* [Mte90/publicdomain-checker](https://github.com/Mte90/publicdomain-checker) - 2026/11/24 - Skill with toolset to evaluate multimedia files for digital rights and uploading them to Wiki Commons
 * [Mte90/decky-nexus](https://github.com/Mte90/decky-nexus) - 2026/11/19 (Fork)
 * [Mte90/hermes-firefox-bookmarks](https://github.com/Mte90/hermes-firefox-bookmarks) - 2026/09/21 - Hermes plugin to add support to read Firefox bookmarks
 * [Mte90/espanso](https://github.com/Mte90/espanso) - 2026/09/17 (Fork)
@@ -38,7 +39,6 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 * [Mte90/walden](https://github.com/Mte90/walden) - 2026/09/09 (Fork)
 * [Mte90/models.dev](https://github.com/Mte90/models.dev) - 2026/08/28 (Fork)
 * [CodeAtCode/scartoffina](https://github.com/CodeAtCode/scartoffina) - 2026/08/06 - Skill per agenti AI specializzati nella burocrazia italiana
-* [Mte90/linus-torvalds-skill](https://github.com/Mte90/linus-torvalds-skill) - 2026/08/04 - Distilled Code Reviewer skills/soul from 32k~ email from the kernel newsletter
 <!-- new_repositories ends -->
 </td></tr>
 <tr><td valign="top" style="width: 50%;">
