@@ -18,7 +18,7 @@ He had an [🇮🇹 podcast](https://daniele.tech/podcast/) about Open Source an
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
-* [Mte90/opencode-auto-resume v1.2.10](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.10) - 2026/11/24
+* [Mte90/opencode-auto-resume v1.2.11](https://github.com/Mte90/opencode-auto-resume/releases/tag/v1.2.11) - 2026/11/26
 * [Mte90/ToneCraft 1.0.3](https://github.com/Mte90/ToneCraft/releases/tag/1.0.3) - 2026/11/23
 * [Mte90/linus-torvalds-skill data-271026](https://github.com/Mte90/linus-torvalds-skill/releases/tag/data-271026) - 2026/10/27
 * [CodeAtCode/CodeatCS 1.0.37](https://github.com/CodeAtCode/CodeatCS/releases/tag/1.0.37) - 2026/10/01
